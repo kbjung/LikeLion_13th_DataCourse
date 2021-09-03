@@ -20,5 +20,5 @@
  + Python
     - [ ] 2021.08.30 ~ 09.03 내용 정리
 
-###허스키
+### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
