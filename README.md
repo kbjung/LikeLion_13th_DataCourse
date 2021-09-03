@@ -18,4 +18,4 @@
  + HTML
     - HTML tag(2021.09.03.) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/test/2021.09.03-test/tag_sort.html)
  + Python
-    - [ ] 2021.08.30 ~ 09.03 내용 정리 
+    - [ ]2021.08.30 ~ 09.03 내용 정리 
