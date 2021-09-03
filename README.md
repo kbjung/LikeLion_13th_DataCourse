@@ -15,4 +15,4 @@
   * my02 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my02.html)
   * my03 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my03.html)
 ## 연습
- * HTML tag [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/test/2021.09.03-test/tag_sort.html)
+ * HTML tag(2021.09.03.) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/test/2021.09.03-test/tag_sort.html)
