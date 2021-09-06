@@ -12,7 +12,7 @@
     - Toy Project - 나의 갤러리[link](https://kbjung.github.io/LikeLion_13th_DataCourse/02_css_gallery/15_my_gallery.html) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/02_css_gallery/15_my_gallery.html)
     - 
 ## 나의 웹페이지 만들기 실습(...)
- + main [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/main.html)
+ + main [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/main.html)
     - my01 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my01.html)
     - my02 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my02.html)
     - my03 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my03.html)
