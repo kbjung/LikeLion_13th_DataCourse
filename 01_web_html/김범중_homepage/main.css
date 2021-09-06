@@ -1,0 +1,23 @@
+p.heading1 {color:green;font-size:50px;text-align:center}
+
+div.welcome {
+border: double black;
+margin:5px;
+padding:10px;
+float:left
+}
+
+div.l1:link {color:blue}
+div.l1:visited {color:green}
+div.l1:active {color:grey}
+div.l1:hover {color:red}
+
+div.l2:link {color:blue}
+div.l2:visited {color:green}
+div.l2:active {color:grey}
+div.l2:hover {color:red}
+
+div.l3:link {color:blue}
+div.l3:visited {color:green}
+div.l3:active {color:grey}
+div.l3:hover {color:red}
