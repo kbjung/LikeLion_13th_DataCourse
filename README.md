@@ -16,7 +16,7 @@
     - my01 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my01.html)
     - my02 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my02.html)
     - my03 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my03.html)
-    - my_gallery [link]()
+    - my_gallery [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
 ## 연습
  + HTML
     - HTML tag(2021.09.03.) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/test/2021.09.03-test/tag_sort.html)
