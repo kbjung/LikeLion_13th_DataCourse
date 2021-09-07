@@ -1,19 +1,53 @@
 <html>
 	<head>
 		<title>내가 좋아하는 것들</title>
+		<meta charset="UTF-8">
+		<style>
+			p.head1 {
+			font-size:40px;
+			text-align:center;
+			margin-top:50px;
+			}
+
+			ul.ul1 {list-style-type:circle}
+
+			div.d1 {
+			width:100%;
+			margin-top:0px
+			}
+
+			div.like {
+			border:none black;
+			width:40%;
+			float:left;
+			margin:5px
+			}
+			div.like img {width:100%}
+		</style>
 	</head>
 	<body>
-		<h2>내가 좋아하는 것들 페이지 입니다.</h2>
+		<p class="head1">내가 좋아하는 것들</p>
 		<a href="main.html">첫 페이지로 돌아가기</a>
-		<ul>
-			<li class="l1"><h3><a href="my01.html">자기소개</a></h3></li><br>
-			<li class="l1"><h3><a href="my03.html">나의 Todolist</a></h3></li><br>
+
+		<ul class="ul1">
+			<li class="l1"><h3><a href="my01.html">자기소개</a></h3></li>
+			<li class="l1"><h3><a href="my03.html">나의 Todolist</a></h3></li>
 			<li class="l1"><h3><a href="15_my_gallery.html">이미지 갤러리</a></h3></li>
 		</ul>
-		<h3>제가 좋아하는 것들은</h3><br>
-		<h4><p style="background-color:orange">달리기</p></h4>
-		<a href="https://unsplash.com/photos/tnNVJd_nrw8" target="_blank"><img src="husky_run.jpg" width = 30%></a><br>
-		<h4><p style="background-color:orange">공 쫒기</p></h4>
-		<a href="https://unsplash.com/photos/EnJ8HMyEspg" target="_blank"><img src="husky_ball.jpg" width = 30%></a><br>		
+
+		<br>
+		<h3>제가 좋아하는 것들은</h3>
+
+		<div class="d1">
+			<div class="like">
+				<h4><p style="background-color:orange">달리기</p></h4>
+				<a href="https://unsplash.com/photos/tnNVJd_nrw8" target="_blank"><img src="husky_run.jpg"></a>
+			</div>
+
+			<div class="like">
+				<h4><p style="background-color:orange">공 쫒기</p></h4>
+				<a href="https://unsplash.com/photos/EnJ8HMyEspg" target="_blank"><img src="husky_ball.jpg"></a>
+			</div>
+		</div>
 	</body>
 </html>
