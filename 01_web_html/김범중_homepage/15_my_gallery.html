@@ -4,13 +4,21 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
+
+        p.p1 {font-size:50px}
+
+        ul.u {list-style-type:circle}
+
         div.gallery {
         border: double skyblue;
         margin:10px;
-        padding:10px;
+        padding:0px;
         /* 공간이 남으면 알아서 자리 정렬 */
         float:left;
+        width:40%
         }
+        /* 이미지만 편집 */
+        div.gallery img {width:100%}
 
         /* 마우스를 올렸을 때 스타일 변경 */
         div.gallery:hover {
@@ -23,34 +31,47 @@
     </style>
 </head>
 <body>
-<!--1-->
-<div class="gallery">
-    <a target="_blank" href="https://unsplash.com/photos/8pb7Hq539Zw">
-        <img src="xps13.jpg" alt="파일이 없습니다." width="400">
-    </a>
-    <div class="desc">내가 갖고 싶은 노트북</div>
-</div>
-<!--2-->
-<div class="gallery">
-    <a target="_blank" href="https://unsplash.com/photos/IorqsMssQH0">
-        <img src="soccer.jpg" alt="파일이 없습니다." width="400">
-    </a>
-    <div class="desc">내가 하고 싶은 운동</div>
-</div>
-<!--3-->
-<div class="gallery">
-    <a target="_blank" href="https://unsplash.com/photos/P1Iz3unD6Po">
-        <img src="pathway.jpg" alt="파일이 없습니다." width="400">
-    </a>
-    <div class="desc"><p style="color:green">걷고 싶은 산책길</p></div>
-</div>
-<!--4-->
-<div class="gallery">
-    <a target="_blank" href="https://unsplash.com/photos/UU7H4SOwEho">
-        <img src="autumn.jpg" alt="파일이 없습니다." width="400">
-    </a>
-    <div class="desc"><p style="color:orange">내가 좋아하는 계절</p></div>
-</div>
 
+    <p class="p1">이미지 갤러리</p>
+
+    <div class="menu">
+    	<ul class="u">
+    		<li class="l1"><h3><a href="my01.html">자기소개</a></h3></li>
+    		<li class="l1"><h3><a href="my02.html">내가 좋아하는 것들</a></h3></li>
+    		<li class="l1"><h3><a href="my03.html">나의 Todolist</a></h3></li>
+    	</ul>
+    </div>
+
+    <!--1-->
+    <div class="gallery">
+        <a target="_blank" href="https://unsplash.com/photos/8pb7Hq539Zw">
+            <img src="xps13.jpg" alt="파일이 없습니다.">
+        </a>
+        <div class="desc">내가 갖고 싶은 노트북</div>
+    </div>
+
+    <!--2-->
+    <div class="gallery">
+        <a target="_blank" href="https://unsplash.com/photos/IorqsMssQH0">
+            <img src="soccer.jpg" alt="파일이 없습니다.">
+        </a>
+        <div class="desc">내가 하고 싶은 운동</div>
+    </div>
+
+    <!--3-->
+    <div class="gallery">
+        <a target="_blank" href="https://unsplash.com/photos/P1Iz3unD6Po">
+            <img src="pathway.jpg" alt="파일이 없습니다.">
+        </a>
+        <div class="desc"><p style="color:green">걷고 싶은 산책길</p></div>
+    </div>
+
+    <!--4-->
+    <div class="gallery">
+        <a target="_blank" href="https://unsplash.com/photos/UU7H4SOwEho">
+            <img src="autumn.jpg" alt="파일이 없습니다.">
+        </a>
+        <div class="desc"><p style="color:orange">내가 좋아하는 계절</p></div>
+    </div>
 </body>
 </html>
