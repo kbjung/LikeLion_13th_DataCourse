@@ -1,11 +1,18 @@
-p.heading1 {color:green;font-size:50px;text-align:center}
+p.heading1 {
+color:green;font-size:50px;text-align:center;
+margin-top:50px
+}
 
 div.welcome {
 border: double black;
 margin:5px;
-padding:10px;
+padding:0px;
 float:left
 }
+
+ul.u {list-style-type:circle}
+
+div.menu {margin-top:20px;margin-bottom:20px;padding:0px}
 
 div.l1:link {color:blue}
 div.l1:visited {color:green}
