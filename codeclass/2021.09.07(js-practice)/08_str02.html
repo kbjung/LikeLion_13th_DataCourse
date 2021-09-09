@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+    function slice() {
+        var txt = document.getElementById("text").value
+        var x = txt.slice(0,5)
+        var l = txt.length
+        alert("이 문장의 단어 개수는 "+ l + "개이고," + "처음부터 5번째까지 단어는" + x + "입니다.")
+        }
+    </script>
+</head>
+<body>
+
+<input id="text">
+<button onclick="slice()">실행</button>
+
+</body>
+</html>

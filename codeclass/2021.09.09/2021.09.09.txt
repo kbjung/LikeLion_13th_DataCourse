@@ -1,0 +1,16 @@
+### 09/09
+# 학습목표
+웹 데이터 수집하는 기본 방법과 실습을 통해 알아봅니다.
+# 수업
+04_Web데이터수집하기 - unit02_01_naver_movie
+04_Web데이터수집하기 - unit02_02_naver_review
+04_Web데이터수집하기 - unit03_selenium
+04_Web데이터수집하기 - unit04_selenium_selector
+04_Web데이터수집하기 - unit05_amazon
+# 09/09
+========================
+(1) 지난시간 리뷰(JS)
+(2) BeautifulSoup에 대해 실습을 통해 이해해본다.
+(3) selenium에 대해 알아보고 실습해 봅니다.
+(4) css selector에 대해 알아봅니다.
+(5) 실습을 통해 알아봅니다.

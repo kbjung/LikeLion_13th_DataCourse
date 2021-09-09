@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<p id="p1">'선택1' 버튼을 누르면 여기의 내용이 변경됩니다.</p>
+<p id="p2">'선택2'버튼을 누르면 변경 됩니다.</p>
+<a>링크 내용</a><br>
+<button onclick="change_content()">선택1</button>
+<button onclick="change_content2()">선택2</button>
+
+<script>
+    function change_content() {
+        // p태그의 요소를 가져와서 내용을 변경하는 한줄 코드
+        document.getElementById("p1").innerHTML = "변경된 내용"
+    }
+    function change_content2() {
+        document.getElementById("p2").innerHTML = "이렇게 바뀝니다."
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+### 09/08
+# 학습목표
+웹 데이터 수집하는 기본 방법과 실습을 통해 알아봅니다.
+# 수업
+04_Web데이터수집하기 - unit01_bs4_basic
+04_Web데이터수집하기 - unit01_bs4_stock
+04_Web데이터수집하기 - unit01_bs4_stock_add
+04_Web데이터수집하기 - unit02_01_naver_movie
+04_Web데이터수집하기 - unit02_02_naver_review
+# 09/08
+========================
+(1) 지난시간 리뷰(JS)
+(2) BeautifulSoup에 대해 실습을 통해 이해해본다.
+(3) 주식 데이터 가져오기를 실습을 통해 알아본다.
+(4) 영화 정보를 가져오기를 직접 실습을 통해 알아본다. (리스트, 영화)
+(5) 여러 페이지를 가져오는 것을 실습해 본다.
+수업 파일
+https://drive.google.com/drive/folders/1K1O8vJhU01crI2bdBMwePqqYUEwiHO6Z?usp=sharing
+실습 파일 공유
+https://drive.google.com/drive/folders/1ahEHx-oanArZZNfT14NypWaUWMggF6Dw?usp=sharing
