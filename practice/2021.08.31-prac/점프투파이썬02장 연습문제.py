@@ -44,7 +44,7 @@ print(li)
 
 # 7. ['Life', 'is', 'too', 'short'] 리스트를 Life is too short 문자열로 만들어 출력해 보자.
 lis= ['Life', 'is', 'too', 'short']
-for i in li:
+for i in lis:
     print(i, end = " ")
 print("")
 
