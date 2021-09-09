@@ -26,7 +26,7 @@ print("KOSDAQ :", KOSDAQ.text)
 KOSDAQ_l = []
 KOSDAQ_l.append(KOSDAQ.text)
 
-	# 6-2 지수 파일 만들기
+# 6-2 지수 파일 만들기
 dat = pd.DataFrame({"시황뉴스": KOSDAQ_l})
 dat.to_csv("20210908_index.csv", index=False)
 
