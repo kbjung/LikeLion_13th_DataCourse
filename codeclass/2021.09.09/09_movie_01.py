@@ -6,38 +6,41 @@ url = "https://movie.naver.com/movie/running/current.naver"
 page = urlopen(url)
 soup = BeautifulSoup(page, "lxml")
 
-# 제대로 불러왔는지 확인
-print(soup.title)
+# # 제대로 불러왔는지 확인
+# print(soup.title)
 
-# 상영작/예정작 제목만 뽑기
+# 초기 정보 필터
 soup_ul_li = soup.find("ul", class_="lst_detail_t1").find_all("li")
 
-# 영화 개수 확인
-print(len(soup_ul_li))
-# 1번째 영화 제목 출력 확인
-print(soup_ul_li[0].find("dt", class_="tit").a.text)
-# 5번째 영화 제목 출력 확인
-print(soup_ul_li[4].find("dt", class_="tit").a.text)
-# 123번째(마지막) 영화 제목 출력 확인
-print(soup_ul_li[122].find("dt", class_="tit").a.text)
-
-# 평점
-# 출력 확인
-print(soup_ul_li[0].find("span", class_="num").text)
-
-# 참여 명수
-# 출력 확인
-print(soup_ul_li[0].find("em").text)
-
-# 예매율
-# print(soup_ul_li[0].find("dl", class_="info_exp").span.text)
-temp = soup_ul_li[122].find("dl", class_="info_exp")
-if temp is not None:
-	t = temp.span.text
-	print("값이 있음.", t)
-else:
-	t = 0
-	print("값이 없음.", t)
+# # 상영작/예정작 제목만 뽑기
+# soup_ul_li = soup.find("ul", class_="lst_detail_t1").find_all("li")
+#
+# # 영화 개수 확인
+# print(len(soup_ul_li))
+# # 1번째 영화 제목 출력 확인
+# print(soup_ul_li[0].find("dt", class_="tit").a.text)
+# # 5번째 영화 제목 출력 확인
+# print(soup_ul_li[4].find("dt", class_="tit").a.text)
+# # 123번째(마지막) 영화 제목 출력 확인
+# print(soup_ul_li[120].find("dt", class_="tit").a.text)
+#
+# # 평점
+# # 출력 확인
+# print(soup_ul_li[0].find("span", class_="num").text)
+#
+# # 참여 명수
+# # 출력 확인
+# print(soup_ul_li[0].find("em").text)
+#
+# # 예매율
+# # print(soup_ul_li[0].find("dl", class_="info_exp").span.text)
+# temp = soup_ul_li[120].find("dl", class_="info_exp")
+# if temp is not None:
+# 	t = temp.span.text
+# 	print("값이 있음.", t)
+# else:
+# 	t = 0
+# 	print("값이 없음.", t)
 
 # # 개요
 # print(soup_ul_li[0].find("span", class_="link_txt").text)
@@ -65,65 +68,77 @@ else:
 # print(len(lst))
 
 # 상영시간(...)
-time = soup_ul_li[0].find("dl", class_="info_txt1").find_all("dd")[0].text
-print(time)
+# info_set = soup_ul_li[0].find("dl", class_="info_txt1").find_all("dd")[0].children
+# time = list(info_set)[-3].strip()
+# print(info_set)
+# print(time)
+# time_lst = []
+# for i in soup_ul_li:
+# 	time = list(i.find("dl", class_="info_txt1").find_all("dd")[0].children)[-3].strip()
+# 	time_lst.append(time)
+# print(len(time_lst))
 
+# 제목, 평점, 참여수, 개요, 감독, 출연
+all_title = []
+all_score = []
+all_people = []
+all_rate = []
+all_category = []
+all_director = []
+all_actor = []
+all_time = []
 
-# # 제목, 평점, 참여수, 개요, 감독, 출연
-# all_title = []
-# all_score = []
-# all_people = []
-# all_rate = []
-# all_category = []
-# all_director = []
-# all_actor = []
-#
-# for one in soup_ul_li:
-# 	title = one.find("dt", class_="tit").a.text
-# 	score = one.find("span", class_="num").text
-# 	num_people = one.find("em").text
-#
-# 	# 예매율
-# 	tmp = one.find("dl", class_="info_exp")
-# 	if tmp is not None:
-# 		rate = tmp.span.text
-# 	else:
-# 		rate = 0
-#
-# 	# 카테고리 빈공간 정리
-# 	category = one.find("span", class_="link_txt").text
-# 	txt_last = category.replace("\n", "")
-# 	txt_last = txt_last.replace("\t", "")
-# 	txt_last = txt_last.replace("\r", "")
-#
-# 	# 감독 빈공간 정리
-# 	director = one.find("dl", class_="info_txt1").find_all("dd")[1].text
-# 	txt_d = director.replace("\n", "")
-# 	txt_d = txt_d.replace("\t", "")
-# 	txt_d = txt_d.replace("\r", "")
-#
-# 	# 출연 빈공간 정리
-# 	actor = one.find("dl", class_="info_txt1").find_all("dd")[-1].text
-# 	txt_a = actor.replace("\n", "")
-# 	txt_a = txt_a.replace("\t", "")
-# 	txt_a = txt_a.replace("\r", "")
-#
-# 	all_title.append(title)
-# 	all_score.append(score)
-# 	all_people.append(num_people)
-# 	all_rate.append(rate)
-# 	all_category.append(txt_last)
-# 	all_director.append(txt_d)
-# 	all_actor.append(txt_a)
-#
-# print(len(all_title),len(all_score), len(all_people),len(all_rate), len(all_category), len(all_director), len(all_actor))
-#
-# # 저장을 위한 csv, xlsx 파일 만들기
-# import pandas as pd
-#
-# dat_dict = {
-# 	"제목" : all_title, "평점" : all_score, "참여 명수" : all_people, "예매율" : all_rate, "개요" : all_category, "감독" : all_director, "출연" : all_actor
-# }
-# dat = pd.DataFrame(dat_dict)
-# dat.to_csv("네이버영화.csv", index=False)
-# dat.to_excel("네이버영화.xlsx", index=False)
+for one in soup_ul_li:
+	# 제목, 평점, 참여수 텍스트화
+	title = one.find("dt", class_="tit").a.text
+	score = one.find("span", class_="num").text
+	num_people = one.find("em").text
+
+	# 예매율
+	tmp = one.find("dl", class_="info_exp")
+	if tmp is not None:
+		rate = tmp.span.text
+	else:
+		rate = 0
+
+	# 카테고리 빈공간 정리
+	category = one.find("span", class_="link_txt").text
+	txt_last = category.replace("\n", "")
+	txt_last = txt_last.replace("\t", "")
+	txt_last = txt_last.replace("\r", "")
+
+	# 감독 빈공간 정리
+	director = one.find("dl", class_="info_txt1").find_all("dd")[1].text
+	txt_d = director.replace("\n", "")
+	txt_d = txt_d.replace("\t", "")
+	txt_d = txt_d.replace("\r", "")
+
+	# 상영 시간 텍스트 화
+	time = list(one.find("dl", class_="info_txt1").find_all("dd")[0].children)[-3].strip()
+
+	# 출연 빈공간 정리
+	actor = one.find("dl", class_="info_txt1").find_all("dd")[-1].text
+	txt_a = actor.replace("\n", "")
+	txt_a = txt_a.replace("\t", "")
+	txt_a = txt_a.replace("\r", "")
+
+	all_title.append(title)
+	all_score.append(score)
+	all_people.append(num_people)
+	all_rate.append(rate)
+	all_category.append(txt_last)
+	all_director.append(txt_d)
+	all_actor.append(txt_a)
+	all_time.append(time)
+
+print(len(all_title),len(all_score), len(all_people),len(all_rate), len(all_category), len(all_director), len(all_actor), len(all_time))
+
+# 저장을 위한 csv, xlsx 파일 만들기
+import pandas as pd
+
+dat_dict = {
+	"제목" : all_title, "평점" : all_score, "참여 명수" : all_people, "예매율" : all_rate, "개요" : all_category, "감독" : all_director, "출연" : all_actor, "상영시간" : all_time
+}
+dat = pd.DataFrame(dat_dict)
+dat.to_csv("네이버영화.csv", index=False)
+dat.to_excel("네이버영화.xlsx", index=False)
