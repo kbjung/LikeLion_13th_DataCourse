@@ -10,18 +10,18 @@
     - 05 summary(background, text color, tooltip, h1-h6 tag) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/05_html_summary.html)
   + CSS 기본 이해
     - Toy Project - 나의 갤러리[link](https://kbjung.github.io/LikeLion_13th_DataCourse/02_css_gallery/15_my_gallery.html) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/02_css_gallery/15_my_gallery.html)
-    - 
+
+
 ## 나의 웹페이지 만들기 실습(...)
  + main [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/main.html) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/main.html)
     - my01 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my01.html)
     - my02 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my02.html)
     - my03 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/%EA%B9%80%EB%B2%94%EC%A4%91_homepage/my03.html)
     - my_gallery [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
-## 연습
- + HTML
-    - HTML tag(2021.09.03.) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/test/2021.09.03-test/tag_sort.html)
- + Python
-    - [ ] 2021.08.30 ~ 09.03 내용 정리
+
+## 영화 댓글 크롤링 연습
+ - 코다 댓글을 파일로 만들기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie.py)
+ - 코다 댓글을 wordcloud를 이용해 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie_vis.py) [이미지](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/myfig2.png)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
