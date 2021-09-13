@@ -32,6 +32,7 @@
   + 웹 크롤링 연습
     - amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.10-prac)
     - 다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
+    - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/04_class.ipynb)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
