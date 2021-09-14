@@ -1,0 +1,26 @@
+### 09/06
+# 학습목표
+- github 계정을 만들어봅니다.
+- github desktop을 설치하고 하나의 파일을 올려봅니다.
+- github commit, push, pull 개념을 알아봅니다.
+- 구글 크롬 브라우저 개발자 도구를 이해하고 간단 실습해 봅니다.
+- html, css 이해하고 실습(첫번째)해 봅니다.
+# 수업
+03_Web기본이해_Github - unit01_github
+03_Web기본이해_Github - unit02_html
+03_Web기본이해_Github - unit03_css
+# 09/06
+========================
+(1) 한주간의 내용 리뷰 및 실습
+(2) CSS 기본 이해
+(3) CSS 기본 실습 - selector
+(4) CSS 기본 실습 - 적용하기(외부, 내부, 한줄)
+(5) CSS 기본 실습 - border_style
+(6) CSS 기본 실습 - Links
+(7) CSS 기본 실습 - 이미지 갤러리 만들어보기
+수업 파일
+https://drive.google.com/drive/folders/1K1O8vJhU01crI2bdBMwePqqYUEwiHO6Z?usp=sharing
+03_Web기본이해_Github - unit03_css
+실습 파일 공유
+https://drive.google.com/drive/folders/1ahEHx-oanArZZNfT14NypWaUWMggF6Dw?usp=sharing
+========================
