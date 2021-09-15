@@ -1,0 +1,22 @@
+### 09/15
+# 학습목표
+- 파이썬 라이브러리인 seaborn에 대해 이해하고 실습해 봅니다.
+- 캐글 데이터 셋인 titanic로 데이터 셋으로 실습해 봅니다.5
+- 파일럿 프로젝트를 정리 및 개선(시각화)를 추가해 봅니다.
+# 수업
+https://drive.google.com/drive/folders/1NtGLbE-1wgt10svcY1ggzxVX6Hl7iBa4?usp=sharing
+06_파이썬라이브러리-unit01_seaborn
+06_파이썬라이브러리-unit02_matplotlib
+# 파일럿 프로젝트 제출 장소
+https://drive.google.com/drive/folders/1k3jFwk_RqjV_Ae_JbXui7XhYzfE1YJi0?usp=sharing
+  - 제출 => py 또는 ipynb
+  - 발표 -> 간단한 ppt 및 github url 주소
+
+# 09/15
+========================
+(1) seaborn에 대해 알아보고 이해하고 실습해 봅니다.
+(2) matplotlib에 대해 알아보고 이해하고 실습해 봅니다.
+(3) 금일 수업 내용 정리
+(4) 프로젝트 수행(7교시)
+수업 파일
+https://drive.google.com/drive/folders/1jIqcrcew10ZR760b-uSR5qWtbO0CS0kV?usp=sharing
