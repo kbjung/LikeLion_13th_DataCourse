@@ -38,7 +38,7 @@
 ## 데이터 분석
   + Kaggle
     - matplotlib, seaborn, numpy 라이브러리 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.ipynb)
-    - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_class.ipynb)
+    - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
