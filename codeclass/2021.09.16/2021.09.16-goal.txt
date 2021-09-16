@@ -1,0 +1,24 @@
+### 09/16
+# 학습목표
+- 파이썬 라이브러리인 pandas의 기본적인 부분을 알아본다.
+- 캘리포니아 데이터 셋을 활용하여 pandas를 실습해 봅니다.
+# 수업
+https://drive.google.com/drive/folders/1NtGLbE-1wgt10svcY1ggzxVX6Hl7iBa4?usp=sharing
+06_파이썬라이브러리 - unit03_pandas_A
+06_파이썬라이브러리 - unit04_pandas_B
+# 파일럿 프로젝트 제출 장소
+https://drive.google.com/drive/folders/1k3jFwk_RqjV_Ae_JbXui7XhYzfE1YJi0?usp=sharing
+  - 제출 => py 또는 ipynb
+  - 발표 -> 간단한 ppt 및 github url 주소
+
+# 09/16
+==================================
+(1) pandas의 기본적인 부분을 알아보고 실습해 봅니다.
+   - 기본 이해
+   - 실습을 통해 알아보기
+(2) 캘리포니아 데이터 셋을 활용한 pandas를 실습해 봅니다.
+   - 그룹화를 하는 것에 대해 알아봅니다.
+   - 그룹화를 한 이후의 시각화를 수행해 봅니다.
+(3) 파일럿 프로젝트 정리 및 확인
+(4) 캐글 입문 - titanic
+==================================
