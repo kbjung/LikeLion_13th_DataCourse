@@ -20,12 +20,12 @@
     - my_gallery [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
 
 ## 크롤링 실습
-  + 코스닥 정보 크롤링 실습
+  + 코스닥 정보 크롤링 실습(2021.09.08)
     - 네이버 금융 코스닥 크롤링 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.08/05_stack_get.py)
-  + 영화 댓글 크롤링 실습
+  + 영화 댓글 크롤링 실습(2021.09.09)
     - 코다 댓글을 파일로 만들기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie.py)
     - 코다 댓글을 wordcloud를 이용해 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie_vis.py) [이미지](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/myfig2.png)
-  + 웹 크롤링 실습
+  + 웹 크롤링 실습(2021.09.10)
     - 영화 댓글을 wordcloud로 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/01_bs_vis.ipynb)
     - selenium 사용 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/02_Selenium%20%EC%82%AC%EC%9A%A9%EB%B2%95.ipynb)
     - amazon 상품 검색 리스트 selenium 이용 crawling [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/03_%EC%95%84%EB%A7%88%EC%A1%B4%20%EC%9B%B9%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
