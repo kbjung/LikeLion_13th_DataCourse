@@ -2,12 +2,12 @@
 # 두 수를 입력받기
 # 두 수의 합, 차, 곱, 나눗셈 출력
 
-def two_make(a, b):
+def two_make(a, b): # a, b : 매개변수
     return a + b, a - b, a * b, a / b
 # return 여러값은 튜플로 저장됨.
 
 # 두수를 입력 받기
-a = int(input("첫번째 숫자를 입력하세요 : "))
+a = int(input("첫번째 숫자를 입력하세요 : ")) # a, b에 입력받는 값은 '인수'라 부른다.
 b = int(input("두번째 숫자를 입력하세요 : "))
 c = two_make(a, b)
 d = ['합', '차', '곱', '나눗셈']

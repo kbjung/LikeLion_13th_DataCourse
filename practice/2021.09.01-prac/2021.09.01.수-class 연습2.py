@@ -5,6 +5,7 @@
 
 class Cal:
     # 생성자(constructor) 설정
+    # 생성자(Constructor)란 객체가 생성될 때 자동으로 호출되는 메서드를 의미한다. 객체에 초깃값을 설정해야 할 필요가 있을 때 사용한다.
     def __init__(s, a, b):
         s.a = a
         s.b = b
