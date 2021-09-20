@@ -6,7 +6,8 @@
   - colab 사용법, 리스트, 딕셔너리, 집합, 튜플, 문자열 포매팅, 인덱싱, 스라이싱, 함수(2021.08.30) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.30/2021.08.30_01_colab.ipynb)
   - 파일 읽고/쓰기, 전역/지역 변수, 램덤함수, 클래스, 예외처리, +시각화 라이브러리(seaborn, matplotlib, numpy)(2021.09.01) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.01/class20210901.ipynb)
   - 클래스, 클래스 로드(2021.09.02) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.02)
-
+    - 파이썬 내장함수(abs(), chr(), zip 등) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.02/fun_pro)
+    - 
 ## 웹의 이해 및 HTML 기본 실습
   + HTML 기본 이해(2021.09.03)
     - 01 title tag [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/web_html/01_html_title.html)
