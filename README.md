@@ -25,8 +25,8 @@
     - my02 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my02.html)
     - my03 [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my03.html)
     - my_gallery [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
-    - 나의 맛집 5개 [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/yangjae.html)
-    - 나의 장소 5개 [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/at_highschool.html)
+    - 나의 맛집 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/yangjae.html)
+    - 나의 장소 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/at_highschool.html)
 
 ## 크롤링 실습
   + 코스닥 정보 크롤링 실습(2021.09.08)
