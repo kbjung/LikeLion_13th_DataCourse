@@ -57,6 +57,6 @@
 
 ## Folium 실습
   - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map.html)
-    - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
+    - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.23/02_folium.ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
