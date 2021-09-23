@@ -56,7 +56,7 @@
     - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.2 code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.2.ipynb) [ver0.3 code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.3.ipynb)
 
 ## Folium 실습
-  - 서울시 공공 자전거 대여소 100개 지도 표시 [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map)
+  - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
