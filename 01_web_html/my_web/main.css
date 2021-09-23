@@ -5,9 +5,10 @@ margin-top:50px
 
 div.welcome {
 border: double black;
-margin:5px;
 padding:0px;
-float:left
+float:left;
+width: 600px;
+margin-left:25%;
 }
 
 ul.u {list-style-type:circle}
