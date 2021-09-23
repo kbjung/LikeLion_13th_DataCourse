@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_941a550603bc49dda3770edb517652fd {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_941a550603bc49dda3770edb517652fd" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_941a550603bc49dda3770edb517652fd = L.map(
+        'map_941a550603bc49dda3770edb517652fd', {
+        center: [37.483961224952466, 127.0366585566519],
+        zoom: 17,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_73c5f4b4e83c48fb85a6514ccce50c90 = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_941a550603bc49dda3770edb517652fd);
+    
+        var marker_4f1dec0fa9b2455cb3ec912c4cd425bf = L.marker(
+            [37.48473289758024, 127.03799397322723],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_941a550603bc49dda3770edb517652fd);
+        
+    
+
+                var icon_cbc6f46914d84e618f5fc04d6d08f679 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'orange',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_4f1dec0fa9b2455cb3ec912c4cd425bf.setIcon(icon_cbc6f46914d84e618f5fc04d6d08f679);
+            
+    
+            var popup_8f569f757ad34df2984a3107f3679dc0 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_9f9c568a6e8f444fac7728b4dcbf93c7 = $(`<div id="html_9f9c568a6e8f444fac7728b4dcbf93c7" style="width: 100.0%; height: 100.0%;">영동족발</div>`)[0];
+                popup_8f569f757ad34df2984a3107f3679dc0.setContent(html_9f9c568a6e8f444fac7728b4dcbf93c7);
+            
+
+            marker_4f1dec0fa9b2455cb3ec912c4cd425bf.bindPopup(popup_8f569f757ad34df2984a3107f3679dc0)
+            ;
+
+            
+        
+    
+        var marker_db2130837e824fbf8d24963f885cfc27 = L.marker(
+            [37.48433236493403, 127.03517720809431],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_941a550603bc49dda3770edb517652fd);
+        
+    
+
+                var icon_2edb163de1da41f19649d0d91bfc7783 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_db2130837e824fbf8d24963f885cfc27.setIcon(icon_2edb163de1da41f19649d0d91bfc7783);
+            
+    
+            var popup_34492bbadde14daf8b389c4a1f9d7866 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_d97691011d854e39a299e3d93337e9c1 = $(`<div id="html_d97691011d854e39a299e3d93337e9c1" style="width: 100.0%; height: 100.0%;">KFC</div>`)[0];
+                popup_34492bbadde14daf8b389c4a1f9d7866.setContent(html_d97691011d854e39a299e3d93337e9c1);
+            
+
+            marker_db2130837e824fbf8d24963f885cfc27.bindPopup(popup_34492bbadde14daf8b389c4a1f9d7866)
+            ;
+
+            
+        
+    
+        var marker_3119896d11c04f3dba8fe24d13503611 = L.marker(
+            [37.4841979968814, 127.03377488460991],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_941a550603bc49dda3770edb517652fd);
+        
+    
+
+                var icon_c2f9df711aa44236956c3f2414202df1 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'black',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_3119896d11c04f3dba8fe24d13503611.setIcon(icon_c2f9df711aa44236956c3f2414202df1);
+            
+    
+            var popup_49ac5de17d974b048df1f33057b160a5 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_e214708f307a4c8c9395763a26d2dbe4 = $(`<div id="html_e214708f307a4c8c9395763a26d2dbe4" style="width: 100.0%; height: 100.0%;">버거킹</div>`)[0];
+                popup_49ac5de17d974b048df1f33057b160a5.setContent(html_e214708f307a4c8c9395763a26d2dbe4);
+            
+
+            marker_3119896d11c04f3dba8fe24d13503611.bindPopup(popup_49ac5de17d974b048df1f33057b160a5)
+            ;
+
+            
+        
+    
+        var marker_befea9be3af84740a5e80bb2ba20e376 = L.marker(
+            [37.48301334017373, 127.03501116926418],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_941a550603bc49dda3770edb517652fd);
+        
+    
+
+                var icon_17ed362dbf25464faedb1e356ad8c1a7 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_befea9be3af84740a5e80bb2ba20e376.setIcon(icon_17ed362dbf25464faedb1e356ad8c1a7);
+            
+    
+            var popup_90b80664efea457fbcb1c2297d1969cf = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0560940665724595b48f0cd25a9e45b9 = $(`<div id="html_0560940665724595b48f0cd25a9e45b9" style="width: 100.0%; height: 100.0%;">산들해</div>`)[0];
+                popup_90b80664efea457fbcb1c2297d1969cf.setContent(html_0560940665724595b48f0cd25a9e45b9);
+            
+
+            marker_befea9be3af84740a5e80bb2ba20e376.bindPopup(popup_90b80664efea457fbcb1c2297d1969cf)
+            ;
+
+            
+        
+    
+        var marker_0ef013a4515d4c19b47027d4d1cea731 = L.marker(
+            [37.48253921004342, 127.03555871159138],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_941a550603bc49dda3770edb517652fd);
+        
+    
+
+                var icon_929fe8b5b582450495ef8fa4eaec344d = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_0ef013a4515d4c19b47027d4d1cea731.setIcon(icon_929fe8b5b582450495ef8fa4eaec344d);
+            
+    
+            var popup_7c67355759184d7aafc538f7e8278c45 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_9014091ddcbc43ea8f2987d79cc56644 = $(`<div id="html_9014091ddcbc43ea8f2987d79cc56644" style="width: 100.0%; height: 100.0%;">디오디아</div>`)[0];
+                popup_7c67355759184d7aafc538f7e8278c45.setContent(html_9014091ddcbc43ea8f2987d79cc56644);
+            
+
+            marker_0ef013a4515d4c19b47027d4d1cea731.bindPopup(popup_7c67355759184d7aafc538f7e8278c45)
+            ;
+
+            
+        
+</script>

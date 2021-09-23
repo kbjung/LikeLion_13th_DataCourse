@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_4b0b36d2b7864f11ad749d762ce00c68 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_4b0b36d2b7864f11ad749d762ce00c68" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_4b0b36d2b7864f11ad749d762ce00c68 = L.map(
+        'map_4b0b36d2b7864f11ad749d762ce00c68', {
+        center: [37.49893869126749, 127.06777430427968],
+        zoom: 14,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_9bc00700b6de4fdc87774b066374b8be = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+    
+        var marker_7f23c4a37a49424f9f36d5110fdcf641 = L.marker(
+            [37.514919963182656, 127.05722678908606],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+        
+    
+
+                var icon_08845663a2524fa49388b0fa42b88161 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'orange',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_7f23c4a37a49424f9f36d5110fdcf641.setIcon(icon_08845663a2524fa49388b0fa42b88161);
+            
+    
+            var popup_00f9e371ec3045e783adb0a1180a2070 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_34f755f0d3524a59962017096de53334 = $(`<div id="html_34f755f0d3524a59962017096de53334" style="width: 100.0%; height: 100.0%;">봉은사</div>`)[0];
+                popup_00f9e371ec3045e783adb0a1180a2070.setContent(html_34f755f0d3524a59962017096de53334);
+            
+
+            marker_7f23c4a37a49424f9f36d5110fdcf641.bindPopup(popup_00f9e371ec3045e783adb0a1180a2070)
+            ;
+
+            
+        
+    
+        var marker_1410e69454e84210879431bb8cdd91e6 = L.marker(
+            [37.51140596617055, 127.05955018937573],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+        
+    
+
+                var icon_aa697c351bbf4673801790778aff5a74 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_1410e69454e84210879431bb8cdd91e6.setIcon(icon_aa697c351bbf4673801790778aff5a74);
+            
+    
+            var popup_c7e4c46f57794a3aba78b444b5d9e584 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0a00d4d365e64bcd9c2ef1cdc563a192 = $(`<div id="html_0a00d4d365e64bcd9c2ef1cdc563a192" style="width: 100.0%; height: 100.0%;">코엑스</div>`)[0];
+                popup_c7e4c46f57794a3aba78b444b5d9e584.setContent(html_0a00d4d365e64bcd9c2ef1cdc563a192);
+            
+
+            marker_1410e69454e84210879431bb8cdd91e6.bindPopup(popup_c7e4c46f57794a3aba78b444b5d9e584)
+            ;
+
+            
+        
+    
+        var marker_d5cbeea4fbda47058c1b2f983917ca51 = L.marker(
+            [37.48513366202933, 127.05946771900054],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+        
+    
+
+                var icon_efc3d480027541db8f0bdb12bc01caf3 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'black',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_d5cbeea4fbda47058c1b2f983917ca51.setIcon(icon_efc3d480027541db8f0bdb12bc01caf3);
+            
+    
+            var popup_4712dd9914d242889772a69185e560d9 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2639db47ad3c41728d01116b0d6aaeb8 = $(`<div id="html_2639db47ad3c41728d01116b0d6aaeb8" style="width: 100.0%; height: 100.0%;">개포고등학교</div>`)[0];
+                popup_4712dd9914d242889772a69185e560d9.setContent(html_2639db47ad3c41728d01116b0d6aaeb8);
+            
+
+            marker_d5cbeea4fbda47058c1b2f983917ca51.bindPopup(popup_4712dd9914d242889772a69185e560d9)
+            ;
+
+            
+        
+    
+        var marker_da1b483317b64603ad7de2a95a9e3b66 = L.marker(
+            [37.496159908868705, 127.08066625390431],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+        
+    
+
+                var icon_d5b730124f35481d997a7cfd81431cac = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_da1b483317b64603ad7de2a95a9e3b66.setIcon(icon_d5b730124f35481d997a7cfd81431cac);
+            
+    
+            var popup_fee516133bc443b9b9ad6bd1fdf73a15 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b8e19dc3361a4a7e866c1f680f775a3d = $(`<div id="html_b8e19dc3361a4a7e866c1f680f775a3d" style="width: 100.0%; height: 100.0%;">마루공원</div>`)[0];
+                popup_fee516133bc443b9b9ad6bd1fdf73a15.setContent(html_b8e19dc3361a4a7e866c1f680f775a3d);
+            
+
+            marker_da1b483317b64603ad7de2a95a9e3b66.bindPopup(popup_fee516133bc443b9b9ad6bd1fdf73a15)
+            ;
+
+            
+        
+    
+        var marker_74c54fe6f9484d749a3f698ec12c89f9 = L.marker(
+            [37.48063828556736, 127.05821704896938],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_4b0b36d2b7864f11ad749d762ce00c68);
+        
+    
+
+                var icon_0058b871a62042858895d47e240af1fd = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_74c54fe6f9484d749a3f698ec12c89f9.setIcon(icon_0058b871a62042858895d47e240af1fd);
+            
+    
+            var popup_b44adea2425d420c80c56d1be8881360 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2b9e4f72052f4223bb17e57d28bcdedd = $(`<div id="html_2b9e4f72052f4223bb17e57d28bcdedd" style="width: 100.0%; height: 100.0%;">개포 1단지 아파트</div>`)[0];
+                popup_b44adea2425d420c80c56d1be8881360.setContent(html_2b9e4f72052f4223bb17e57d28bcdedd);
+            
+
+            marker_74c54fe6f9484d749a3f698ec12c89f9.bindPopup(popup_b44adea2425d420c80c56d1be8881360)
+            ;
+
+            
+        
+</script>
