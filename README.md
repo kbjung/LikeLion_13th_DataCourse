@@ -1,5 +1,5 @@
 # LikeLion_13th_DataCourse
-멋사 13회차 프로젝트 정리 및 발표
+멋사 13회차 프로젝트 정리
 
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [link](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb)
