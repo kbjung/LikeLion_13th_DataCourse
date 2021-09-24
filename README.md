@@ -42,7 +42,7 @@
     - amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.10-prac)
     - 다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
     - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/04_class.ipynb)
-    - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(...)(2021.09.14) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver0.9.ipynb)
+    - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb)
 
 ## 데이터 분석
   + Kaggle
