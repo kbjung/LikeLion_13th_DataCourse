@@ -64,7 +64,7 @@
   - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb)
   - 제출 파일 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/%EA%B9%80%EB%B2%94%EC%A4%91_plotly_0924.ipynb)
 
-## 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
+### 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
