@@ -54,7 +54,7 @@
 
 ## Pandas 실습
   + DataFrame, Series(2021.09.16) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/01_pandas.ipynb)
-    - 데이터 접근(.loc[], .iloc[], 기본[])
+    - 데이터 접근(.loc[ ], .iloc[ ])
     - 조건, 통계
     - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.2-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.2.ipynb) [ver0.3-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.3.ipynb)
     - 데이터 가공 실습(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
