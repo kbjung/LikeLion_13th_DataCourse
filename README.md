@@ -58,15 +58,13 @@
     - 조건, 통계
     - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.2 code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.2.ipynb) [ver0.3 code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.3.ipynb)
     - 데이터 가공 실습(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
-
-## Folium 실습
-  - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map.html)
+  + Folium 실습
+    - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map.html)
     - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.23/02_folium.ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
-
-## Plotly, cufflinks, plotly express 실습(2021.09.24)
-  - 수업 파일1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/01_plotly.ipynb)
-  - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb)
-  - 제출 파일 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/%EA%B9%80%EB%B2%94%EC%A4%91_plotly_0924.ipynb)
+  + Plotly, cufflinks, plotly express 실습(2021.09.24)
+    - 수업 파일1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/01_plotly.ipynb)
+    - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb)
+    - 제출 파일 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/%EA%B9%80%EB%B2%94%EC%A4%91_plotly_0924.ipynb)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
