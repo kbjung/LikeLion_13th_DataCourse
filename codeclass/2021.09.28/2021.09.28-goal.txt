@@ -1,0 +1,16 @@
+### 09/28
+# 학습목표
+- titanic 데이터 셋의 모델을 만들어본다.
+- 모델을 개선시켜가며 데이터 처리를 배워본다.
+# 09/28
+==================================
+(1) 지난 시간 리뷰
+(2) 머신러닝 모델을 개선시켜가며 pandas에 처리와 활용에 대해 알아본다.
+(3) 팀 프로젝트 수행
+==================================
+[수업 자료]
+06_파이썬라이브러리 - unit08_data_project_titanic
+https://drive.google.com/drive/folders/18UcNmvK923FQEVrW9vFqY5Gk7pgdJRLO?usp=sharing
+
+질문QA
+https://docs.google.com/spreadsheets/d/1jrOBLUsMNWexqV7rTzevfczIj2r31m211lX0aiD6jtE/edit?usp=sharing
