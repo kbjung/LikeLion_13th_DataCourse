@@ -2,7 +2,7 @@
 멋사 13회차 프로젝트 정리
 
 ## 파일럿 프로젝트
-  - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14/아이폰 가격 ver1.2.html) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
+  - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14/아이폰_가격_ver1.2.html) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
 ## 팀프로젝트1(2021.09.17~)
   - 월별 승하차 총 승객수(내 작업) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [코드](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/02_지하철월별_승하차인원_그래프.html)
