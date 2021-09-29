@@ -8,7 +8,7 @@
   - 월별 승하차 총 승객수(내 작업) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [코드](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/02_지하철월별_승하차인원_그래프.html)
   - 온라인쇼핑몰상품군별거래액(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1) [코드](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/온라인쇼핑몰상품군별거래액/온라인상품별거래액.html)
   - 공공자전거 이용정보(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4) [코드](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/자전거이용객수.html)
-  - 데이터셋 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb)
+  - 데이터셋 연습(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/dataframe_test(2021.09.29).html)
 
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb)
