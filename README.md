@@ -76,6 +76,9 @@
     - 코로나보드에서 전세계 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/01_world_coronaboard.ipynb)
     - bloomberg에서 전세게 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/02_vaccine_bloomberg.ipynb)
     - 두 개의 데이터셋을 합치기(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/03_merge.ipynb)
+  + 한글 자연어 처리
+    - konlpy, Kkma, Hannanum, Komoran, Okt... [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/01_konlpy.ipynb)
+    - nltk, WordCloud, STOPWORDS...  [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/02_font_visual.ipynb)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
