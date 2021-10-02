@@ -1,7 +1,7 @@
 # 팀 프로젝트 01
 	- 팀명 : 스파게티
 	- 팀 이미지
-	(./기타/iOS 이미지.jpg)
+	![iOS_이미지.jpg](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01//기타/iOS_이미지.jpg)
 	- 팀원 : 김범중, 정진우, 가채원, 윤진훈
 
 ## 주제 : 코로나19에 따른 생활 양상 변화
