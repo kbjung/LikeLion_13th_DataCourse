@@ -1,7 +1,7 @@
 # 팀 프로젝트 01
 	- 팀명 : 스파게티
 	- 팀 이미지
-	<img width="100%" src="https://ndb796.tistory.com/557 [안경잡이개발자]https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg"/> 
+	![image](https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg)
 	- 팀원 : 김범중, 정진우, 가채원, 윤진훈
 
 ## 주제 : 코로나19에 따른 생활 양상 변화
