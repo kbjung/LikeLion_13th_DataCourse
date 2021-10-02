@@ -19,14 +19,6 @@
 ## 팀 프로젝트를 통해 얻고 싶은 것
   + 실제 데이터를 처리하면서 발생하는 많은 문제들을 해결하며 파이썬에 대한 이해도를 높이고, 데이터 처리 능력 향상을 기대합니다.
 
-## 데이터 수집
-  + 코로나 보드 [link](https://coronaboard.kr/)
-  + 공공 데이터 포털 [link](https://www.data.go.kr/)
-  + KOSIS 국가통계포털 [link](https://kosis.kr/index/index.do)
-  + 코로나 라이브 [link](https://corona-live.com/)
-  + 코로나19 보드 [link](http://www.covid19board.kr)
-  + 월별 코로나 확진자 수 변화에 따른 각 생활 양식별 데이터를 모아, 정제합니다.
-
 ## 일정 및 역할 분담
   + 일정
     - ~2021.09.24(금) : 필요한 데이터 크롤링 가능 여부 확인, 테스트.
@@ -37,6 +29,14 @@
     - 정진우 : 자료 수집/가공 및 코드 작성.
     - 가채원 : 코드 작성 및 PPT 작성.
     - 윤진훈 : 코드 작성 및 자료 확인.
+
+## 데이터 수집
+  + 코로나 보드 [link](https://coronaboard.kr/)
+  + 공공 데이터 포털 [link](https://www.data.go.kr/)
+  + KOSIS 국가통계포털 [link](https://kosis.kr/index/index.do)
+  + 코로나 라이브 [link](https://corona-live.com/)
+  + 코로나19 보드 [link](http://www.covid19board.kr)
+  + 월별 코로나 확진자 수 변화에 따른 각 생활 양식별 데이터를 모아, 정제합니다.
 
 ## 분석 자료
   + 코로나 확진자 수 변화 [가채원code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/코로나_확진자_수(가채원).html)
