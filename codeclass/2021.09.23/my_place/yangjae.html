@@ -17,7 +17,7 @@
     
     <meta name="viewport" content="width=device-width,
         initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_941a550603bc49dda3770edb517652fd {
+    <style>#map_a4983f01505a471a85dde2070a601e9a {
         position: relative;
         width: 100.0%;
         height: 100.0%;
@@ -28,7 +28,7 @@
 </head>
 <body>    
     
-    <div class="folium-map" id="map_941a550603bc49dda3770edb517652fd" ></div>
+    <div class="folium-map" id="map_a4983f01505a471a85dde2070a601e9a" ></div>
 </body>
 <script>    
     
@@ -36,8 +36,8 @@
         var bounds = null;
     
 
-    var map_941a550603bc49dda3770edb517652fd = L.map(
-        'map_941a550603bc49dda3770edb517652fd', {
+    var map_a4983f01505a471a85dde2070a601e9a = L.map(
+        'map_a4983f01505a471a85dde2070a601e9a', {
         center: [37.483961224952466, 127.0366585566519],
         zoom: 17,
         maxBounds: bounds,
@@ -49,7 +49,7 @@
 
 
     
-    var tile_layer_73c5f4b4e83c48fb85a6514ccce50c90 = L.tileLayer(
+    var tile_layer_df218f7665c6473d9ae72adb26cd6edb = L.tileLayer(
         'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
         {
         "attribution": null,
@@ -61,175 +61,135 @@
         "opacity": 1,
         "subdomains": "abc",
         "tms": false
-}).addTo(map_941a550603bc49dda3770edb517652fd);
+}).addTo(map_a4983f01505a471a85dde2070a601e9a);
     
-        var marker_4f1dec0fa9b2455cb3ec912c4cd425bf = L.marker(
+        var marker_2ffd08e7d2f14403be67a4a46a7ed767 = L.marker(
             [37.48473289758024, 127.03799397322723],
             {
                 icon: new L.Icon.Default(),
                 }
-            ).addTo(map_941a550603bc49dda3770edb517652fd);
+            ).addTo(map_a4983f01505a471a85dde2070a601e9a);
         
     
 
-                var icon_cbc6f46914d84e618f5fc04d6d08f679 = L.AwesomeMarkers.icon({
+                var icon_91dd3af9d9cc42c28e4986bae4096ef7 = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
                     iconColor: 'white',
                     markerColor: 'orange',
                     prefix: 'glyphicon',
                     extraClasses: 'fa-rotate-0'
                     });
-                marker_4f1dec0fa9b2455cb3ec912c4cd425bf.setIcon(icon_cbc6f46914d84e618f5fc04d6d08f679);
+                marker_2ffd08e7d2f14403be67a4a46a7ed767.setIcon(icon_91dd3af9d9cc42c28e4986bae4096ef7);
             
     
-            var popup_8f569f757ad34df2984a3107f3679dc0 = L.popup({maxWidth: '100%'
-            
-            });
-
-            
-                var html_9f9c568a6e8f444fac7728b4dcbf93c7 = $(`<div id="html_9f9c568a6e8f444fac7728b4dcbf93c7" style="width: 100.0%; height: 100.0%;">영동족발</div>`)[0];
-                popup_8f569f757ad34df2984a3107f3679dc0.setContent(html_9f9c568a6e8f444fac7728b4dcbf93c7);
-            
-
-            marker_4f1dec0fa9b2455cb3ec912c4cd425bf.bindPopup(popup_8f569f757ad34df2984a3107f3679dc0)
-            ;
-
-            
+        marker_2ffd08e7d2f14403be67a4a46a7ed767.bindTooltip(
+            `<div>`
+            + `영동족발` + `</div>`,
+            {"sticky": true}
+        );
         
     
-        var marker_db2130837e824fbf8d24963f885cfc27 = L.marker(
+        var marker_407a90317b7f459b923b7759e43888c6 = L.marker(
             [37.48433236493403, 127.03517720809431],
             {
                 icon: new L.Icon.Default(),
                 }
-            ).addTo(map_941a550603bc49dda3770edb517652fd);
+            ).addTo(map_a4983f01505a471a85dde2070a601e9a);
         
     
 
-                var icon_2edb163de1da41f19649d0d91bfc7783 = L.AwesomeMarkers.icon({
+                var icon_550ce4578dce4909a002b16b06650524 = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
                     iconColor: 'white',
                     markerColor: 'red',
                     prefix: 'glyphicon',
                     extraClasses: 'fa-rotate-0'
                     });
-                marker_db2130837e824fbf8d24963f885cfc27.setIcon(icon_2edb163de1da41f19649d0d91bfc7783);
+                marker_407a90317b7f459b923b7759e43888c6.setIcon(icon_550ce4578dce4909a002b16b06650524);
             
     
-            var popup_34492bbadde14daf8b389c4a1f9d7866 = L.popup({maxWidth: '100%'
-            
-            });
-
-            
-                var html_d97691011d854e39a299e3d93337e9c1 = $(`<div id="html_d97691011d854e39a299e3d93337e9c1" style="width: 100.0%; height: 100.0%;">KFC</div>`)[0];
-                popup_34492bbadde14daf8b389c4a1f9d7866.setContent(html_d97691011d854e39a299e3d93337e9c1);
-            
-
-            marker_db2130837e824fbf8d24963f885cfc27.bindPopup(popup_34492bbadde14daf8b389c4a1f9d7866)
-            ;
-
-            
+        marker_407a90317b7f459b923b7759e43888c6.bindTooltip(
+            `<div>`
+            + `KFC` + `</div>`,
+            {"sticky": true}
+        );
         
     
-        var marker_3119896d11c04f3dba8fe24d13503611 = L.marker(
+        var marker_6449f8af757d4be5b85b95e0a83983f5 = L.marker(
             [37.4841979968814, 127.03377488460991],
             {
                 icon: new L.Icon.Default(),
                 }
-            ).addTo(map_941a550603bc49dda3770edb517652fd);
+            ).addTo(map_a4983f01505a471a85dde2070a601e9a);
         
     
 
-                var icon_c2f9df711aa44236956c3f2414202df1 = L.AwesomeMarkers.icon({
+                var icon_186b44b64cb1484dbc45c6ffa2740d04 = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
                     iconColor: 'white',
                     markerColor: 'black',
                     prefix: 'glyphicon',
                     extraClasses: 'fa-rotate-0'
                     });
-                marker_3119896d11c04f3dba8fe24d13503611.setIcon(icon_c2f9df711aa44236956c3f2414202df1);
+                marker_6449f8af757d4be5b85b95e0a83983f5.setIcon(icon_186b44b64cb1484dbc45c6ffa2740d04);
             
     
-            var popup_49ac5de17d974b048df1f33057b160a5 = L.popup({maxWidth: '100%'
-            
-            });
-
-            
-                var html_e214708f307a4c8c9395763a26d2dbe4 = $(`<div id="html_e214708f307a4c8c9395763a26d2dbe4" style="width: 100.0%; height: 100.0%;">버거킹</div>`)[0];
-                popup_49ac5de17d974b048df1f33057b160a5.setContent(html_e214708f307a4c8c9395763a26d2dbe4);
-            
-
-            marker_3119896d11c04f3dba8fe24d13503611.bindPopup(popup_49ac5de17d974b048df1f33057b160a5)
-            ;
-
-            
+        marker_6449f8af757d4be5b85b95e0a83983f5.bindTooltip(
+            `<div>`
+            + `버거킹` + `</div>`,
+            {"sticky": true}
+        );
         
     
-        var marker_befea9be3af84740a5e80bb2ba20e376 = L.marker(
+        var marker_5c4991246b1744b19c35bacb6a28c58c = L.marker(
             [37.48301334017373, 127.03501116926418],
             {
                 icon: new L.Icon.Default(),
                 }
-            ).addTo(map_941a550603bc49dda3770edb517652fd);
+            ).addTo(map_a4983f01505a471a85dde2070a601e9a);
         
     
 
-                var icon_17ed362dbf25464faedb1e356ad8c1a7 = L.AwesomeMarkers.icon({
+                var icon_728e2b2757ad48e185840885fb02ef34 = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
                     iconColor: 'white',
                     markerColor: 'green',
                     prefix: 'glyphicon',
                     extraClasses: 'fa-rotate-0'
                     });
-                marker_befea9be3af84740a5e80bb2ba20e376.setIcon(icon_17ed362dbf25464faedb1e356ad8c1a7);
+                marker_5c4991246b1744b19c35bacb6a28c58c.setIcon(icon_728e2b2757ad48e185840885fb02ef34);
             
     
-            var popup_90b80664efea457fbcb1c2297d1969cf = L.popup({maxWidth: '100%'
-            
-            });
-
-            
-                var html_0560940665724595b48f0cd25a9e45b9 = $(`<div id="html_0560940665724595b48f0cd25a9e45b9" style="width: 100.0%; height: 100.0%;">산들해</div>`)[0];
-                popup_90b80664efea457fbcb1c2297d1969cf.setContent(html_0560940665724595b48f0cd25a9e45b9);
-            
-
-            marker_befea9be3af84740a5e80bb2ba20e376.bindPopup(popup_90b80664efea457fbcb1c2297d1969cf)
-            ;
-
-            
+        marker_5c4991246b1744b19c35bacb6a28c58c.bindTooltip(
+            `<div>`
+            + `산들해` + `</div>`,
+            {"sticky": true}
+        );
         
     
-        var marker_0ef013a4515d4c19b47027d4d1cea731 = L.marker(
+        var marker_f3147c8a31384a99910f720e9ba41b4e = L.marker(
             [37.48253921004342, 127.03555871159138],
             {
                 icon: new L.Icon.Default(),
                 }
-            ).addTo(map_941a550603bc49dda3770edb517652fd);
+            ).addTo(map_a4983f01505a471a85dde2070a601e9a);
         
     
 
-                var icon_929fe8b5b582450495ef8fa4eaec344d = L.AwesomeMarkers.icon({
+                var icon_436bcc6d12614da6b3d55179dd2bd11f = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
                     iconColor: 'white',
                     markerColor: 'blue',
                     prefix: 'glyphicon',
                     extraClasses: 'fa-rotate-0'
                     });
-                marker_0ef013a4515d4c19b47027d4d1cea731.setIcon(icon_929fe8b5b582450495ef8fa4eaec344d);
+                marker_f3147c8a31384a99910f720e9ba41b4e.setIcon(icon_436bcc6d12614da6b3d55179dd2bd11f);
             
     
-            var popup_7c67355759184d7aafc538f7e8278c45 = L.popup({maxWidth: '100%'
-            
-            });
-
-            
-                var html_9014091ddcbc43ea8f2987d79cc56644 = $(`<div id="html_9014091ddcbc43ea8f2987d79cc56644" style="width: 100.0%; height: 100.0%;">디오디아</div>`)[0];
-                popup_7c67355759184d7aafc538f7e8278c45.setContent(html_9014091ddcbc43ea8f2987d79cc56644);
-            
-
-            marker_0ef013a4515d4c19b47027d4d1cea731.bindPopup(popup_7c67355759184d7aafc538f7e8278c45)
-            ;
-
-            
+        marker_f3147c8a31384a99910f720e9ba41b4e.bindTooltip(
+            `<div>`
+            + `디오디아` + `</div>`,
+            {"sticky": true}
+        );
         
 </script>
