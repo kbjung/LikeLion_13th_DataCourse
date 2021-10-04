@@ -34,6 +34,7 @@
   + 코로나 보드 [link](https://coronaboard.kr/)
   + 공공 데이터 포털 [link](https://www.data.go.kr/)
   + KOSIS 국가통계포털 [link](https://kosis.kr/index/index.do)
+  + 서울 열린 데이터 광장 [link](https://data.seoul.go.kr/)
   + 코로나 라이브 [link](https://corona-live.com/)
   + 코로나19 보드 [link](http://www.covid19board.kr)
   + 월별 코로나 확진자 수 변화에 따른 각 생활 양식별 데이터를 모아, 정제합니다.
