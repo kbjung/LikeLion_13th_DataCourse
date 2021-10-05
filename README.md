@@ -6,7 +6,9 @@
 
 ## 팀프로젝트1(2021.09.17~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
   - 월별 서울시 지하철 승하차 총 승객수(내 작업) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/02_지하철월별_승하차인원_그래프.html)
-  - 월별 서울시 지하철 승하차 총 승객수(내 작업)(2015-2021)(2021.10.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/04_지하철월별_승차인원_그래프.html)
+  - 월별 서울시 지하철 승하차 총 승객수(내 작업)(2015-2021)(2021.10.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/05_지하철월별_승차인원_그래프.html)
+    - csv파일에서 날짜 서식 자동변환 문제, csv파일을 불러오거나 데이터 프레임을 가져와 plotly로 그래프 그릴 때 날짜 인식 문제.
+    - 해결( **'날짜** 형식으로 입력 )
   - 코로나 확진자 수(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/코로나확진자수.html)
   - 온라인쇼핑몰상품군별거래액(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/온라인쇼핑몰상품군별거래액/온라인상품별거래액.html)
   - 서울시 공공자전거 이용정보(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/자전거이용객수.html)
