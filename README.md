@@ -5,10 +5,10 @@
   - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
 ## 팀프로젝트1(2021.09.17~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-  - 월별 서울시 지하철 승하차 총 승객수(내 작업) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/02_지하철월별_승하차인원_그래프.html)
-  + 월별 서울시 지하철 승하차 총 승객수(내 작업)(2015-2021)(2021.10.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/06_지하철월별_승차인원_그래프.html)
+  + 월별 서울시 지하철 승하차 총 승객수(내 작업)(2015-2021)(2021.10.05)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/06_지하철월별_승차인원_그래프.html)
     - csv파일에서 날짜 서식 자동변환 문제, csv파일을 불러오거나 데이터 프레임을 가져와 plotly로 그래프 그릴 때 날짜 인식 문제.
     - 해결( **'날짜** 형식으로 입력 )
+  + 서울시 교통량(내 작업)(2016-2021)(2021.10.07)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B5%90%ED%86%B5%EB%9F%89_%EC%A0%95%EB%B3%B4) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시_교통량_정보/03_traffic.html)
   + 코로나 확진자 수(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/코로나확진자수.html)
     - 코로나 웹 크롤링(구글)(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/06_코로나_웹크롤링(키워드변경).html)
     - 코로나 웹 크롤링(구글)을 시각화하기(topic modeling이용)(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/02_코로나_wordcloud(구글기사)(colab).html)
