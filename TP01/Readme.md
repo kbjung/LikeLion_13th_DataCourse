@@ -43,6 +43,7 @@
   + 코로나 확진자 수 변화 [가채원code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/코로나_확진자_수(가채원).html)
   + 서울시 공공 자전거 이용객 수 변화 [정진우code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/정진우/Team_PRJ_bike20.html)
   + 서울시 지하철 승하차 승객 수 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/김범중/06_지하철월별_승차인원_그래프.html)
+  + 서울시 교통량 변화 [김범중code]()
   + 온라인 상품군별 거래액 변화 [윤진훈code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
   + 분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)
 
@@ -60,7 +61,7 @@
     - 2015-2021년까지 자료를 처리. 2020년 5월부터 인코딩이 'utf-8'로 변경, 데이터셋 만들면 컬럼명이 밀리는 문제.
     - 해결) 2015-2019년, 2020년 1-4월, 2020년 5월-12월, 2021년으로 나누어 처리.
     - 해결중) 2020년 5월부터는 밀린 컬럼 명으로 찾는 값 불러와 해결. 컬럼이 밀리는 이유 찾는 중.
-    - 서울시 교통량 변화 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시 교통량 정보/seoul_traffic/02_traffic.html) 
+    - 서울시 교통량 변화  
   + 온라인 상품군별 거래액 변화(윤진훈)
     - 그래프 y값이 계속 증가하는 그래프만 그려지는 문제.
     - 해결) y축 값을 확인하니 오름차순이 아님을 발견. 문자형으로 인식된다 판단. info, dtype을 이용해 확인한 뒤 자료형을 변환해 해결.
