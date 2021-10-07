@@ -6,8 +6,9 @@
  <img src="https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg" width=30%>
 
 ## 주제 : 코로나19에 따른 생활 양상 변화
-  + 주제 선정 배경 : 코로나 확진자 수가 증가하면 집에서 보내는 시간이 증가하기에 홈트레이닝 시간, 온라인 쇼핑, 재택 근무 시간 등이 증가할 것으로 예상.
-		                하지만, 코로나가 길어짐에 따라 확진자수 변화에 사람들이 점차 둔감해 질 것으로 예상.
+  + 주제 선정 배경 
+  	- 코로나 확진자 수가 증가하면 집에서 보내는 시간이 증가하기에 홈트레이닝 시간, 온라인 쇼핑, 재택 근무 시간 등이 증가할 것으로 예상.
+		  하지만, 코로나가 길어짐에 따라 확진자수 변화에 사람들이 점차 둔감해 질 것으로 예상.
   + 목표 : 실제로 코로나 확진자 수 변화의 영향이 얼마나 되는 지 확인.
 
 ## 가설 및 전략
@@ -43,7 +44,7 @@
   + 코로나 확진자 수 변화 [가채원code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/가채원/코로나_확진자_수(가채원).html)
   + 서울시 공공 자전거 이용객 수 변화 [정진우code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/정진우/Team_PRJ_bike20.html)
   + 서울시 지하철 승하차 승객 수 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/김범중/06_지하철월별_승차인원_그래프.html)
-  + 서울시 교통량 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시_교통량_정보/seoul_traffic/02_traffic.html)
+  + 서울시 교통량 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시_교통량_정보/seoul_traffic/03_traffic.html)
   + 온라인 상품군별 거래액 변화 [윤진훈code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_코드_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
   + 분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)
 
