@@ -4,6 +4,7 @@
 - 팀원 : 김범중, 정진우, 가채원, 윤진훈
 - 팀 이미지
  <img src="https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg" width=30%>
+- 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 
 ## 주제 : 코로나19에 따른 생활 양상 변화
 + 주제 선정 배경
@@ -46,11 +47,10 @@
 + 서울시 지하철 승하차 승객 수 변화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) / [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/김범중/지하철/06_지하철월별_승차인원_그래프.html)
 + 서울시 교통량 변화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B5%90%ED%86%B5%EB%9F%89_%EC%A0%95%EB%B3%B4) / [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/김범중/교통량/03_traffic.html)
 + 온라인 상품군별 거래액 변화 [윤진훈code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
-+ 분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)
-
-## 코딩 테스트
-+ 코로나 확진자 수 변화, 뉴스 웹 크롤링(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98)
-+ 온라인 상품군별 거래액 변화(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1)
++ **분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)**
++ 코딩 테스트
+	- 코로나 확진자 수 변화, 뉴스 웹 크롤링(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98)
+	- 온라인 상품군별 거래액 변화(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1)
 
 ## 주요 이슈
 + 코로나 확진자 수 변화(가채원)
@@ -72,9 +72,6 @@
 + 온라인 상품군별 거래액 변화(윤진훈)
   - 그래프 y값이 계속 증가하는 그래프만 그려지는 문제.
   	- 해결) y축 값을 확인하니 오름차순이 아님을 발견. 문자형으로 인식된다 판단. info, dtype을 이용해 확인한 뒤 자료형을 변환해 해결.
-
-## 발표 자료
-+ 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 
 ## 앞으로 개선 사항(2021.10.01)
 + 확인(2021.10.07)
