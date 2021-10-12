@@ -42,7 +42,7 @@
 
 ## 분석 자료
 + 코로나 확진자 수 변화 [가채원code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/가채원/코로나_확진자_수(가채원).html)
-+ 서울시 공공 자전거 이용객 수 변화 [정진우code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/정진우/Team_PRJ_bike20.html)
++ 서울시 공공 자전거 이용객 수 변화 [폴더](LikeLion_13th_DataCourse/TP01/팀원_자료/정진우/) [정진우code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/정진우/Team_PRJ_bike20.html)
 + 서울시 지하철 승하차 승객 수 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/김범중/지하철/06_지하철월별_승차인원_그래프.html)
 + 서울시 교통량 변화 [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/김범중/교통량/03_traffic.html)
 + 온라인 상품군별 거래액 변화 [윤진훈code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
