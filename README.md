@@ -86,5 +86,7 @@
     - konlpy...(2021.10.05) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.05)
     - topic modeling(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.06/01_topic_modeling(colab).html)
 
+
+- test [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.12/01_ML.ipynb)
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
