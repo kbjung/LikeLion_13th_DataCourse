@@ -83,8 +83,8 @@
   + 한글 자연어 처리
     - konlpy, Kkma, Hannanum, Komoran, Okt...(2021.09.30) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/01_konlpy.ipynb)
     - nltk, WordCloud, STOPWORDS...(2021.09.30) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/02_font_visual.ipynb)
-    - konlpy...(2021.10.05) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.05)
-    - topic modeling(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.06/01_topic_modeling(colab).html)
+    - konlpy...(2021.10.05) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.05) / [code1](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/01_review(colab).html) / [code2](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/02_konlpy(colab).html) / [code3](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/03_test_tesla(colab).html)
+    - topic modeling(2021.10.06) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.06/01_topic_modeling(colab).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.06/01_topic_modeling(colab).html)
 
 ## 머신러닝
   + KNN(2021.10.12) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.12) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/01_ML.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/02_KNN.html)
