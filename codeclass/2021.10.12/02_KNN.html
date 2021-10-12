@@ -14926,8 +14926,8 @@ a.anchor-link {
 <span class="n">y</span> <span class="o">=</span> <span class="n">cancer</span><span class="o">.</span><span class="n">target</span>
 <span class="c1"># stratify : 0과 1 값도 비율에 따라 분류. label 값이 한쪽 값이 너무 작을 때, 랜덤 분류시 한쪽 값만 선택될 수 있으니, </span>
 <span class="c1">#            label 비율도 맞추어 분류.</span>
-<span class="c1"># random_state=77 : 랜덤하게 뽑을 때, 77번째까지만 랜덤으로 뽑고 그 뒤로는 같은 패턴으로 수행. </span>
-<span class="c1">#                매번 랜덤으로 수행하면 중복될 수 있으므로.</span>
+<span class="c1"># random_state=77 : 데이터 셋을 랜덤하게 나눌 때, 난수 초기 값을 고정시킨다. 같은 값이면 같은 결과를 재현가능.</span>
+
 <span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">stratify</span><span class="o">=</span><span class="n">cancer</span><span class="o">.</span><span class="n">target</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">77</span><span class="p">)</span>
 </pre></div>
 
