@@ -2,9 +2,9 @@
 
 - 팀명 : 스파게티
 - 팀원 : 김범중, 정진우, 가채원, 윤진훈
-- 팀 이미지
- <img src="https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg" width=30%>
 - 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
+- 팀 이미지
+<img src="https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg" width=30%>
 
 ## 주제 : 코로나19에 따른 생활 양상 변화
 + 주제 선정 배경
