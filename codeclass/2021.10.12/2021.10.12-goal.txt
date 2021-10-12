@@ -1,0 +1,21 @@
+### 10/12
+# 학습목표
+- 머신러닝 첫 모델을 만들어 봅니다.
+- 머신러닝 기본 용어와 개요를 이해해 봅니다.
+# 10/12
+==================================
+(1) 머신러닝 기본 용어와 개요를 이해해 봅니다.
+(2) 나의 첫 머신러닝 모델을 만들어봅니다.
+1~3 교시 머신러닝 기본
+4~5 교시 머신러닝 기본
+6~7 교시 피드백 정리 및 자료 정리 (자료 제출)
+* 출첵은 중간 중간 나와서 해 주세요.
+구글드라이브
+https://drive.google.com/drive/folders/1cQoiLllG2OHV_g_3sMJb2QEvSmDXNC69?usp=sharing
+자료 링크
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch01_01_ml/ch01_01_ML%EC%9E%85%EB%AC%B8_v12_202111.pdf
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch01_01_ml/ch01_ML%EA%B8%B0%EB%B3%B8_v11_202111.pdf
+실습 링크
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch01_01_ML_start_v11.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_01_knn_code.html
+==================================
