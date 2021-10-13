@@ -88,6 +88,7 @@
 
 ## 머신러닝
   + KNN(2021.10.12) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.12) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/01_ML.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/02_KNN.html)
+  + LR, Lasso, Ridge, 평가지표 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.13/2021.10.13_01_LR.ipynb) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.13/2021.10.13_01_LR.html)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
