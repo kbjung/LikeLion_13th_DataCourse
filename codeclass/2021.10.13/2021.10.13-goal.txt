@@ -1,0 +1,21 @@
+### 10/13
+# 학습목표
+- 회귀 모델에 대해 이해와 실습을 해 봅니다.
+- 릿지와 랏소에 대해 알아봅니다.
+- 의사결정 트리에 대해 알아봅니다.
+# 10/13
+==================================
+(1) 회귀 모델의 이해
+(2) 회귀 모델(릿지, 랏소)의 이해
+(3) 의사결정트리의 이해
+6~7 교시 피드백 정리 및 자료 정리 (자료 제출)
+* 출첵은 중간 중간 나와서 해 주세요.
+구글드라이브
+자료 링크
+회귀, 의사결정트리 : https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch02_01_knn_linear_ppt/ch02_knn_%ED%9A%8C%EA%B7%80_v114_202107.pdf
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_ch02_02_decisiontree/ch02_03_01_decisiontree_v10_2010.pdf
+실습 링크
+회귀 모델
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_02_linear_code_v10.html
+릿지,라소
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_01_03_ridge_lasso.html
