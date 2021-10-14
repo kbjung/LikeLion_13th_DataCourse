@@ -91,6 +91,7 @@
   + LR, Lasso, Ridge, 평가지표(2021.10.13) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.13) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.13/2021.10.13_01_LR.html)
   + DecisionTreeClassifier, Ensemble(RandomForestClassifier)(2021.10.14) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.14)
     - DecisionTreeClassifier [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_01_decisiontree(colab).html)
+    - DecisionTreeClassifier(titanic set) [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_02-decisiontree-titanic.html)
     - RandomForestClassifier [code3(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_03_random_forest(colab).html)
 
 ### 허스키
