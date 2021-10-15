@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_60271b411c6e4a44b3bb0c65ab203e8b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_60271b411c6e4a44b3bb0c65ab203e8b" ></div>
+        
+</body>
+<script>    
+    
+            var map_60271b411c6e4a44b3bb0c65ab203e8b = L.map(
+                "map_60271b411c6e4a44b3bb0c65ab203e8b",
+                {
+                    center: [37.483961224952466, 127.0366585566519],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 17,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7c9625cb5a3e4efba0de82f984376f06 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var marker_72e099a393ac44599a31350e7822c2a2 = L.marker(
+                [37.48473289758024, 127.03799397322723],
+                {}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var icon_ce0228ef68dc4a618697ba11f0b3f1dd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_72e099a393ac44599a31350e7822c2a2.setIcon(icon_ce0228ef68dc4a618697ba11f0b3f1dd);
+        
+    
+            marker_72e099a393ac44599a31350e7822c2a2.bindTooltip(
+                `<div>
+                     영동족발
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4c6d35508565448da8d4071036edc14f = L.marker(
+                [37.48433236493403, 127.03517720809431],
+                {}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var icon_06ad1d2ec08543a180219ac5b34b898c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4c6d35508565448da8d4071036edc14f.setIcon(icon_06ad1d2ec08543a180219ac5b34b898c);
+        
+    
+            marker_4c6d35508565448da8d4071036edc14f.bindTooltip(
+                `<div>
+                     KFC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6e143adb54d44ce99419aad7bd9e49b2 = L.marker(
+                [37.4841979968814, 127.03377488460991],
+                {}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var icon_0feef6eb8e3a40b09b4f3597581d63e4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "black", "prefix": "glyphicon"}
+            );
+            marker_6e143adb54d44ce99419aad7bd9e49b2.setIcon(icon_0feef6eb8e3a40b09b4f3597581d63e4);
+        
+    
+            marker_6e143adb54d44ce99419aad7bd9e49b2.bindTooltip(
+                `<div>
+                     버거킹
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a437458182d54768b2259d2476b9f0ab = L.marker(
+                [37.48301334017373, 127.03501116926418],
+                {}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var icon_6677475e5cb846aaba4935ab78ceadd6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a437458182d54768b2259d2476b9f0ab.setIcon(icon_6677475e5cb846aaba4935ab78ceadd6);
+        
+    
+            marker_a437458182d54768b2259d2476b9f0ab.bindTooltip(
+                `<div>
+                     산들해
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5259a6d2513d4a83b3c202d1da1bb5fa = L.marker(
+                [37.48253921004342, 127.03555871159138],
+                {}
+            ).addTo(map_60271b411c6e4a44b3bb0c65ab203e8b);
+        
+    
+            var icon_637675d19454401ea47d8c5209ed71e4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_5259a6d2513d4a83b3c202d1da1bb5fa.setIcon(icon_637675d19454401ea47d8c5209ed71e4);
+        
+    
+            marker_5259a6d2513d4a83b3c202d1da1bb5fa.bindTooltip(
+                `<div>
+                     디오디아
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
