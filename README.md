@@ -72,7 +72,10 @@
     - 데이터 접근(.loc[ ], .iloc[ ])
     - 조건, 통계
     - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.2-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.2.ipynb) [ver0.3-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.3.ipynb)
-    - 데이터 가공 실습(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
+  + 데이터 가공 실습(pd, seaborn, plt)(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
+    - 2021.09.24 review(pd, sns, plt, folium, wc, plotly) [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.27/01_review.html) 
+    - corona 데이터 가공 [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.27/02_class(corona).html)
+    - titanic 데이터 가공 [code3(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.27/03_class(titanic).html)
   + Folium 실습
     - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map.html)
     - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.23/02_folium(colab).ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
