@@ -82,9 +82,9 @@
     - 제출 파일 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/%EA%B9%80%EB%B2%94%EC%A4%91_plotly_0924.ipynb)
   + 데이터 처리
     - 타이타닉 데이터에서 결측치 처리(2021.09.28) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.28)
-    - 코로나보드에서 전세계 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/01_world_coronaboard.ipynb)
-    - bloomberg에서 전세게 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/02_vaccine_bloomberg.ipynb)
-    - 두 개의 데이터셋을 합치기(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/03_merge.ipynb)
+    - 코로나보드에서 전세계 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/01_world_coronaboard.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.29/01_world_coronaboard.html)
+    - bloomberg에서 전세게 코로나 정보 웹크롤링(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/02_vaccine_bloomberg.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.29/02_vaccine_bloomberg.html)
+    - 두 개의 데이터셋을 합치기(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.29/03_merge.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.29/03_merge.html)
   + 한글 자연어 처리
     - konlpy, Kkma, Hannanum, Komoran, Okt...(2021.09.30) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/01_konlpy(colab).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.30/01_konlpy(colab).html)
     - nltk, WordCloud, STOPWORDS...(2021.09.30) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.30/02_font_visual(colab).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.30/02_font_visual(colab).html)
