@@ -70,7 +70,7 @@
     - 데이터 가공 실습(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
   + Folium 실습
     - 서울시 공공 자전거 대여소 100개 지도 표시(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map.html)
-    - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.23/02_folium.ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
+    - 서울시 공공 자전거 대여소 500개 지도 표시(2021.09.23) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.23/02_folium(colab).ipynb) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
   + Plotly, cufflinks, plotly express 실습(2021.09.24)
     - 수업 파일1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/01_plotly.ipynb)
     - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb)
