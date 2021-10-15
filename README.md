@@ -4,8 +4,8 @@
 ## 파일럿 프로젝트
   - 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)(2021.09.24수정) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
-## 팀프로젝트1(2021.09.17~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-  + 주제 : 코로나19에 따른 생활 양상 변화
+## 팀프로젝트1(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
+  + **주제 : 코로나19에 따른 생활 양상 변화**
   + 월별 서울시 지하철 승하차 총 승객수(2015-2021)(2021.10.05)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/06_지하철월별_승차인원_그래프.html)
   + 서울시 교통량(2016-2021)(2021.10.07)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B5%90%ED%86%B5%EB%9F%89_%EC%A0%95%EB%B3%B4) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시_교통량_정보/03_traffic.html)
   + 코로나 확진자 수(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/코로나확진자수.html)
@@ -16,7 +16,7 @@
     - 데이터셋 연습(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/dataframe_test(2021.09.29).html)
 
 ## 팀 프로젝트 2(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
-  + 주제 : 가스공급량 수요예측 모델개발(Dacon)
+  + **주제 : 가스공급량 수요예측 모델개발(Dacon)**
   + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_02_평가지표(dacon).html)
 
 ## 파이썬 기본 내용
