@@ -14,6 +14,9 @@
   + 서울시 공공자전거 이용정보(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/자전거이용객수.html)
     - 데이터셋 연습(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/dataframe_test(2021.09.29).html)
 
+## 팀 프로젝트 2(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+  + 모델 평가 지표 함수화(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_02_평가지표(dacon).html)
+
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb)
   - colab 사용법, 리스트, 딕셔너리, 집합, 튜플, 문자열 포매팅, 인덱싱, 스라이싱, 함수(2021.08.30) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.30/2021.08.30_01_colab.ipynb)
@@ -94,6 +97,7 @@
     - DecisionTreeClassifier [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_01_decisiontree(colab).html)
     - DecisionTreeClassifier(titanic set) in Kaggle [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_02-decisiontree-titanic.html)
     - RandomForestClassifier [code3(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_03_random_forest(colab).html)
+  + LGBM, 데이콘 대회(가스공급량 수요예측 모델)(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.15/2021.10.15_01_gas_supply(dacon).html)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
