@@ -53,7 +53,7 @@
     - 네이버 금융 코스닥 크롤링 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.08/05_stack_get.py)
   + 영화 댓글 크롤링 실습(2021.09.09)
     - 코다 댓글을 파일로 만들기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie.py)
-    - 코다 댓글을 wordcloud를 이용해 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie_vis.py) [이미지](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/myfig2.png)
+    - 코다 댓글을 wordcloud를 이용해 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/14_movie_vis.py) / [이미지](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.09/kbj_wordcloud/myfig2.png)
   + 웹 크롤링 실습(2021.09.10) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.10)
     - 영화 댓글을 wordcloud로 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/01_bs%2Cwc.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.10/01_bs,wc.html)
     - selenium 사용 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/02_Selenium_%EC%82%AC%EC%9A%A9%EB%B2%95.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.10/02_Selenium_사용법.html)
