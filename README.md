@@ -56,10 +56,13 @@
     - 영화 댓글을 wordcloud로 시각화하기 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/01_bs_vis.ipynb)
     - selenium 사용 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/02_Selenium%20%EC%82%AC%EC%9A%A9%EB%B2%95.ipynb)
     - amazon 상품 검색 리스트 selenium 이용 crawling [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.10/03_%EC%95%84%EB%A7%88%EC%A1%B4%20%EC%9B%B9%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
-  + 웹 크롤링 실습
-    - amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.10-prac)
-    - 다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
-    - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/04_class.ipynb)
+  + 웹 크롤링 연습
+    - <<연습>>amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.10-prac)
+    - <<연습>>다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
+  + 웹 크롤링 실습(2021.09.13) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.13)
+    - 2021.09.10 수업 리뷰 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/01_class_review.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.13/01_class_review.html)
+    - selenium [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/02_selenium.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.13/02_selenium.html)
+    - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/03_class.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.13/03_class.html)
     - **파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력**(2021.09.14작성)(2021.09.24수정) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14) / [ver1.2-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver1.2(pd%2Cplotly).ipynb) / [ver1.2-code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14/아이폰_가격_ver1.2(pd,plotly).html)
 
 ## 데이터 분석(2021.09.15) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.15)
