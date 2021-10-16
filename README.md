@@ -62,10 +62,9 @@
     - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/04_class.ipynb)
     - **파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력**(2021.09.14)(2021.09.24수정) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EA%B0%80%EA%B2%A9%20ver1.2(pd%2C%20plotly).ipynb) [image](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%AA%A8%EB%8D%B8%EB%B3%84%20%EA%B0%80%EA%B2%A9%20%EA%B7%B8%EB%9E%98%ED%94%84.png)
 
-## 데이터 분석
-  + Kaggle
-    - matplotlib, seaborn, numpy 라이브러리 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.ipynb)
-    - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb)
+## 데이터 분석(2021.09.15) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.15)
+  - matplotlib, seaborn, numpy 라이브러리 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.ipynb) / [code(html)]()
+  - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb) [code(html)]()
 
 ## Pandas 실습
   + DataFrame, Series(2021.09.16) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.16) / [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/01_pandas.ipynb)
