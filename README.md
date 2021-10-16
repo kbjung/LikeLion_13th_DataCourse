@@ -68,10 +68,9 @@
     - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb)
 
 ## Pandas 실습
-  + DataFrame, Series(2021.09.16) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/01_pandas.ipynb)
-    - 데이터 접근(.loc[ ], .iloc[ ])
-    - 조건, 통계
-    - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.2-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.2.ipynb) [ver0.3-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.3.ipynb)
+  + DataFrame, Series(2021.09.16) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.16) / [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/01_pandas.ipynb)
+    - 데이터 접근(.loc[ ], .iloc[ ]), 행열 조건 지정 선택, 통계(합, 평균 등)
+    - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.4-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/02_titanic_data_sort_ver0.4.ipynb) / [ver0.4-code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.16/02_titanic_data_sort_ver0.4.html)
   + 데이터 가공 실습(pd, seaborn, plt)(2021.09.27) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.27)
     - 2021.09.24 review(pd, sns, plt, folium, wc, plotly) [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.27/01_review.html) 
     - corona 데이터 가공 [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.27/02_class(corona).html)
