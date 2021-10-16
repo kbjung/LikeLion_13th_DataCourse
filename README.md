@@ -83,8 +83,8 @@
     - 서울시 공공 자전거 대여소 500개 지도 표시 [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/02_folium(colab).html) / [map(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
     - 서울시 공공 화장실 4938개 지도 표시(**주의! 페이지 로드 시간 김.**) [map(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.23/seoul_toilet_4938.html)
   + Plotly, cufflinks, plotly express 실습(2021.09.24)
-    - 수업 파일1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/01_plotly.ipynb) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.24/01_plotly.html)
-    - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.24/02_plotly.html)
+    - 수업 파일1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/01_plotly.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.24/01_plotly.html)
+    - 수업 파일2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/02_plotly.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.24/02_plotly.html)
     - 제출 파일 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.24/%EA%B9%80%EB%B2%94%EC%A4%91_plotly_0924.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.24/김범중_plotly_0924.html)
   + 데이터 처리
     - 타이타닉 데이터에서 결측치 처리(2021.09.28) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.28) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.28/01_titanic.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.28/02_titanic.html)
