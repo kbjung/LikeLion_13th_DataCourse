@@ -108,6 +108,10 @@
     - DecisionTreeClassifier(titanic set) in Kaggle [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_02-decisiontree-titanic.html)
     - RandomForestClassifier [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.14/2021.10.14_03_random_forest(colab).html)
   + LGBM, 데이콘 대회(가스공급량 수요예측 모델)(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.15/2021.10.15_01_gas_supply(dacon).html)
+  + 비지도학습과 데이터 전처리(2021.10.18) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.18)
+    - 지난 주 리뷰(2021.10.12-15) 지도학습 머신러닝 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.18/2021.10.18-01_review(2021.10.12-15).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.18/2021.10.18-01_review(2021.10.12-15).html)
+    - 회귀 모델 실습 (보스턴 집값. Kaggle 자료)(선형회귀, 랜덤포레스트, knn, 평가지표) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.18/2021.10.18-02_ML.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.18/2021.10.18-02_ML.html)
+    - 비지도학습(k-means, DBSCAN), 데이터 전처리(MinMaxScaler, StandardScaler) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.18/2021.10.18-03_%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%EA%B3%BC_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.18/2021.10.18-03_비지도학습과_데이터_전처리.html)
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
