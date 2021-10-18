@@ -21,8 +21,8 @@
 ## 팀 프로젝트 2(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 ### 주제 : 가스공급량 수요예측 모델개발(Dacon)
   + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
-    - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표 함수화(dacon)ver0.1.html)
-    - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표 함수화(dacon)ver0.2.html)
+    - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.1.html)
+    - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.2.html)
 
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [code1](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/01_class.html) / [code2](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/20210827_class_python_basic.ipynb) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/20210827_class_python_basic.html)
