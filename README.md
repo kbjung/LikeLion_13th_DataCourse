@@ -1,6 +1,7 @@
 # LikeLion_13th_DataCourse
 멋사 13회차 프로젝트 정리
 
+
 ## 파일럿 프로젝트 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project))
   + 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)
     - ver0.9.1(2021.09.14) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14(pilot_project)/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver0.9.1(csv_encoding_%EC%84%A4%EC%A0%95%2CX).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14(pilot_project)/아이폰_가격_ver0.9.1(csv_encoding_설정,X).html)
@@ -18,11 +19,15 @@
   + 서울시 공공자전거 이용정보(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/자전거이용객수.html)
     - 데이터셋 연습(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/dataframe_test(2021.09.29).html)
 
+
 ## 팀 프로젝트 2(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 ### 주제 : 가스공급량 수요예측 모델개발(Dacon)
   + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.1.html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.18_01_평가지표_함수화(dacon)ver0.2.html)
+
+---
+---
 
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [code1](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/01_class.html) / [code2](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/20210827_class_python_basic.ipynb) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/20210827_class_python_basic.html)
@@ -30,6 +35,7 @@
   - 파일 읽고/쓰기, 전역/지역 변수, 랜덤함수, 클래스, 예외처리, +시각화 라이브러리(seaborn, matplotlib, numpy)(2021.09.01) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.01/2021.09.01_class.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.01/2021.09.01_class.html)
   - 클래스, 클래스 로드(2021.09.02) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.02)
     - 파이썬 내장함수(.isalpha, abs(), chr(), zip 등) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.02/fun_pro)
+
 
 ## 웹의 이해 및 HTML 기본 실습
   + HTML 기본 이해(2021.09.03)
@@ -41,6 +47,7 @@
   + CSS 기본 이해(2021.09.06)
     - Toy Project - 나의 갤러리[web](https://kbjung.github.io/LikeLion_13th_DataCourse/02_css_gallery/15_my_gallery.html) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/02_css_gallery/15_my_gallery.html)
 
+
 ## 나의 웹페이지 만들기 실습(2021.09.07)
  + main [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/main.html) / [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/main.html)
     - my01 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my01.html)
@@ -49,6 +56,7 @@
     - my_gallery [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
     - 나의 맛집 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/yangjae.html)
     - 나의 장소 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/at_highschool.html)
+
 
 ## 크롤링 실습
   + 코스닥 정보 크롤링 실습(2021.09.08)
@@ -69,9 +77,11 @@
     - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.13/03_class.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.13/03_class.html)
     - **파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력**(2021.09.14작성)(2021.09.24수정) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project)) / [ver1.2-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14(pilot_project)/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver1.2(pd%2Cplotly).ipynb) / [ver1.2-code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
 
+
 ## 데이터 분석(2021.09.15) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.15)
   - matplotlib, seaborn, numpy 라이브러리 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.ipynb) / [code(html)](https://kbjung.github.io//LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.html)
   - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb) / [code(html)](https://kbjung.github.io//LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).html)
+
 
 ## Pandas 실습
   + DataFrame, Series(2021.09.16) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.16) / [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.16/01_pandas.ipynb)
@@ -101,6 +111,7 @@
     - konlpy...(2021.10.05) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.05) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/01_review(colab).html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/02_konlpy(colab).html) / [code3(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.05/03_test_tesla(colab).html)
     - topic modeling(2021.10.06) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.10.06/01_topic_modeling(colab).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.06/01_topic_modeling(colab).html)
 
+
 ## 머신러닝
   + KNN(2021.10.12) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.12) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/01_ML.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.12/02_KNN.html)
   + LinearRegression(2021.10.13) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.13) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.13/2021.10.13_01_LR.html) 
@@ -117,6 +128,8 @@
   + 모델 평가(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19)
     - cross_val_score, KFold [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19/2021.10.19-02_모델_평가.html)
     - titanic 셋으로 실습 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19/2021.10.19-03_모델_평가_실습(titanic).html)
+
+---
 
 ### 허스키
 <img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
