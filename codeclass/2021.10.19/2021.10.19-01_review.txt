@@ -1,0 +1,13 @@
+# 2021.10.18 리뷰
+인공지능
++ 머신러닝
+  - 지도학습
+    - 분류(Classification)
+    - 회귀(Regression)
+  - 비지도학습
+    - 비지도변환
+      - PCIA, TSNE
+    - 군집(clustering)
+      - K-means
+      - DBSCAN
+  - 지도-비지도학습 차이점 : 레이블이 있고 없고
