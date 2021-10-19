@@ -15891,6 +15891,212 @@ memory usage: 39.3+ KB
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="&#45936;&#51060;&#53552;-&#48516;&#54624;-&#51312;&#51221;">&#45936;&#51060;&#53552; &#48516;&#54624; &#51312;&#51221;<a class="anchor-link" href="#&#45936;&#51060;&#53552;-&#48516;&#54624;-&#51312;&#51221;">&#182;</a></h2><ul>
+<li>'Age' : median</li>
+<li>statify 설정</li>
+</ul>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[38]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># 데이터 읽기</span>
+<span class="n">train</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data/train.csv&#39;</span><span class="p">)</span>
+<span class="n">test</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data/test.csv&#39;</span><span class="p">)</span>
+<span class="c1"># 결측값 채우기(Age)</span>
+<span class="n">train</span><span class="o">.</span><span class="n">Age</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">median</span><span class="p">())</span>
+<span class="n">test</span><span class="o">.</span><span class="n">Age</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">median</span><span class="p">())</span>
+<span class="c1"># 결측값 채우기(Embarked)</span>
+<span class="n">train</span><span class="o">.</span><span class="n">Embarked</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Embarked</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;S&#39;</span><span class="p">)</span>
+<span class="n">test</span><span class="o">.</span><span class="n">Embarked</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Embarked</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;S&#39;</span><span class="p">)</span>
+<span class="c1"># 데이터 수치형으로 변환(Sex)</span>
+<span class="n">train</span><span class="p">[</span><span class="s1">&#39;Sex_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Sex</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;male&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;female&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">})</span>
+<span class="n">test</span><span class="p">[</span><span class="s1">&#39;Sex_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Sex</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;male&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;female&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">})</span>
+<span class="c1"># 데이터 수치형으로 변환(Embarked)</span>
+<span class="n">train</span><span class="p">[</span><span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="s1">&#39;Embarked&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;S&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span> <span class="s1">&#39;Q&#39;</span><span class="p">:</span><span class="mi">3</span><span class="p">})</span>
+<span class="n">test</span><span class="p">[</span><span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">test</span><span class="p">[</span><span class="s1">&#39;Embarked&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;S&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span> <span class="s1">&#39;Q&#39;</span><span class="p">:</span><span class="mi">3</span><span class="p">})</span>
+<span class="c1"># 데이터 특성 선택 및 분할</span>
+<span class="n">sel</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Pclass&#39;</span><span class="p">,</span> <span class="s1">&#39;Age&#39;</span><span class="p">,</span> <span class="s1">&#39;Sex_n&#39;</span><span class="p">,</span> <span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="n">sel</span><span class="p">]</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="s1">&#39;Survived&#39;</span><span class="p">]</span>
+<span class="c1"># 모델 생성</span>
+<span class="n">knn</span> <span class="o">=</span> <span class="n">KNeighborsClassifier</span><span class="p">()</span>
+<span class="c1"># test_size 변경</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">):</span>
+    <span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">stratify</span><span class="o">=</span><span class="n">y</span><span class="p">,</span> <span class="n">test_size</span> <span class="o">=</span> <span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">10</span><span class="p">),</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+    <span class="c1"># 모델 훈련</span>
+    <span class="n">knn</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span>  <span class="n">y_train</span><span class="p">)</span>
+    <span class="c1"># kfold = KFold(n_splits=cv 개수, shuffle=샘플을 섞는 여부)</span>
+    <span class="n">kfold</span> <span class="o">=</span> <span class="n">KFold</span><span class="p">(</span><span class="n">n_splits</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="c1"># scores = cross_val_score(모델 객체, 입력, 결과, cv = cross_validation 개수)</span>
+    <span class="n">score</span> <span class="o">=</span> <span class="n">cross_val_score</span><span class="p">(</span><span class="n">knn</span><span class="p">,</span> <span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">kfold</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;훈련 : 테스트 = </span><span class="si">{</span><span class="mi">10</span><span class="o">-</span><span class="n">i</span><span class="si">}</span><span class="s2"> : </span><span class="si">{</span><span class="n">i</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;교차 검증 점수 : </span><span class="si">{</span><span class="n">score</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;교자 검증 점수 평균 :&quot;</span><span class="p">,</span> <span class="n">score</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span>
+    <span class="nb">print</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+<pre>훈련 : 테스트 = 9 : 1
+교차 검증 점수 : [0.75977654 0.78651685 0.7247191  0.80898876 0.7752809 ]
+교자 검증 점수 평균 : 0.7710564308580754
+
+훈련 : 테스트 = 8 : 2
+교차 검증 점수 : [0.79329609 0.7247191  0.78089888 0.7752809  0.73595506]
+교자 검증 점수 평균 : 0.7620300043939489
+
+훈련 : 테스트 = 7 : 3
+교차 검증 점수 : [0.75418994 0.74719101 0.76404494 0.78651685 0.74719101]
+교자 검증 점수 평균 : 0.7598267528717596
+
+훈련 : 테스트 = 6 : 4
+교차 검증 점수 : [0.77094972 0.83146067 0.78089888 0.73033708 0.74719101]
+교자 검증 점수 평균 : 0.7721674722239659
+
+훈련 : 테스트 = 5 : 5
+교차 검증 점수 : [0.78212291 0.74719101 0.83146067 0.76966292 0.76404494]
+교자 검증 점수 평균 : 0.7788964911179461
+
+</pre>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="RandomForest-&#47784;&#45944;">RandomForest &#47784;&#45944;<a class="anchor-link" href="#RandomForest-&#47784;&#45944;">&#182;</a></h2><ul>
+<li>Age : median</li>
+<li>statify 설정</li>
+</ul>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[40]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.ensemble</span> <span class="kn">import</span> <span class="n">RandomForestClassifier</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[41]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># 데이터 읽기</span>
+<span class="n">train</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data/train.csv&#39;</span><span class="p">)</span>
+<span class="n">test</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data/test.csv&#39;</span><span class="p">)</span>
+<span class="c1"># 결측값 채우기(Age)</span>
+<span class="n">train</span><span class="o">.</span><span class="n">Age</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">median</span><span class="p">())</span>
+<span class="n">test</span><span class="o">.</span><span class="n">Age</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="n">train</span><span class="o">.</span><span class="n">Age</span><span class="o">.</span><span class="n">median</span><span class="p">())</span>
+<span class="c1"># 결측값 채우기(Embarked)</span>
+<span class="n">train</span><span class="o">.</span><span class="n">Embarked</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Embarked</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;S&#39;</span><span class="p">)</span>
+<span class="n">test</span><span class="o">.</span><span class="n">Embarked</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Embarked</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;S&#39;</span><span class="p">)</span>
+<span class="c1"># 데이터 수치형으로 변환(Sex)</span>
+<span class="n">train</span><span class="p">[</span><span class="s1">&#39;Sex_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">train</span><span class="o">.</span><span class="n">Sex</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;male&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;female&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">})</span>
+<span class="n">test</span><span class="p">[</span><span class="s1">&#39;Sex_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">test</span><span class="o">.</span><span class="n">Sex</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;male&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;female&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">})</span>
+<span class="c1"># 데이터 수치형으로 변환(Embarked)</span>
+<span class="n">train</span><span class="p">[</span><span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="s1">&#39;Embarked&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;S&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span> <span class="s1">&#39;Q&#39;</span><span class="p">:</span><span class="mi">3</span><span class="p">})</span>
+<span class="n">test</span><span class="p">[</span><span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">test</span><span class="p">[</span><span class="s1">&#39;Embarked&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">map</span><span class="p">({</span><span class="s1">&#39;S&#39;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span> <span class="s1">&#39;Q&#39;</span><span class="p">:</span><span class="mi">3</span><span class="p">})</span>
+<span class="c1"># 데이터 특성 선택 및 분할</span>
+<span class="n">sel</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Pclass&#39;</span><span class="p">,</span> <span class="s1">&#39;Age&#39;</span><span class="p">,</span> <span class="s1">&#39;Sex_n&#39;</span><span class="p">,</span> <span class="s1">&#39;Embarked_n&#39;</span><span class="p">]</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="n">sel</span><span class="p">]</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">train</span><span class="p">[</span><span class="s1">&#39;Survived&#39;</span><span class="p">]</span>
+<span class="c1"># 모델 생성</span>
+<span class="n">rf_c</span> <span class="o">=</span> <span class="n">RandomForestClassifier</span><span class="p">()</span>
+<span class="c1"># test_size 변경</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">):</span>
+    <span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">stratify</span><span class="o">=</span><span class="n">y</span><span class="p">,</span> <span class="n">test_size</span> <span class="o">=</span> <span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">10</span><span class="p">),</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+    <span class="c1"># 모델 훈련</span>
+    <span class="n">rf_c</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span>  <span class="n">y_train</span><span class="p">)</span>
+    <span class="c1"># kfold = KFold(n_splits=cv 개수, shuffle=샘플을 섞는 여부)</span>
+    <span class="n">kfold</span> <span class="o">=</span> <span class="n">KFold</span><span class="p">(</span><span class="n">n_splits</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+    <span class="c1"># scores = cross_val_score(모델 객체, 입력, 결과, cv = cross_validation 개수)</span>
+    <span class="n">score</span> <span class="o">=</span> <span class="n">cross_val_score</span><span class="p">(</span><span class="n">rf_c</span><span class="p">,</span> <span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">kfold</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;훈련 : 테스트 = </span><span class="si">{</span><span class="mi">10</span><span class="o">-</span><span class="n">i</span><span class="si">}</span><span class="s2"> : </span><span class="si">{</span><span class="n">i</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;교차 검증 점수 : </span><span class="si">{</span><span class="n">score</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;교자 검증 점수 평균 :&quot;</span><span class="p">,</span> <span class="n">score</span><span class="o">.</span><span class="n">mean</span><span class="p">())</span>
+    <span class="nb">print</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+<pre>훈련 : 테스트 = 9 : 1
+교차 검증 점수 : [0.77094972 0.78089888 0.80337079 0.79775281 0.82022472]
+교자 검증 점수 평균 : 0.7946393823363254
+
+훈련 : 테스트 = 8 : 2
+교차 검증 점수 : [0.75418994 0.81460674 0.80898876 0.81460674 0.79775281]
+교자 검증 점수 평균 : 0.7980290000627706
+
+훈련 : 테스트 = 7 : 3
+교차 검증 점수 : [0.79888268 0.79213483 0.80337079 0.83146067 0.79213483]
+교자 검증 점수 평균 : 0.8035967610319503
+
+훈련 : 테스트 = 6 : 4
+교차 검증 점수 : [0.75418994 0.86516854 0.80337079 0.76966292 0.76966292]
+교자 검증 점수 평균 : 0.7924110225346809
+
+훈련 : 테스트 = 5 : 5
+교차 검증 점수 : [0.81005587 0.81460674 0.79775281 0.80898876 0.80898876]
+교자 검증 점수 평균 : 0.8080785889146946
+
+</pre>
+</div>
+</div>
+
+</div>
+
+</div>
+
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
