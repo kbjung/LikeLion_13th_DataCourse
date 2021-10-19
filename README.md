@@ -9,9 +9,10 @@
 
 
 ## 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
-  + 타이타닉 생존자 예측 모델 만들기
-    - 데이터 셋 전처리 및 모델 테스트 ver0.1(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
-    - 데이터 셋 전처리 및 모델 테스트 ver0.2(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
+### 타이타닉 생존자 예측 모델 만들기
+  + 데이터 셋 전처리 및 모델 테스트 
+    - ver0.1(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
+    - ver0.2(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
 
 
 ## 팀프로젝트1(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
