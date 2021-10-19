@@ -3,7 +3,7 @@
 - 팀원 : 가채원, 김범중, 김진연
 - 발표 자료 PDF
 - 팀 이미지
-<img src="https://user-images.githubusercontent.com/88702587/137455740-340c287b-8002-459b-afe5-50267803347b.png" width=40%>
+<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=40%>
     
 ## 주제 : 가스공급량 수요예측 모델개발(Dacon)
 + 목표 : 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
