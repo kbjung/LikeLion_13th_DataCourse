@@ -128,7 +128,7 @@
   + 모델 평가(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19(%2Bpilot_project_%EC%A4%80%EB%B9%84))
     - cross_val_score, KFold [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(%2Bpilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-02_모델_평가.html)
     - titanic 셋으로 실습 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(%2Bpilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-03_모델_평가_실습(titanic).html)
-    - 로지스틱 회귀 모델, 오차행렬 [code(html)]((https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(%2Bpilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-04_이진분류_평가지표.html)
+    - 로지스틱 회귀 모델, 오차행렬 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(%2Bpilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-04_이진분류_평가지표.html)
 
 ---
 
