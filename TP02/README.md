@@ -14,4 +14,6 @@
   - 외부 데이터(날짜, 시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 
 ## 자료 분석
-+ 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화(2021.10.15)(김범중) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_02_평가지표(dacon).html)
+  + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화(2021.10.15)(김범중)
+    - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.1.html)
+    - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.18_01_평가지표_함수화(dacon)ver0.2.html)
