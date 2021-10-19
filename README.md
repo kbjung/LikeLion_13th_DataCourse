@@ -2,10 +2,16 @@
 멋사 13회차 프로젝트 정리
 
 
-## 파일럿 프로젝트 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project))
-  + 파일럿 프로젝트1) 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)
+## 파일럿 프로젝트1 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project))
+  + 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14)
     - ver0.9.1(2021.09.14) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14(pilot_project)/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver0.9.1(csv_encoding_%EC%84%A4%EC%A0%95%2CX).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14(pilot_project)/아이폰_가격_ver0.9.1(csv_encoding_설정,X).html)
     - ver1.2(2021.09.24) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14(pilot_project)/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver1.2(pd%2Cplotly).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
+
+
+## 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
+  + 타이타닉 생존자 예측 모델 만들기
+    - 데이터 셋 전처리 및 모델 테스트 ver0.1(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
+    - 데이터 셋 전처리 및 모델 테스트 ver0.2(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
 
 
 ## 팀프로젝트1(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
