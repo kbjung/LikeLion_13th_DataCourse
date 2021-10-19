@@ -1,5 +1,5 @@
 # 팀 프로젝트 02(2021.10.15 ~ ) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
-- 팀명 : 주(酒)님
+- 팀명 : 으샤으샤
 - 팀원 : 가채원, 김범중, 김진연
 - 발표 자료 PDF
 - 팀 이미지
