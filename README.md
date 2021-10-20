@@ -8,9 +8,9 @@
     - ver1.2(2021.09.24) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.14(pilot_project)/%EC%95%84%EC%9D%B4%ED%8F%B0_%EA%B0%80%EA%B2%A9_ver1.2(pd%2Cplotly).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
 
 
-## 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
+## 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.20(pilot_project))
 ### 타이타닉 생존자 예측 모델 만들기
-  + 데이터 셋 전처리 및 모델 테스트 
+  + 데이터 셋 전처리 및 모델 테스트 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
     - ver0.1(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
     - ver0.2(2021.10.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
   + 01. 데이터 탐색 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_01_데이터_탐색(titanic).html)
