@@ -7,13 +7,13 @@
   2. 타이타닉 생존자 예측 모델 만들기(2021.10.20) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.20(pilot_project))
 
 
-## 팀프로젝트1 
+## 팀프로젝트
   1. 코로나19에 따른 생활 양상 변화(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
   2. 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
 
 ---
----
+
 
 ## 파이썬 기본 내용
   - 자료형, 연산자, 비교 연산자, 조건문, print함수(2021.08.27) [code1](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/01_class.ipynb) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/01_class.html) / [code2](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.08.27/20210827_class_python_basic.ipynb) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.08.27/20210827_class_python_basic.html)
