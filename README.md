@@ -7,23 +7,10 @@
   2. 타이타닉 생존자 예측 모델 만들기(2021.10.20) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.20(pilot_project))
 
 
-## 팀프로젝트1(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-### 주제 : 코로나19에 따른 생활 양상 변화
-  + 월별 서울시 지하철 승하차 총 승객수(2015-2021)(2021.10.05)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/06_지하철월별_승차인원_그래프.html)
-  + 서울시 교통량(2016-2021)(2021.10.07)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B5%90%ED%86%B5%EB%9F%89_%EC%A0%95%EB%B3%B4) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/서울시_교통량_정보/03_traffic.html)
-  + 코로나 확진자 수(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/01_코로나확진자수.html)
-    - 코로나 웹 크롤링(구글)(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/06_코로나_웹크롤링(키워드변경).html)
-    - 코로나 웹 크롤링(구글)을 시각화하기(topic modeling이용)(2021.10.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/코로나확진자수/02_코로나_wordcloud(구글기사)(colab).html)
-  - 온라인쇼핑몰상품군별거래액(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/온라인쇼핑몰상품군별거래액/온라인상품별거래액.html)
-  + 서울시 공공자전거 이용정보(테스트) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/자전거이용객수.html)
-    - 데이터셋 연습(2021.09.29) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP01/%EA%B3%B5%EA%B3%B5%EC%9E%90%EC%A0%84%EA%B1%B0_%EC%9D%B4%EC%9A%A9%EC%A0%95%EB%B3%B4/dataframe_test(2021.09.29).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/공공자전거_이용정보/dataframe_test(2021.09.29).html)
+## 팀프로젝트1 
+  1. 코로나19에 따른 생활 양상 변화(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
+  2. 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
-
-## 팀 프로젝트 2(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
-### 주제 : 가스공급량 수요예측 모델개발(Dacon)
-  + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
-    - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.1.html)
-    - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.18_01_평가지표_함수화(dacon)ver0.2.html)
 
 ---
 ---
