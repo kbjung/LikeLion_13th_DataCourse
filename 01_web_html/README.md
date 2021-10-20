@@ -5,7 +5,9 @@
     - 03 a, img tag [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/03_html_link_img.html)
     - 04 div, span, ul, ol, li tag [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/04_html_div_span.html)
     - 05 summary(background, text color, tooltip, h1-h6 tag) [web](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/05_html_summary.html)
-## 나의 웹페이지 만들기 실습(2021.09.07)
+
+
+## 나의 웹페이지 만들기 실습(2021.09.07) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
   + main [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/main.html) / [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/main.html)
     - my01 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my01.html)
     - my02 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my02.html)
