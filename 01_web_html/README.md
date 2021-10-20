@@ -1,4 +1,4 @@
-## 웹의 이해 및 HTML 기본 실습
+## 웹의 이해 및 HTML 기본 실습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
   + HTML 기본 이해(2021.09.03)
     - 01 title tag [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/01_html_title.html)
     - 02 body, p tag [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/02_html_body.html)
