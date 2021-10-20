@@ -16,7 +16,7 @@
   + 01. 데이터 탐색 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_01_데이터_탐색(titanic).html)
   + 02. 모델 선택 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_02_모델_선택(titanic).html)
   + 03. 모델 개선 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_03_모델_개선(titanic).html)
-  + 04. 예측 출력 및 결과 확인(Kaggle 제출, public score) 
+  + 04. 예측 출력 및 결과 확인(Kaggle 제출, public score)
     - RandomForestClassifier [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html)
     - LogisticRegression [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
 
