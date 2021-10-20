@@ -26,16 +26,7 @@
 ## 웹의 이해 및 HTML 기본 실습
   1. HTML 기본 이해 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
   2. CSS 기본 이해 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/02_css_gallery)
-
-
-## 나의 웹페이지 만들기 실습(2021.09.07)
- + main [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/main.html) / [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/main.html)
-    - my01 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my01.html)
-    - my02 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my02.html)
-    - my03 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/my03.html)
-    - my_gallery [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/01_web_html/my_web/15_my_gallery.html)
-    - 나의 맛집 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/yangjae.html)
-    - 나의 장소 5개(2021.09.23) [web](https://kbjung.github.io/LikeLion_13th_DataCourse/01_web_html/my_web/at_highschool.html)
+  3. 나의 웹페이지 만들기 실습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
 
 
 ## 크롤링 실습
