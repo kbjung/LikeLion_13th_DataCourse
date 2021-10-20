@@ -2,12 +2,9 @@
 멋사 13회차 프로젝트 정리
 
 
-## 파일럿 프로젝트1 
-  + 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project))
-
-
-## 파일럿 프로젝트2
-  - 타이타닉 생존자 예측 모델 만들기 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.20(pilot_project))
+## 파일럿 프로젝트
+  1. 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.14(pilot_project))
+  2. 타이타닉 생존자 예측 모델 만들기 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.10.20(pilot_project))
 
 
 ## 팀프로젝트1(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
