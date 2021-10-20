@@ -60,7 +60,7 @@
 
 ## 데이터 분석(2021.09.15) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/2021.09.15)
   - matplotlib, seaborn, numpy 라이브러리 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/01_class.ipynb) / [code(html)](https://kbjung.github.io//LikeLion_13th_DataCourse/codeclass/2021.09.15/01_class.html)
-  - kaggle에서 titanic 데이터 분석 연습(2021.09.15) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb) / [code(html)](https://kbjung.github.io//LikeLion_13th_DataCourse/codeclass/2021.09.15/02_kaggle(titanic).html)
+  - kaggle에서 titanic 데이터 분석 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/2021.09.15/02_kaggle(titanic).ipynb) / [code(html)](https://kbjung.github.io//LikeLion_13th_DataCourse/codeclass/2021.09.15/02_kaggle(titanic).html)
 
 
 ## Pandas 실습
