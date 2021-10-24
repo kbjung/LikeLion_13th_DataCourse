@@ -28,5 +28,5 @@
     - 테스트3(2014년 6월13일부터 날짜, 기온 인덱스 변경확인됨.)(2021.10.23) ver0.4 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.23-03_시간별_온도_채우기_ver0.4.html)
     - 테스트3(2014/6/13~ 변경 인덱스 처리완료)(2021.10.24) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5.html)
     - 테스트3(colab) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5(colab).html)
-    - 테스트3(일별 크롤링 함수화 완료) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5.1.html)
+    - 테스트3(일별 크롤링 함수화 완료) ver0.5.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5.1.html)
     - 2013-2018년도 시간별 기온 csv파일 출력 완료 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31))
