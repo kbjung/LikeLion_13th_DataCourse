@@ -11,7 +11,7 @@
   + 웹 크롤링 연습
     - <<연습>>amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.10-prac/2021.09.10-selenium%20%EC%97%B0%EC%8A%B5.ipynb)
     - <<연습>>다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
-  + 웹 크롤링 실습(2021.09.13) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/03_codeclass/crawling/2021.09.13)
+  + 웹 크롤링 실습(2021.09.13) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.13)
     - 2021.09.10 수업 리뷰 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.13/01_class_review.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.13/01_class_review.html)
     - selenium [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.13/02_selenium.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.13/02_selenium.html)
     - 네이버 데이터랩 크롤링시 보이는 페이지만 크롤링 되는 문제 해결(2021.09.13) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.13/03_class.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.13/03_class.html)
