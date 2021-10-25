@@ -1,3 +1,9 @@
+## 파일럿 프로젝트2
+  + 타이타닉 생존자 예측
+  + 데이터 준비(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
+    - ver0.1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.1(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
+    - ver0.2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.2(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
+
 ## 머신러닝 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
   + KNN(2021.10.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.12)
     - [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.12/2021.10.12/01_ML.html)
