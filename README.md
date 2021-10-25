@@ -18,10 +18,7 @@
 ## 파이썬 기본 내용(2021.08.27-9.2) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
 
 
-## 웹의 이해 및 HTML 기본 실습
-  1. HTML 기본 이해 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
-  2. CSS 기본 이해 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/02_css_gallery)
-  3. 나의 웹페이지 만들기 실습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/01_web_html)
+## 웹의 이해 및 HTML 실습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/02_web)
 
 
 ## 크롤링 실습(2021.9.8~14) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/crawling)
