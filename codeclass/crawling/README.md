@@ -9,7 +9,7 @@
     - selenium 사용 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/crawling/2021.09.10/02_Selenium_%EC%82%AC%EC%9A%A9%EB%B2%95.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/crawling/2021.09.10/02_Selenium_사용법.html)
     - amazon 상품 검색 리스트 selenium 이용 crawling [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/crawling/2021.09.10/03_%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/crawling/2021.09.10/03_아마존_웹_크롤링.html)
   + 웹 크롤링 연습
-    - <<연습>>amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.10-prac)
+    - <<연습>>amazon에 'iphone 12' 검색, 상품 리스트 가져와 파일 만들기 연습(2021.09.10) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.10-prac/2021.09.10-selenium%20%EC%97%B0%EC%8A%B5.ipynb)
     - <<연습>>다음에 '미세먼지' 검색, 뉴스 타이틀 가져와 시각화 하기 연습(2021.09.11) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/2021.09.11-prac/2021.09.11-web_crawling%2C%20wordcloud.ipynb)
   + 웹 크롤링 실습(2021.09.13) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/crawling/2021.09.13)
     - 2021.09.10 수업 리뷰 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/crawling/2021.09.13/01_class_review.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/crawling/2021.09.13/01_class_review.html)
