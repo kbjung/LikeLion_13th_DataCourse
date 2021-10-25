@@ -11,9 +11,6 @@
   1. 코로나19에 따른 생활 양상 변화(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
   2. 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
-
----
-
 ## 수업
 
   + 파이썬 기본 내용(2021.08.27-9.2) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
