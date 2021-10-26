@@ -38,3 +38,7 @@
     1. [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.25/2021.10.25-01_bike.html)
     2. [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.25/2021.10.25-02_bike.html)
     3. [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.25/2021.10.25-03_bike.html)
+  + 특강(박주은 외부강사) : 실무 데이터 분석(2021.10.26)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95))
+    - EDA(탐색적 데이터 분석)(cohortq, 잔존률 분석) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/01-basic-eda-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/01-basic-eda-input.html)
+    - RFM(거래의 최근성, 빈도수, 규모) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/02-RFM-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/02-RFM-input.html)
+    - 군집 모델 분석 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/03-clustering-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/03-clustering-input.html)
