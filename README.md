@@ -24,6 +24,4 @@
   + 머신러닝(2021.10.12-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning) 
 
 ---
-
-### 허스키
-<img src="https://user-images.githubusercontent.com/88702587/131994715-331c879d-b64d-45cc-93bc-eae5da4b6def.jpg" width=30%>
+### 코드 연습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
