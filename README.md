@@ -1,5 +1,5 @@
 # LikeLion_13th_DataCourse
-멋사 13회차 프로젝트 정리
+멋사 13회차 프로젝트 정리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
 
 
 ## 파일럿 프로젝트
@@ -24,4 +24,5 @@
   + 머신러닝(2021.10.12-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning) 
 
 ---
-### 코드 연습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
+### 코드 연습 
+  + [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
