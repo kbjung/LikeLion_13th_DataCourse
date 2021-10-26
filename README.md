@@ -1,5 +1,5 @@
-# LikeLion_13th_DataCourse
-멋사 13회차 프로젝트 정리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
+# LikeLion_13th_DataCourse = [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
+멋사 13회차 프로젝트 정리
 
 
 ## 파일럿 프로젝트
@@ -11,7 +11,7 @@
   1. 코로나19에 따른 생활 양상 변화(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
   2. 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
-## 수업 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
+## 수업 = [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
   + 파이썬 기본 내용(2021.08.27-9.2) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
 
@@ -24,5 +24,4 @@
   + 머신러닝(2021.10.12-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning) 
 
 ---
-### 코드 연습 
-  + [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
+### 코드 연습 = [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
