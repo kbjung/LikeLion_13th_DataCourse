@@ -40,5 +40,5 @@
     - 05 데이터 출력(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/colab)
     - 05 데이터 출력(2013-2018년도 가스 공급량과 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/jupyter2)
 ## 가스 공급량과 시간별 기온 데이터 전처리(진행중...)
-  + 01. 결측값 처리
+  + 결측값 처리
     - 진행중...ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.27-05_2019년_기온_예측_ver0.1.html)
