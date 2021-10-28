@@ -17,3 +17,10 @@ https://github.com/LDJWJ/ML_Basic_Class
  - 머신러닝 - 앙상블_그래디언트부스팅결정트리
  - Grid Search(1)
  - [캐글 실습] Santander Customer Satisfaction
+
+
+# 할일
+직군 정하기.
+데이터 엔지니어 : kaggle, dacon 공부해서 포트폴리오 만들기.
+# 정보
+교육 추천 : 패스트 캠퍼스, 모두의 연수소
