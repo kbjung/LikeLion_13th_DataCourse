@@ -50,3 +50,7 @@
     - kaggle bike 데이터를 여러모델(XGBoostingClassifier, LGBoostingClassifier 등)로 분석, 제출 [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-02_bike.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-03_bike.html)
   + 추천 시스템(2021.10.29) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.29)
     - 유사도(코사인, 피어슨), 차원 축소(TruncatedSVD in sklearn), 메모리 문제 해결중... [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.29/2021.10.29-01_추천_시스템.html)
+  + 비지도 학습(2021.11.01) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.11.01)
+    - 차원 축소(PCA) [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.01/2021.11.01-01_차원축소_PCA.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.01/2021.11.01-02_PCA.html)
+    - t-SNE를 이용한 manifold learning [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.01/2021.11.01-03_PCA_차원_축소-tsne.html)
+    - 특성 자동 선택(요약 정리) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.01/2021.11.01-04_특성_자동_선택.html)
