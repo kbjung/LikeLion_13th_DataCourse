@@ -39,7 +39,14 @@
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.25-04_가스_기온_합치기_ver0.1.html)
     - 데이터 출력(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/colab)
     - 데이터 출력(2013-2018년도 가스 공급량과 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/jupyter2)
-## 가스 공급량과 시간별 기온 데이터 전처리(진행중...)
+
+
+## 가스 공급량과 시간별 기온 데이터 전처리
   + 결측값 처리
     - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.27-05_2019년_결측치_처리_ver0.1.html)
-    - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전날 기온으로 처리 ver0.2(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.27-05_2019년_결측치_처리_ver0.2.html)
+    - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.28-05_2019년_결측치_처리_ver0.3.html)
+
+## 2019년 기온 예측과 공급량 예측
+  + 모델 테스트
+    - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.29-06_01_선형회귀_테스트.html)
+    - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.11.01-06_02_모델_테스트.html)
