@@ -34,7 +34,7 @@
       - 2014/6/13~ 변경 인덱스 처리완료(2021.10.24) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5.html)
       - colab에서 크롤링(컴 사양 문제)(2021.10.24) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5(colab).html)
       - 일별 크롤링 함수화 완료(2021.10.24) ver0.5.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.24-03_시간별_온도_채우기_ver0.5.1.html)
-      - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.5.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.25-03_시간별_온도_채우기_ver0.5.2.html)
+      - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.25-03_기온값_숫자형변환_ver0.1.html)
   + 04 가스 공급량과 기온 데이터 출력
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.25-04_가스_기온_합치기_ver0.1.html)
     - 데이터 출력(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/colab)
