@@ -1,0 +1,6 @@
+## 딥러닝(2021.11.02-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
+  + 기초(2021.11.02) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning/2021.11.02)
+    - tensorflow 설치 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-01_tf설치.html)
+    - numpy를 통한 차원 설명 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-02_basic.html)
+    - bike 데이터(kaggle)를 통한 페셉트론 실습 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-03_bike.html)
+    - MNIST 데이터를 통한 keras 실습(Sequential, Dense) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-04_keras_mnist.html)
