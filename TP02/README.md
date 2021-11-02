@@ -21,6 +21,7 @@
   + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.15_01_평가지표_함수화(dacon)ver0.1.html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.18_01_평가지표_함수화(dacon)ver0.2.html)
+    - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.11.02_01_평가지표_함수화(dacon)ver0.3.html)
 ## 가스 공급량과 시간별 기온 데이터 확보(약 36만8천개)
   + 01 데이터 확인
       - 가스공급량 데이터 확인(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.21-01_가스공급량_데이터_확인.html)
