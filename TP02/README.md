@@ -49,5 +49,7 @@
 
 ## 2019년 기온 예측과 공급량 예측
   + 모델 테스트
-    - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.29-06_01_선형회귀_테스트.html)
-    - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.11.01-06_02_모델_테스트.html)
+    - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.10.29-06_01_선형회귀_테스트.html)
+    - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.11.01-06_02_모델_테스트_ver0.1.html)
+  + 공급량 예측 출력
+    - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/2021.11.01-06_03_결과_출력(xgb)_ver0.1.html)
