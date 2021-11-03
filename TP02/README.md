@@ -15,7 +15,7 @@
   - 외부 데이터(날짜, 시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 
 ## 자료 링크
-  - 대회 링크 : Dacon https://dacon.io/competitions/official/235830/overview/description
+  - 대회 링크(Dacon) : https://dacon.io/competitions/official/235830/overview/description
   - 나주시 농업기상정보시스템(시간별) https://weather.naju.go.kr/agri_meteo/agri_time.html
 ## 자료 분석
   + 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
