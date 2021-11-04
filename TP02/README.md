@@ -52,8 +52,8 @@
   + 06 모델 테스트
     - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-01_선형회귀_테스트_ver0.1(2021.10.29).html)
     - 선형회귀, Lasso, Ridge 공급량 테스트(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-01_선형회귀_테스트_ver0.2(2021.11.04).html)
-    - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-02_모델_테스트_ver0.1(2021.11.01).html)
-    - XGB회귀, 랜덤포레스트 회귀로 2019년 기온, 가스공급량 예측(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-02_모델_테스트_ver0.2(2021.11.04).html)
+    - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-02_모델_테스트(xgb)_ver0.1(2021.11.01).html)
+    - XGB회귀, 랜덤포레스트 회귀로 2019년 기온, 가스공급량 예측(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06-02_모델_테스트(xgb,rf)_ver0.2(2021.11.04).html)
   + 07 공급량 예측 출력
     - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07-01_결과_출력(xgb)_ver0.1(2021.11.01).html)
     - XGB회귀 모델 +평가지표로 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07-01_결과_출력(xgb)_ver0.2(2021.11.04).html)
