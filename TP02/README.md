@@ -57,5 +57,6 @@
     - XGB회귀, 랜덤포레스트 회귀로 2019년 기온, 가스공급량 예측(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-02_모델_테스트_ver0.2(2021.11.04).html)
   + 공급량 예측 출력
     - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-03_결과_출력(xgb)_ver0.1(2021.11.01).html)
-    - XGB회귀 모델, 평가지표로 평가 ver0.2(2021.11.04) [code(html](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-03_결과_출력(xgb)_ver0.2(2021.11.04).html)
-    - 
+    - XGB회귀 모델 +평가지표로 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-03_결과_출력(xgb)_ver0.2(2021.11.04).html)
+    - 랜덤포레스트 회귀 모델로 기온, 공급량 예측 ver0.1(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-04_결과_출력(random_forest)_ver0.1(2021.11.04).html)
+    - 랜덤포레스트 회귀 +평가지표 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-04_결과_출력(random_forest)_ver0.2(2021.11.04).html)
