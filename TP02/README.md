@@ -32,7 +32,7 @@
       - 날짜, 기온 인덱스 확인(2021.10.23) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.1(2021.10.23).html)
       - 연도별 크롤링, 결측값 처리 테스트(2021.10.23) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.2(2021.10.23).html)
   + 03 크롤링 코드 함수화
-      - 연도별 크롤링 함수화, 특정 년, 월 크롤링 함수화(2021.10.23) ver0.3 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.3(2021.10.23).html)
+      - 연도별 크롤링 함수화, 특정 년, 월 크롤링(2021.10.23) ver0.3 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.3(2021.10.23).html)
       - 2014년 6월13일부터 날짜, 기온 인덱스 변경확인됨(2021.10.23) ver0.4 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.4(2021.10.23).html)
       - 2014/6/13~ 변경 인덱스 처리완료(2021.10.24) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.5(2021.10.24).html)
       - colab에서 크롤링(컴 사양 문제)(2021.10.24) ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_시간별_온도_채우기_ver0.5(colab)(2021.10.24).html)
