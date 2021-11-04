@@ -8,11 +8,13 @@
 ## 주제 : 가스공급량 수요예측 모델개발(Dacon)
 + 목표 : 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
 
+
 ## 전략
 + 전략
   - 1-3월만 예측하니 해당 월만 모델 훈련
   - 연도별 변화가 있으므로 연도를 제거해서 모델 훈련
   - 외부 데이터(날짜, 시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
+
 
 ## 자료 링크
   - 대회 링크(Dacon) : https://dacon.io/competitions/official/235830/overview/description
@@ -38,8 +40,7 @@
       - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_기온값_숫자형변환_ver0.1(2021.10.25).html)
   + 04 가스 공급량과 기온 데이터 출력
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06_가스_기온_합치기_ver0.1(2021.10.25).html)
-    - 데이터 출력(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/colab)
-    - 데이터 출력(2013-2018년도 가스 공급량과 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%83%81%EC%9E%90%EB%A3%8C(2013.01.01~2018.12.31)/jupyter2)
+    - 데이터 출력(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%98%A8%EC%9E%90%EB%A3%8C)
 
 
 ## 가스 공급량과 시간별 기온 데이터 전처리
@@ -47,9 +48,14 @@
     - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_2019년_결측치_처리_ver0.1(2021.10.27).html)
     - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_2019년_결측치_처리_ver0.3(2021.10.28).html)
 
+
 ## 2019년 기온 예측과 공급량 예측
   + 모델 테스트
-    - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08-01_선형회귀_테스트_ver0.1(2021.10.29).html)
+    - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08-01_선형회귀_테스트_ver0.1(2021.10.29).html)
+    - 선형회귀, Lasso, Ridge 공급량 테스트(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08-01_선형회귀_테스트_ver0.2(2021.11.04).html)
     - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-02_모델_테스트_ver0.1(2021.11.01).html)
+    - XGB회귀, 랜덤포레스트 회귀로 2019년 기온, 가스공급량 예측(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-02_모델_테스트_ver0.2(2021.11.04).html)
   + 공급량 예측 출력
     - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-03_결과_출력(xgb)_ver0.1(2021.11.01).html)
+    - XGB회귀 모델, 평가지표로 평가 ver0.2(2021.11.04) [code(html](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/09-03_결과_출력(xgb)_ver0.2(2021.11.04).html)
+    - 
