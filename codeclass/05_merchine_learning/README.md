@@ -56,6 +56,6 @@
     - 특성 자동 선택(요약 정리) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.01/2021.11.01-04_특성_자동_선택.html)
   + 데이터 분석 특강(강천성 강사)(2021.11.05) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.11.05)
     - 01 신용카드 연체 가능성(kaggle 데이터) 데이터 전처리 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_01_Data_preprocess.html)
-    - 02 여러 모델로 예측 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_01_Data_preprocess.html)
-    - 03 교차평가 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_02_Classification.html)
+    - 02 여러 모델로 예측 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_02_Classification.html)
+    - 03 교차평가 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_03_Model_Validation.html)
     - 04 wandb, colab을 이용한 최적의 하이퍼파라미터 자동선택 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/mycode/Lab_04_WanDB.html)
