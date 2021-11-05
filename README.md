@@ -21,7 +21,7 @@
 
   + 데이터 분석(2021.09.15-10.06) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/04_data_analysis)
 
-  + 머신러닝(2021.10.12-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
+  + 머신러닝(2021.10.12-11.01) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
 
   + 딥러닝(2021.11.02-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
 
