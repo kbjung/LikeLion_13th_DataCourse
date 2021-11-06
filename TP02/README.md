@@ -20,7 +20,7 @@
   - 대회 링크(Dacon) : https://dacon.io/competitions/official/235830/overview/description
   - 나주시 농업기상정보시스템(시간별) https://weather.naju.go.kr/agri_meteo/agri_time.html
 ## 자료 분석
-  + 01 모델 평가 지표(R2, MSE, RMSE, MAE) 함수화
+  + 01 모델 평가 지표(R2, MSE, RMSE, MAE, NMAE) 함수화
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화(dacon)ver0.1(2021.10.15).html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화(dacon)ver0.2(2021.10.18).html)
     - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화(dacon)ver0.3(2021.11.03).html)
