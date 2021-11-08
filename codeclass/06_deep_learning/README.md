@@ -5,4 +5,7 @@
     - bike 데이터(kaggle)를 통한 페셉트론 실습 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-03_bike.html)
     - MNIST 데이터를 통한 keras 실습(Sequential, Dense) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-04_keras_mnist.html)
   + 인공신경망 퍼셉트론 이론 학습, MNIST 데이터를 통한 딥러닝 실습(2021.11.03) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning/2021.11.03)
-    - 활성함수, gradient descent 알고리즘 등 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.03-01_keras_mnist_tensorflow(colab).html)
+    - 활성함수, gradient descent 알고리즘 등 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.03/2021.11.03-01_keras_mnist_tensorflow(colab).html)
+  + CNN(Convolutional Neural Network)(2021.11.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning/2021.11.08)
+    - filter, convolution layer, pooling, feature map [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/2021_11_08_01_CNN(colab).html)
+    - 강아지와 고양이 구분 실습 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/2021_11_08_02_dog_cat(colab).html)
