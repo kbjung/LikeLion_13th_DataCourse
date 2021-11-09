@@ -26,4 +26,4 @@
   + 딥러닝(2021.11.02-) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
 
 ---
-### 코드 연습 = [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
+### 코드 연습 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
