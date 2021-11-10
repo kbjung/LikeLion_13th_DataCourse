@@ -11,7 +11,7 @@
 
 ## 전략
 + 전략
-  - 1-3월만 예측하니 해당 월만 모델 훈련
+  - 1-3월만 예측하니 해당 월만 모델 훈련(과대적합 우려)
   - 연도별 변화가 있으므로 연도를 제거해서 모델 훈련
   - 외부 데이터(날짜, 시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 
@@ -60,7 +60,7 @@
     - XGB회귀 모델 +평가지표로 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-01_결과_출력(xgb)_ver0.2(2021.11.04).html)
     - 랜덤포레스트 회귀 모델로 기온, 공급량 예측 ver0.1(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.1(2021.11.04).html)
     - 랜덤포레스트 회귀 +평가지표 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.2(2021.11.04).html)
-    - CatBoost 회귀 예측 ver0.1(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.1(2021.11.08).html)
+    - CatBoost 회귀 예측 ver0.1(2021.11.08) / 제출 점수 : 0.1141754311(52등)[code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.1(2021.11.08).html)
     - CatBoost 회귀 예측 ver0.2(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.2(2021.11.08).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균 ver0.1(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.1(2021.11.08).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(정규화, 표준화, 다항특성, 특성선택-50% 적용) ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.2(2021.11.09).html)
@@ -68,4 +68,4 @@
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 5개, 다항특성 적용) ver0.4(2021.11.09) (제출 전)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 4개, log, 다항특성 적용) ver0.5(colab)(2021.11.09) (제출 전)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
-    - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
+    - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.11109(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
