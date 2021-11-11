@@ -19,15 +19,20 @@
 ## 자료 링크
   - 대회 링크(Dacon) : https://dacon.io/competitions/official/235830/overview/description
   - 나주시 농업기상정보시스템(시간별) https://weather.naju.go.kr/agri_meteo/agri_time.html
+
+
 ## 자료 분석
   + 01 모델 평가 지표(R2, MSE, RMSE, MAE, NMAE) 함수화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/01_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C_%ED%95%A8%EC%88%98%ED%99%94)
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.1(2021.10.15).html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.2(2021.10.18).html)
     - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.3(2021.11.03).html)
+
+
 ## 가스 공급량과 시간별 기온 데이터 확보(약 36만8천개)
   + 02 데이터 확인 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EC%9D%B8)
-      - 가스공급량 데이터 확인 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02_가스공급량_데이터_확인_ver0.1(2021.10.21).html)
-      - 가스공급량 데이터 확인 ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02_가스공급량_데이터_확인_ver0.2(2021.11.09).html)
+      - 가스공급량 데이터 확인 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.1(2021.10.21).html)
+      - 가스공급량 데이터 확인 ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.2(2021.11.09).html)
+      - 기온과 가스공급량 데이터 확인 ver0.1(2021.11.11) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-02_기온_데이터_확인_ver0.1(2021.11.11).html)
   + 03 기온 데이터 웹 크롤링 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%81%AC%EB%A1%A4%EB%A7%81)
       - webdriver, bs, np, pd 활용 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.1(2021.10.21).html)
       - 날짜, 기온 인덱스 확인 ver0.2(2021.10.23) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.2(2021.10.23).html)
