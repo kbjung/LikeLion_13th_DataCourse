@@ -4,7 +4,16 @@
 - 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=40%>
+- 중간 발표(2021.11.4)
+- 최종 발표(2021.11.10)
+- 발표는 끝났지만 대회 끝날 때까지 제출할 예정
+
     
+## 대회 : 가스공급량 수요예측 모델개발(Dacon)
+- 기간 : 2021.10.11 ~ 2021.12.10 23:00
+- 대회 링크 : https://dacon.io/competitions/official/235830/overview/description
+
+
 ## 주제 : 가스공급량 수요예측 모델개발(Dacon)
 + 목표 : 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
 
