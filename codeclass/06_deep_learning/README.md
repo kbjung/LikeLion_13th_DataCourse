@@ -12,4 +12,4 @@
   + RNN, GAN (2021.11.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning/2021.11.12)
     - RNN1 [code(html](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/2021.11.12-01_RNN.html)
     - RNN2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/22021.11.12-02_RNN.html)
-    - GAN [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/2021.11.12-03_GAN.html)
+    - GAN(colab) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.08/2021.11.12-03_GAN.html)
