@@ -19,7 +19,7 @@
 + 결과 도출 전략
   - 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교.
 + 활용 기술
-  - 웹 크롤링 : webdriver, beautifulsoup
+  - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 분석 : plotly, cufflinks, pandas, numpy
 
 ## 팀 프로젝트를 통해 얻고 싶은 것
