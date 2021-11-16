@@ -53,15 +53,16 @@
       - colab에서 크롤링(컴 사양 문제)(2021.10.24) ver0.6 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.6(colab)(2021.10.24).html)
       - 일별 크롤링 함수화 완료(2021.10.24) ver0.6.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.6.1(2021.10.24).html)
       - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-02_기온값_숫자형변환_ver0.1(2021.10.25).html)
+      - 기상청기상자료 전처리(2021.11.15) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-03_기상청자료_정리_ver0.1(2021.11.15).html)
   + 04 가스 공급량과 기온 데이터 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/04_%EA%B0%80%EC%8A%A4_%EA%B8%B0%EC%98%A8_%ED%95%A9%EC%B9%98%EA%B8%B0)
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기온_합치기_ver0.1(2021.10.25).html)
-    - 기온자료(2013-2018년도 시간별 기온 csv파일) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/%EA%B8%B0%EC%98%A8%EC%9E%90%EB%A3%8C)
 
 
 ## 가스 공급량과 시간별 기온 데이터 전처리
   + 05 결측값 처리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/05_%EA%B2%B0%EC%B8%A1%EC%B9%98_%EC%B2%98%EB%A6%AC)
-    - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05_결측치_처리_ver0.1(2021.10.27).html)
-    - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05_결측치_처리_ver0.3(2021.10.28).html)
+    - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.1(2021.10.27).html)
+    - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.3(2021.10.28).html)
+    - 기상청기상자료 결측치 처리 ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-02_결측치_처리_ver0.1(2021.11.15).html)
 
 
 ## 2019년 기온 예측과 공급량 예측
@@ -73,17 +74,22 @@
   + 07 공급량 예측 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/07_%EA%B2%B0%EA%B3%BC_%EC%B6%9C%EB%A0%A5)
     - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-01_결과_출력(xgb)_ver0.1(2021.11.01).html)
     - XGB회귀 모델 +평가지표로 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-01_결과_출력(xgb)_ver0.2(2021.11.04).html)
-    - 랜덤포레스트 회귀 모델로 기온, 공급량 예측 ver0.1(2021.11.04) / 제출 점수 : 0.1181514058(56등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.1(2021.11.04).html)
+    - 랜덤포레스트 회귀 모델로 기온, 공급량 예측 ver0.1(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.1(2021.11.04).html)
     - 랜덤포레스트 회귀 +평가지표 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.2(2021.11.04).html)
-    - CatBoost 회귀 예측 ver0.1(2021.11.08) / 제출 점수 : 0.1141754311(52등)[code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.1(2021.11.08).html)
+    - CatBoost 회귀 예측 ver0.1(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.1(2021.11.08).html)
     - CatBoost 회귀 예측 ver0.2(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.2(2021.11.08).html)
-    - CatBoost 회귀 예측 ver0.3(2021.11.12) / 제출 점수 : 0.1074639483(42등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.3(2021.11.11).html)
-    - CatBoost 회귀 예측 ver0.4(2021.11.13) / 제출 점수 : 0.106439166(38등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.4(2021.11.13).html)
+    - CatBoost 회귀 예측 ver0.3(2021.11.12) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.3(2021.11.11).html)
+    - CatBoost 회귀 예측 ver0.4(2021.11.13) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-03_결과_출력(catboost)_ver0.4(2021.11.13).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균 ver0.1(2021.11.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.1(2021.11.08).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(정규화, 표준화, 다항특성, 특성선택-50% 적용) ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.2(2021.11.09).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(다항특성 적용) ver0.3(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.3(2021.11.09).html)
-    - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 5개, 다항특성 적용) ver0.4(2021.11.09) (제출 전)
-    - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 4개, log, 다항특성 적용) ver0.5(colab)(2021.11.09) (제출 전)
+    - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 5개, 다항특성 적용) ver0.4(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.4(2021.11.09).html)
+    - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 4개, log, 다항특성 적용) ver0.5(colab)(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.5(colab)(2021.11.09).html)
+    - pycaret 이용 ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.1(2021.11.15).html)
+    - pycaret 이용 ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.2(2021.11.15).html)
+    - pycaret 이용 ver0.3(colab) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.3(colab)(2021.11.15).html)
+    - pycaret 이용 ver0.4 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.4(2021.11.16).html)
+    - pycaret 이용, log 적용 ver0.5 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.5(2021.11.16).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
