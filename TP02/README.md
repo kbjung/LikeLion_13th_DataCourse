@@ -24,6 +24,13 @@
   - 1-3월만 예측하니 해당 월만 모델 훈련(과대적합 우려)
   - 연도별 변화가 있으므로 연도를 제거해서 모델 훈련
   - 외부 데이터(시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
++ 활용 기술
+  - 웹 크롤링 : beautifulsoup, webdriver
+  - 데이터 확인 및 분석(EDA) : pandas, numpy, matplotlib, seaborn
+  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm 
+  - 알고리즘 : Pycaret
+  - 교차검증 : Kfold(shuffle)
+  - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 
 
 ## 자료 링크
