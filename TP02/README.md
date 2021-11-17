@@ -100,15 +100,18 @@
     - pycaret 이용(기상청자료, 특성 8개) ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.1(2021.11.15).html)
     - pycaret 이용 ver0.2(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.2(2021.11.15).html)
     - pycaret 이용 ver0.3(colab, gpu이용 테스트 -> 실패)(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.3(colab)(2021.11.15).html)
-    - pycaret 이용 ver0.4(2021.11.16) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.4(2021.11.16).html)
-    - pycaret 이용(log1p, expm1 적용) ver0.5(2021.11.16) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.5(2021.11.16).html)
+    - pycaret 이용(xgb, lgbm, cat 블랜드, 8개 특성 적용) ver0.4(2021.11.16) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.4(2021.11.16).html)
+    - pycaret 이용(xgb, lgbm, cat 블랜드, 8개 특성 적용, log1p, expm1 적용) ver0.5(2021.11.16) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.5(2021.11.16).html)
+    - pycaret 이용(knn, lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.6(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.6(2021.11.17).html)
+    - pycaret 이용(lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.7(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.7(2021.11.17).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
 
 ## 결과 점수 표
 특성 4개 : 'month', '시간', '구분', '기온'  
-특성 8개 : 'month', '일시', 'weekday', '시간', '구분', '기온', '습도', '기온'
+특성 8개 : 'month', '일시', 'weekday', '시간', '구분', '기온', '습도', '기온'  
+특성 7개 : 'month', 'weekday', '시간', '구분', '기온', '습도', '기온'
 
 | 번호 | 제출 날짜 | 모델 or 알고리즘 | 조건 | 점수 | NMAE | R2(교차검증) |
 |---|---|---|---|---|---|---|
@@ -123,3 +126,5 @@
 | 12 | 2021-11-13 21:28:25 | Cat | 특성4개, log, pol, tuned 1 param | **0.106439166** | 0.0478 | 0.9197 |
 | 13 | 2021-11-16 22:28:19 | Pycaret(cat, lgbm, xgb) 블랜드 | 특성8 | 0.1392496462  | - | 0.9938 |
 | 14 | 2021-11-16 19:16:37 | Pycaret(cat, lgbm, xgb) 블랜드 | 특성8개, log | 0.1230232924 | - | 0.9762 |
+| 15 | 2021-11-17 16:25:40 | Pycaret(cat, lgbm, knn) 블랜드 | 특성7개, log | 0.1992657558  | - | 0.8954 |
+| 16 | 2021-11-17 17:41:13 | Pycaret(cat, lgbm) 블랜드 | 특성7개, log | 0.1090472262 | - | 0.9510 |
