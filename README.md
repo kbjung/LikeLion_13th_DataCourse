@@ -1,5 +1,5 @@
 # LikeLion_13th_DataCourse [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
-멋사 13회차 프로젝트 정리
+멋쟁이사자처럼 13회차 프로젝트 정리
 
 
 ### 파일럿 프로젝트
