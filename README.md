@@ -44,6 +44,7 @@
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 데이터 시각화 : Ploty, Seaborn, matplotlib
+  + 📊 발표 코드 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/03_crawling/2021.09.14(pilot_project)/아이폰_가격_ver1.2(pd,plotly).html)
 
 ### 파일럿 프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
   + 주제 : 타이타닉 생존자 예측 모델 만들기
@@ -53,6 +54,7 @@
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 방법 알고리즘 : Kfold, LeaveOneOut
+  + 📊 제출 코드 [RandomForest](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [LogisticRegression](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
 
 
 ### ✍🏼 수업 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
