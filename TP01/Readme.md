@@ -91,7 +91,8 @@
   	- ploty, cufflinks에서 그래프 여러개 겹치는 방법 찾지 못함.
   - 코로나와 매출 품목별 변화 요인을 분석할 수 있는 데이터 추가.(O)
   - 그래프 변화 시점 주요 뉴스 제목을 시각화.(△)
-  	- 구글에서만 크롤링, 시각화 성공. 다음, 네이버에서 날짜 지정 해결X.
+  	- 구글에서만 크롤링, 시각화 성공. 
+  	- 다음, 네이버에서 날짜 지정 해결(X)
 
 ## 나의 코드 정리
   + 월별 서울시 지하철 승하차 총 승객수(2015-2021)(2021.10.05)[폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/지하철월별승하차승객수/06_지하철월별_승차인원_그래프.html)
