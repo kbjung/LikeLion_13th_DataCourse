@@ -49,7 +49,8 @@
   + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
   + 기간 : 2021.10.19 ~ 10.20
   + 활용 기술(Python)
-    - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
+    - 데이터 전처리 : pandas, numpy
+    - 데이터 시각화 : seaborn, matplotlib
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 알고리즘 : Kfold, LeaveOneOut
 
