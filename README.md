@@ -48,7 +48,7 @@
   + 활용 기술(Python)
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
-    - 검증 도구 : Kfold, LeaveOneOut
+    - 검증 방법 알고리즘 : Kfold, LeaveOneOut
 
 
 ### 수업 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
