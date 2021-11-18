@@ -1,6 +1,6 @@
 ## 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
   + 목표 : 타이타닉 생존자 예측
-  + 사용 기술
+  + 활용 기술
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 도구 : Kfold, LeaveOneOut
