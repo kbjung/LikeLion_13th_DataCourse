@@ -5,7 +5,7 @@
   + 활용 기술(Python)
     - 데이터 전처리 : pandas, numpy
     - 데이터 시각화 : seaborn, matplotlib
-    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
+    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression
     - 검증 알고리즘 : Kfold, LeaveOneOut
 
   + 데이터 준비(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
@@ -16,4 +16,4 @@
     - 02 모델 선택 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_02_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_02_모델_선택(titanic).html)
     - 03 모델 개선 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_03_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EC%84%A0(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_03_모델_개선(titanic).html)
     - 04 예측 출력(랜덤 포레스트 분류) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(rf_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html)
-    - 04 예측 출력(로지스틱 분류) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(lg_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
+    - 04 예측 출력(로지스틱 회귀) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(lg_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
