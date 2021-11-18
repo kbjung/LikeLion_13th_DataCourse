@@ -27,7 +27,7 @@
   - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
   - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
   - 알고리즘 : Pycaret
-  - 교차검증 : Kfold(shuffle)
+  - 검증  : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 + 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 + 성과
