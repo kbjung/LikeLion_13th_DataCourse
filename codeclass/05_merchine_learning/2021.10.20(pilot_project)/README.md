@@ -3,6 +3,7 @@
   + 사용 기술
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : Knn, DecisionTree, RandomForest, Logistic
+    - 검증 도구 : Kfold, LeaveOneOut
   + 데이터 준비(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
     - ver0.1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.1(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
     - ver0.2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.2(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
