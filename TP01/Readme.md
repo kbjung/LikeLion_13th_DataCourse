@@ -18,7 +18,7 @@
   - 처음에는 증가율이 증가하면 영향이 크지만, 코로나가 길어지면서 점차 영향이 줄어들 것으로 예측.
 + 결과 도출 전략
   - 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교.
-+ 활용 기술
++ 활용 기술(Python)
   - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 분석 : matplotlib, plotly, cufflinks, pandas, numpy
 
