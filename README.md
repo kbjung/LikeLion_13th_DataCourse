@@ -35,7 +35,7 @@
   - ✨ Dacon 대회 38등(총 256팀) 기록(0.106439166점. 2021-11-13 21:28:25)
 
 
-## 👨🏼‍💻 파일럿 프로젝트
+## ✈ 파일럿 프로젝트
 ### 파일럿 프로젝트1 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
   + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
   + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
