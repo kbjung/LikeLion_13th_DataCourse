@@ -9,7 +9,7 @@
 - 발표는 끝났지만 대회 끝날 때까지 제출할 예정
 - 최고 점수 : `0.106439166` (38등 12번-2021-11-13 21:28:25)
 - 팀 이미지
-<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=40%>
+<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
     
 ## 대회 : 가스공급량 수요예측 모델개발(Dacon)
