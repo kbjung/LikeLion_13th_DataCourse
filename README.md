@@ -31,9 +31,24 @@
   - 교육 코스 최고의 팀 선정
   - Dacon 대회 38등 기록(0.106439166점. 2021-11-13 21:28:25)
 
+
 ## 파일럿 프로젝트
-  1. 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
-  2. 타이타닉 생존자 예측 모델 만들기(2021.10.20) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
+### 파일럿 프로젝트1 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
+  + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
+  + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
+  + 기간 : 2021.09.14(1일) + 추가정리
+  + 활용 기술
+    - 웹 크롤링 : Selenium, BeautifulSoup
+    - 데이터 정리 : Pandas
+    - 그래프 : Ploty, Seaborn, matplotlib
+### 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
+  + 주제 : 타이타닉 생존자 예측 모델 만들기
+  + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
+  + 기간 : 2021.10.19 ~ 10.20
+  + 활용 기술
+    - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
+    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
+    - 검증 도구 : Kfold, LeaveOneOut
 
 
 ### 수업 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
