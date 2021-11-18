@@ -10,7 +10,8 @@
 + 역할 : 팀장
 + 활용 기술(Python)
   - 웹 크롤링 : selenium, beautifulsoup
-  - 데이터 분석 : matplotlib, plotly, cufflinks, pandas, numpy
+  - 데이터 전처리 : pandas, numpy
+  - 데이터 시각화 : matplotlib, plotly, cufflinks
 + 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 
 ### 팀프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
