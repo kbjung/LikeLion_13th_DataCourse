@@ -7,7 +7,7 @@
     - 데이터 시각화 : seaborn, matplotlib
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression
     - 검증 알고리즘 : Kfold, LeaveOneOut
-
+  + 📊 제출 코드 [RandomForest](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [LogisticRegression](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
   + 데이터 준비(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
     - ver0.1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.1(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
     - ver0.2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.2(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
