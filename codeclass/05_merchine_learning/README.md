@@ -51,7 +51,7 @@
     - ROC-AUC(평가지표), GridSearchCV(모델 최적 하이퍼 파라미터 선별) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.27/2021.10.27-02_santander.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.27/2021.10.27-02_santander.html)
   + 비선형 변환(2021.10.28) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.28)
     - 비선형 변환(log, log1p, exp, expm1) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-01_비선형_변환.html)
-    - kaggle bike 데이터를 여러모델(XGBoostingClassifier, LGBoostingClassifier 등)로 분석, 제출 [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-02_bike.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-03_bike.html)
+    - kaggle bike 데이터를 여러모델(XGBoost, LGBM 등)로 분석, 제출 [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-02_bike.html) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.28/2021.10.28-03_bike.html)
   + 추천 시스템(2021.10.29) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.29)
     - 유사도(코사인, 피어슨), 차원 축소(TruncatedSVD in sklearn), 메모리 문제 해결중... [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.29/2021.10.29-01_추천_시스템.html)
   + 비지도 학습(2021.11.01) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.11.01)
