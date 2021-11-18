@@ -37,7 +37,7 @@
   + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
   + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
   + 기간 : 2021.09.14(1일) + 추가정리
-  + 활용 기술
+  + 활용 기술(Python)
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 시각화 : Ploty, Seaborn, matplotlib
@@ -45,7 +45,7 @@
   + 주제 : 타이타닉 생존자 예측 모델 만들기
   + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
   + 기간 : 2021.10.19 ~ 10.20
-  + 활용 기술
+  + 활용 기술(Python)
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 도구 : Kfold, LeaveOneOut
