@@ -13,13 +13,23 @@
   - 데이터 분석 : matplotlib, plotly, cufflinks, pandas, numpy
 + 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 
-### 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+### 팀프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
++ 대회 : Dacon 가스공급량 수요예측 모델개발 [링크](https://dacon.io/competitions/official/235830/overview/description)
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
 + 기간 : 2021.10.15 ~ (1달이상 진행 중)
 + 역할 : 부팀장
-+ 활용 기술(Python) : selenium, beautifulsoup, ploty, seaborn, matplotlib, pandas, numpy
-+ 
++ 활용 기술(Python)
+  - 웹 크롤링 : beautifulsoup, selenium
+  - 데이터 확인 및 분석(EDA) : pandas, numpy, matplotlib, seaborn
+  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm 
+  - 알고리즘 : Pycaret
+  - 교차검증 : Kfold(shuffle)
+  - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
++ 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
++ 성과
+  - 교육 코스 최고의 팀 선정
+  - Dacon 대회 38등 기록(0.106439166점. 2021-11-13 21:28:25)
 
 ## 파일럿 프로젝트
   1. 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
