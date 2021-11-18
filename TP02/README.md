@@ -7,7 +7,7 @@
 - 중간 발표(2021.11.4)
 - 최종 발표(2021.11.10)
 - 발표는 끝났지만 대회 끝날 때까지 제출할 예정
-- 최고 점수 : `0.106439166` (38등 12번-2021-11-13 21:28:25)
+- 최고 점수 : `0.1063873964` (총 256팀중 **40등**)(번호 17번. 2021-11-18 20:10:21)
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
@@ -106,6 +106,7 @@
     - pycaret 이용(xgb, lgbm, cat 블랜드, 8개 특성 적용, log1p, expm1 적용) ver0.5(2021.11.16) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.5(2021.11.16).html)
     - pycaret 이용(knn, lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.6(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.6(2021.11.17).html)
     - pycaret 이용(lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.7(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.7(2021.11.17).html)
+    - pycaret 이용(lgbm, cat 평균, 7개 특성 적용, log1p, expm1 적용) ver0.8(2021.11.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.8(2021.11.18).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
@@ -125,8 +126,9 @@
 | 09 | 2021-11-10 09:24:01 | RF+Cat+lgbm+knn | 특성4개(pol / tuned) | 0.1110990574 | - | - |
 | 10 | 2021-11-11 12:58:33 | RF+Cat+lgbm+knn | 특성4개(log, pol / tuned) | 0.1085334855 | - | - |
 | 11 | 2021-11-12 08:19:27 | Cat | 특성4개, log, tuned 1 param | 0.1074639483 | 0.0480 | 0.9205 |
-| 12 | 2021-11-13 21:28:25 | Cat | 특성4개, log, pol, tuned 1 param | **0.106439166** | 0.0478 | 0.9197 |
+| 12 | 2021-11-13 21:28:25 | Cat | 특성4개, log, pol, tuned 1 param | 0.106439166 | 0.0478 | 0.9197 |
 | 13 | 2021-11-16 22:28:19 | Pycaret(cat, lgbm, xgb) 블랜드 | 특성8 | 0.1392496462  | - | 0.9938 |
 | 14 | 2021-11-16 19:16:37 | Pycaret(cat, lgbm, xgb) 블랜드 | 특성8개, log | 0.1230232924 | - | 0.9762 |
 | 15 | 2021-11-17 16:25:40 | Pycaret(cat, lgbm, knn) 블랜드 | 특성7개, log | 0.1992657558  | - | 0.8954 |
 | 16 | 2021-11-17 17:41:13 | Pycaret(cat, lgbm) 블랜드 | 특성7개, log | 0.1090472262 | - | 0.9510 |
+| 17 | 2021-11-18 20:10:21 | Pycaret(cat, lgbm) 평균 | 특성7개, log | **0.1063873964** | - | 0.9539 |
