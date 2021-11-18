@@ -28,5 +28,5 @@
     - 머신러닝 모델 : KNN, LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression, k-means, DBSCAN
     - 검증 알고리즘 : Kfold, LeaveOneOut
 
-  + 딥러닝 (2021.11.02-11.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
+  + 딥러닝 입(2021.11.02-11.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
     - 알고리즘 : tensorflow, keras, CNN, RNN, GAN
