@@ -28,8 +28,10 @@
   - 외부 데이터(시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 + 활용 기술
   - 웹 크롤링 : beautifulsoup, selenium
-  - 데이터 확인 및 분석(EDA) : pandas, numpy, matplotlib, seaborn
-  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm 
+  - 데이터 전처리 : pandas, numpy
+  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn
+  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
+  - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
   - 알고리즘 : Pycaret
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
