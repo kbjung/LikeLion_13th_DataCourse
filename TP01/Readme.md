@@ -52,6 +52,7 @@
 
 
 ## 분석 자료
++ **분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)**
 + 코로나 확진자 수 변화 [가채원code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/가채원/코로나_확진자_수(가채원).html)
 + 서울시 공공 자전거 이용객 수 변화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%ED%8C%80%EC%9B%90_%EC%9E%90%EB%A3%8C/%EC%A0%95%EC%A7%84%EC%9A%B0)  / [정진우code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/정진우/Team_PRJ_bike20.html)
 + 서울시 지하철 승하차 승객 수 변화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%A7%80%ED%95%98%EC%B2%A0%EC%9B%94%EB%B3%84%EC%8A%B9%ED%95%98%EC%B0%A8%EC%8A%B9%EA%B0%9D%EC%88%98)
@@ -59,7 +60,6 @@
 + 서울시 교통량 변화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B5%90%ED%86%B5%EB%9F%89_%EC%A0%95%EB%B3%B4)
 	- 2013.01-2021.08 약 60만줄의 엑셀 데이터 처리,  [김범중code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/김범중/교통량/03_traffic.html)
 + 온라인 상품군별 거래액 변화 [윤진훈code](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/팀원_자료/윤진훈/온라인쇼핑거래액(윤진훈).html)
-+ **분석 내용 : 코로나 초기에는 경각심이 높았으나, 점차 낮아짐을 알 수 있다.(추가적인 자료, 근거 보안 필요)**
 + 테스트
 	- 코로나 확진자 수 변화, 뉴스 웹 크롤링(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%BD%94%EB%A1%9C%EB%82%98%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98)
 	- 온라인 상품군별 거래액 변화(김범중) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0%EC%83%81%ED%92%88%EA%B5%B0%EB%B3%84%EA%B1%B0%EB%9E%98%EC%95%A1)
