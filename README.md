@@ -51,7 +51,7 @@
   + 활용 기술(Python)
     - 데이터 전처리 : pandas, numpy
     - 데이터 시각화 : seaborn, matplotlib
-    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
+    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression
     - 검증 알고리즘 : Kfold, LeaveOneOut
 
 
