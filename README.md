@@ -13,6 +13,7 @@
   - 데이터 전처리 : pandas, numpy
   - 데이터 시각화 : matplotlib, plotly, cufflinks
 + 발표 자료 📊 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
++ 전체 팀 발표 자료 모음 [link](https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/)
 
 ### 팀프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [대회링크](https://dacon.io/competitions/official/235830/overview/description)
@@ -30,6 +31,7 @@
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 + 발표 자료 📊 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
++  팀 발표 자료 모음 [link](https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/)
 + 성과
   - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
   - ✨ Dacon 대회 38등(총 256팀) 기록(0.106439166점. 2021-11-13 21:28:25)
