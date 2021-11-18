@@ -2,14 +2,29 @@
 멋쟁이사자처럼 13회차 프로젝트 정리
 
 
-### 파일럿 프로젝트
+## 팀프로젝트
+### 팀프로젝트1 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
++ 주제 : 코로나19에 따른 생활 양상 변화
++ 목표 : 웹 크롤링과 데이터 활용을 통한 데이터 처리 능력 향상
++ 기간 : 2021.09.17 ~ 10.08 (3주)
++ 역할 : 팀장
++ 활용 기술(Python)
+  - 웹 크롤링 : selenium, beautifulsoup
+  - 데이터 분석 : matplotlib, plotly, cufflinks, pandas, numpy
++ 발표 자료 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
+
+### 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
++ 주제 : 2019년 가스공급량 예측
++ 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
++ 기간 : 2021.10.15 ~ (1달이상 진행 중)
++ 역할 : 부팀장
++ 활용 기술(Python) : selenium, beautifulsoup, ploty, seaborn, matplotlib, pandas, numpy
++ 
+
+## 파일럿 프로젝트
   1. 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기. 막대 그래프로 출력(2021.09.14) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.14(pilot_project))
   2. 타이타닉 생존자 예측 모델 만들기(2021.10.20) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
 
-
-### 팀프로젝트
-  1. 코로나19에 따른 생활 양상 변화(2021.09.17~10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
-  2. 가스공급량 수요예측 모델개발(Dacon)(2021.10.15~) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
 ### 수업 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
