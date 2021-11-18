@@ -1,4 +1,4 @@
-# LikeLion_13th_DataCourse [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
+# 데이터 분석 과정 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse)
 멋쟁이사자처럼 13회차 프로젝트 정리
 
 
