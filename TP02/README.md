@@ -1,9 +1,9 @@
-# 팀 프로젝트 02(2021.10.15 ~ 11.10) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+# 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 11.10) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 - 팀명 : 으샤으샤
 - 팀장 : 가채원
 - 부팀장 : **김범중**📢
 - 팀원 : 김진연, 윤진훈
-- 발표 자료 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
+- 발표 자료 📊 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 - 중간 발표(2021.11.04)
 - 최종 발표(2021.11.10)
 - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정
