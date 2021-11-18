@@ -20,7 +20,8 @@
   - 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교.
 + 활용 기술(Python)
   - 웹 크롤링 : selenium, beautifulsoup
-  - 데이터 분석 : matplotlib, plotly, cufflinks, pandas, numpy
+  - 데이터 전처리 : pandas, numpy
+  - 데이터 시각화 : matplotlib, plotly, cufflinks
 
 ## 팀 프로젝트를 통해 얻고 싶은 것
 + 실제 데이터를 처리하면서 발생하는 많은 문제들을 해결하며 파이썬에 대한 이해도를 높이고, 데이터 처리 능력 향상을 기대합니다.
