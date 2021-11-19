@@ -4,7 +4,7 @@
 - 팀장 : **김범중** 📢
 - 팀원 : 정진우, 가채원, 윤진훈
 - 발표 자료 📊 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
-+ 활용 기술(Python)
++ 활용 기술(Python) 🔧
 	- 웹 크롤링 : selenium, beautifulsoup
 	- 데이터 전처리 : pandas, numpy
 	- 데이터 시각화 : matplotlib, plotly, cufflinks
