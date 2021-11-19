@@ -4,10 +4,6 @@
 - 팀장 : **김범중** 📢
 - 팀원 : 정진우, 가채원, 윤진훈
 - 발표 자료 📊 [PDF](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
-+ 활용 기술(Python) 🔧
-	- 웹 크롤링 : selenium, beautifulsoup
-	- 데이터 전처리 : pandas, numpy
-	- 데이터 시각화 : matplotlib, plotly, cufflinks
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/135709426-76b6aefc-f7aa-4df3-8dc8-5425343ac057.jpg" width=30%>
 
@@ -22,7 +18,7 @@
   - 처음에는 증가율이 증가하면 영향이 크지만, 코로나가 길어지면서 점차 영향이 줄어들 것으로 예측.
 + 결과 도출 전략
   - 생활 변화 양상을 코로나 확진자 수 변화와 연계하여 비교.
-+ 활용 기술(Python)
++ 활용 기술(Python) 🔧
   - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 전처리 : pandas, numpy
   - 데이터 시각화 : matplotlib, plotly, cufflinks
