@@ -8,7 +8,7 @@
 + 목표 : 웹 크롤링과 데이터 활용을 통한 데이터 처리 능력 향상
 + 기간 : 2021.09.17 ~ 10.08 (3주)
 + 역할 : 팀장 📢
-+ 활용 기술(Python)
++ 활용 기술(Python) 🔧
   - 웹 크롤링 : selenium, beautifulsoup
   - 데이터 전처리 : pandas, numpy
   - 데이터 시각화 : matplotlib, plotly, cufflinks
@@ -21,7 +21,7 @@
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
 + 기간 : 2021.10.15 ~ (진행 중)
 + 역할 : 부팀장 📢
-+ 활용 기술(Python)
++ 활용 기술(Python) 🔧
   - 웹 크롤링 : beautifulsoup, selenium
   - 데이터 전처리 : pandas, numpy
   - 데이터 확인 및 분석(EDA) : matplotlib, seaborn
@@ -42,7 +42,7 @@
   + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
   + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
   + 기간 : 2021.09.14(1일) + 추가정리
-  + 활용 기술(Python)
+  + 활용 기술(Python) 🔧
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 데이터 시각화 : Ploty, Seaborn, matplotlib
@@ -52,7 +52,7 @@
   + 주제 : 타이타닉 생존자 예측 모델 만들기
   + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
   + 기간 : 2021.10.19 ~ 10.20
-  + 활용 기술(Python)
+  + 활용 기술(Python) 🔧
     - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, Logistic
     - 검증 방법 알고리즘 : Kfold, LeaveOneOut
