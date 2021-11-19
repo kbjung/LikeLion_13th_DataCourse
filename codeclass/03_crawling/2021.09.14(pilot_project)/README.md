@@ -2,7 +2,7 @@
   + 주제 : 네이버 쇼핑몰에서 아이폰 모델, 용량별 가격 통계내기.
   + 목표 : 웹 크롤링, 데이터 처리에 대한 이해와 활용
   + 기간 : 2021.09.14(1일) + 추가정리
-  + 활용 기술(Python)
+  + 활용 기술(Python) 🔧
     - 웹 크롤링 : Selenium, BeautifulSoup
     - 데이터 정리 : Pandas
     - 시각화 : Ploty, Seaborn, matplotlib
