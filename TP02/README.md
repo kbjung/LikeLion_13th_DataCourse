@@ -108,6 +108,7 @@
     - pycaret 이용(lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.7(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.7(2021.11.17).html)
     - pycaret 이용(lgbm, cat 평균, 7개 특성 적용, log1p, expm1 적용) ver0.8(2021.11.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.8(2021.11.18).html)
     - pycaret 이용(lgbm, cat 각 단계별 평균, 7개 특성 적용, log1p, expm1 적용) ver0.9(2021.11.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.9(2021.11.19).html)
+    - pycaret 이용(lgbm, cat 각 단계별 평균, 6개 특성 적용, log1p, expm1 적용) ver1.0(2021.11.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.0(2021.11.21).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
@@ -134,3 +135,4 @@
 | 16 | 2021-11-17 17:41:13 | Pycaret(cat, lgbm) 블랜드 | 특성7개, log | 0.1090472262 | - | 0.9510 |
 | 17 | 2021-11-18 20:10:21 | Pycaret(cat, lgbm) 평균 | 특성7개, log | 0.1063873964 | - | 0.9539 |
 | 18✨ | 2021-11-19 16:06:38 | Pycaret(cat, lgbm) 각 단계 평균 | 특성7개, log | **0.1059386516** | - | 0.9363 |
+| 19 | 2021-11-21 11:13:48 | Pycaret(cat, lgbm) 각 단계 평균 | 특성6개, log | 0.1067865794 | - | 0.9414 |
