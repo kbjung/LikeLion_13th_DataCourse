@@ -5096,3 +5096,72 @@ AssertionError
 2021-11-21 01:53:55,215:INFO:Light Gradient Boosting Machine Imported succesfully
 2021-11-21 01:53:55,215:INFO:Starting cross validation
 2021-11-21 01:53:55,216:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2021-11-21 01:54:35,236:INFO:Calculating mean and std
+2021-11-21 01:54:35,237:INFO:Creating metrics dataframe
+2021-11-21 01:54:35,242:INFO:Finalizing model
+2021-11-21 01:54:39,383:INFO:create_model_container: 4
+2021-11-21 01:54:39,383:INFO:master_model_container: 4
+2021-11-21 01:54:39,384:INFO:display_container: 6
+2021-11-21 01:54:39,384:INFO:LGBMRegressor(bagging_fraction=0.6, bagging_freq=7, boosting_type='gbdt',
+              class_weight=None, colsample_bytree=1.0, feature_fraction=0.7,
+              importance_type='split', learning_rate=0.1, max_depth=-1,
+              min_child_samples=51, min_child_weight=0.001, min_split_gain=0.6,
+              n_estimators=180, n_jobs=-1, num_leaves=90, objective=None,
+              random_state=3947, reg_alpha=1, reg_lambda=0.1, silent='warn',
+              subsample=1.0, subsample_for_bin=200000, subsample_freq=0)
+2021-11-21 01:54:39,385:INFO:create_model() succesfully completed......................................
+2021-11-21 01:54:39,507:INFO:create_model_container: 4
+2021-11-21 01:54:39,507:INFO:master_model_container: 4
+2021-11-21 01:54:39,508:INFO:display_container: 5
+2021-11-21 01:54:39,509:INFO:LGBMRegressor(bagging_fraction=0.6, bagging_freq=7, boosting_type='gbdt',
+              class_weight=None, colsample_bytree=1.0, feature_fraction=0.7,
+              importance_type='split', learning_rate=0.1, max_depth=-1,
+              min_child_samples=51, min_child_weight=0.001, min_split_gain=0.6,
+              n_estimators=180, n_jobs=-1, num_leaves=90, objective=None,
+              random_state=3947, reg_alpha=1, reg_lambda=0.1, silent='warn',
+              subsample=1.0, subsample_for_bin=200000, subsample_freq=0)
+2021-11-21 01:54:39,509:INFO:finalize_model() succesfully completed......................................
+2021-11-21 01:54:39,645:INFO:Initializing finalize_model()
+2021-11-21 01:54:39,646:INFO:finalize_model(estimator=<catboost.core.CatBoostRegressor object at 0x7fb8e2bf6a50>, fit_kwargs=None, groups=None, model_only=True, display=None)
+2021-11-21 01:54:39,646:INFO:Finalizing <catboost.core.CatBoostRegressor object at 0x7fb8e2bf6a50>
+2021-11-21 01:54:39,646:INFO:Initializing create_model()
+2021-11-21 01:54:39,647:INFO:create_model(estimator=<catboost.core.CatBoostRegressor object at 0x7fb8e2bf6a50>, fold=None, round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, verbose=False, system=False, metrics=None, add_to_model_list=False, probability_threshold=None, display=None, kwargs={})
+2021-11-21 01:54:39,647:INFO:Checking exceptions
+2021-11-21 01:54:39,647:INFO:Importing libraries
+2021-11-21 01:54:39,648:INFO:Copying training dataset
+2021-11-21 01:54:39,657:INFO:Defining folds
+2021-11-21 01:54:39,657:INFO:Declaring metric variables
+2021-11-21 01:54:39,658:INFO:Importing untrained model
+2021-11-21 01:54:39,658:INFO:Declaring custom model
+2021-11-21 01:54:39,659:INFO:CatBoost Regressor Imported succesfully
+2021-11-21 01:54:39,659:INFO:Starting cross validation
+2021-11-21 01:54:39,660:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=1
+2021-11-21 01:55:11,671:INFO:Calculating mean and std
+2021-11-21 01:55:11,672:INFO:Creating metrics dataframe
+2021-11-21 01:55:11,690:INFO:Finalizing model
+2021-11-21 01:55:14,976:INFO:create_model_container: 4
+2021-11-21 01:55:14,977:INFO:master_model_container: 4
+2021-11-21 01:55:14,977:INFO:display_container: 6
+2021-11-21 01:55:14,977:INFO:<catboost.core.CatBoostRegressor object at 0x7fb8d67fa550>
+2021-11-21 01:55:14,977:INFO:create_model() succesfully completed......................................
+2021-11-21 01:55:15,108:INFO:create_model_container: 4
+2021-11-21 01:55:15,109:INFO:master_model_container: 4
+2021-11-21 01:55:15,109:INFO:display_container: 5
+2021-11-21 01:55:15,109:INFO:<catboost.core.CatBoostRegressor object at 0x7fb8d67fa550>
+2021-11-21 01:55:15,109:INFO:finalize_model() succesfully completed......................................
+2021-11-21 01:55:15,271:INFO:Initializing predict_model()
+2021-11-21 01:55:15,271:INFO:predict_model(estimator=LGBMRegressor(bagging_fraction=0.6, bagging_freq=7, boosting_type='gbdt',
+              class_weight=None, colsample_bytree=1.0, feature_fraction=0.7,
+              importance_type='split', learning_rate=0.1, max_depth=-1,
+              min_child_samples=51, min_child_weight=0.001, min_split_gain=0.6,
+              n_estimators=180, n_jobs=-1, num_leaves=90, objective=None,
+              random_state=3947, reg_alpha=1, reg_lambda=0.1, silent='warn',
+              subsample=1.0, subsample_for_bin=200000, subsample_freq=0), probability_threshold=None, encoded_labels=True, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-21 01:55:15,272:INFO:Checking exceptions
+2021-11-21 01:55:15,272:INFO:Preloading libraries
+2021-11-21 01:55:15,272:INFO:Preparing display monitor
+2021-11-21 01:55:15,702:INFO:Initializing predict_model()
+2021-11-21 01:55:15,702:INFO:predict_model(estimator=<catboost.core.CatBoostRegressor object at 0x7fb8d67fa550>, probability_threshold=None, encoded_labels=True, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-21 01:55:15,702:INFO:Checking exceptions
+2021-11-21 01:55:15,703:INFO:Preloading libraries
+2021-11-21 01:55:15,703:INFO:Preparing display monitor
