@@ -108,7 +108,7 @@
     - pycaret 이용(lgbm, cat 블랜드, 7개 특성 적용, log1p, expm1 적용) ver0.7(2021.11.17) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.7(2021.11.17).html)
     - pycaret 이용(lgbm, cat 평균, 7개 특성 적용, log1p, expm1 적용) ver0.8(2021.11.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.8(2021.11.18).html)
     - pycaret 이용(lgbm, cat 각 단계별 평균, 7개 특성 적용, log1p, expm1 적용) ver0.9(2021.11.19) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.9(2021.11.19).html)
-    - pycaret 이용(lgbm, cat 각 단계별 평균, 6개 특성 적용, log1p, expm1 적용) ver1.0(2021.11.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.0(2021.11.21).html)
+    - pycaret 이용(lgbm, cat 각 단계별 평균, 6개 특성 적용, log1p, expm1 적용) ver1.0(2021.11.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.0(colab)(2021.11.21).html)
     - pycaret(lgbm, catboost), 튜닝 제외, 기온, 기압, 습도 순으로 예측, 특성 6개(month, 시간, 구분, 외부 데이터 3개)로 예측, log 적용 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.1(2021.12.01).html)
     - pycaret(lgbm, catboost), lgbm만 튜닝, 기온, 기압, 습도 순으로 예측, 특성 6개(month, 시간, 구분, 외부 데이터 3개)로 예측, log 적용 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.2(2021.12.01).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 6개(month, 시간, 구분, 외부 데이터 3개)로 예측, log 적용 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.3(2021.12.01).html)
