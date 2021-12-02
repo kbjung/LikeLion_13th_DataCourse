@@ -48,6 +48,7 @@
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.1(2021.10.15).html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.2(2021.10.18).html)
     - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.3(2021.11.03).html)
+    - 자체 평가 지표. 가장 높은 점수의 제출 파일과 비교 ver0.2(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.2(2021.12.02).html)
 
 
 ## 자료 분석
@@ -68,6 +69,7 @@
       - 일별 크롤링 함수화 완료(2021.10.24) ver0.6.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.6.1(2021.10.24).html)
       - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-02_기온값_숫자형변환_ver0.1(2021.10.25).html)
       - 기상청기상자료 전처리(2021.11.15) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-03_기상청자료_정리_ver0.1(2021.11.15).html)
+      - 기상청기상자료 중 가스공급량, 기온, 기압, 습도의 변화비율로 데이터 출력 ver0.1(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-04_기상청자료_비율_ver0.1(2021.12.02).html)
   + 04 가스 공급량과 기온 데이터 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/04_%EA%B0%80%EC%8A%A4_%EA%B8%B0%EC%98%A8_%ED%95%A9%EC%B9%98%EA%B8%B0)
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기온_합치기_ver0.1(2021.10.25).html)
 
@@ -114,6 +116,7 @@
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 6개(month, 시간, 구분, 외부 데이터 3개)로 예측, log 적용 ver1.3(2021.12.01) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.3(2021.12.01).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 7개, log 적용 ver1.4(2021.12.01) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.4(2021.12.01).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 7개, log 적용, 구분별 ver1.5(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.5(2021.12.02).html)
+    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온비율, 기압비율, 습도비율 순으로 예측, 특성 7개, 구분별 ver1.6(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.6(2021.12.02).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
