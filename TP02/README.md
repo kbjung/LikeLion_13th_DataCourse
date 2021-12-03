@@ -8,6 +8,7 @@
 - 최종 발표(2021.11.10)
 - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정
 - ✨ 최고 점수 : **0.1032155541** (총 259팀중 **39등**)(결과 점수표 번호 24번. 2021-12-02 10:57:53)
+- 결과 모음 표 [page](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
