@@ -1,4 +1,4 @@
-# 🤝🏼 팀 프로젝트 01(2021.09.17 ~ 10.08) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
+# 🤝🏼 팀 프로젝트 01(2021.09.17 ~ 10.08) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
 
 - 팀명 : 스파게티
 - 팀장 : **김범중** 📢
