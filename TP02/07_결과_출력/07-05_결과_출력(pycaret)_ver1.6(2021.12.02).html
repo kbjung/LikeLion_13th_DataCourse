@@ -14310,10 +14310,10 @@ a.anchor-link {
 <li>2019년 제출 파일 : '../data/sample_submission.csv'</li>
 <li>2013-2018년 가스공급량과 기온 자료 : '../2013-2018년_가스공급량_기온_습도_기압01.csv'</li>
 <li>특성<ul>
-<li>'month', '시간'으로 기온 예측</li>
+<li>'month', 'weekday', '시간'으로 기온 예측</li>
 <li>기온, 기압, 습도 순서로 예측</li>
 <li>각 특성 예측 마다 앞에서 예측한 특성 활용</li>
-<li>공급량 예측(7개) : 'month', 'weekday', '시간', '구분', '기온', '기압', '습도'</li>
+<li>공급량 예측(7개) : 'month', 'weekday', '시간', '구분', '기온비율', '기압비율', '습도비율'</li>
 </ul>
 </li>
 <li>2개 모델('lightgbm', 'catboost') 예측 평균</li>
@@ -14343,7 +14343,7 @@ a.anchor-link {
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># 제출 파일명 : sub25_pycaret13.csv(제출X)</span>
-<span class="c1"># 최고점 파일과 비교 점수 : -8.06478 / 0.69833</span>
+<span class="c1"># 최고점 파일과 비교 점수(NMAE/R2) : 0.69833 / -8.06478</span>
 <span class="c1"># 제출 점수 : -</span>
 </pre></div>
 
@@ -15075,7 +15075,7 @@ memory usage: 886.1+ KB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="2019&#45380;-&#44592;&#50728;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44592;&#50728; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44592;&#50728;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
+<h2 id="2019&#45380;-&#44592;&#50728;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44592;&#50728;&#48708;&#50984; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44592;&#50728;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
@@ -15581,7 +15581,7 @@ memory usage: 39.3 MB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="2019&#45380;-&#44592;&#50517;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44592;&#50517; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44592;&#50517;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
+<h2 id="2019&#45380;-&#44592;&#50517;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44592;&#50517;&#48708;&#50984; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44592;&#50517;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
@@ -16038,7 +16038,7 @@ memory usage: 39.3 MB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="2019&#45380;-&#49845;&#46020;(Humidity)-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#49845;&#46020;(Humidity) &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#49845;&#46020;(Humidity)-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
+<h2 id="2019&#45380;-&#49845;&#46020;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#49845;&#46020;&#48708;&#50984; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#49845;&#46020;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
@@ -16501,7 +16501,7 @@ memory usage: 39.3 MB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="2019&#45380;-&#44032;&#49828;-&#44277;&#44553;&#47049;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44032;&#49828; &#44277;&#44553;&#47049; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44032;&#49828;-&#44277;&#44553;&#47049;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2><ul>
+<h2 id="2019&#45380;-&#44032;&#49828;-&#44277;&#44553;&#47049;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">2019&#45380; &#44032;&#49828; &#44277;&#44553;&#47049;&#48708;&#50984; &#54984;&#47144;/&#50696;&#52769;<a class="anchor-link" href="#2019&#45380;-&#44032;&#49828;-&#44277;&#44553;&#47049;&#48708;&#50984;-&#54984;&#47144;/&#50696;&#52769;">&#182;</a></h2><ul>
 <li>구분별로 예측하기(구분 7개)</li>
 </ul>
 
