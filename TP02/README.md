@@ -118,7 +118,9 @@
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 7개, log 적용, 구분별 ver1.5(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.5(2021.12.02).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온비율, 기압비율, 습도비율 순으로 예측, 특성 7개, 구분별 ver1.6(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.6(2021.12.02).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 7개(+day), 구분별 ver1.7(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.7(2021.12.03).html)
-    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 6개(습도 제거), 구분별 ver1.8(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.8(2021.12.03).html)
+    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 6개(습도 제외), 구분별 ver1.8(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.8(2021.12.03).html)
+    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 7개, 구분별, 1~3월만 ver1.9(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.9(2021.12.03).html)
+    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 6개(weekday제외), 구분별  ver2.0(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.0(2021.12.03).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
@@ -131,6 +133,8 @@
 특성 6개 : 'month', 'weekday', '시간', '구분', '기온', '기압'  
 특성 6개2 : 'month', '시간', '구분', '기온', '기압', '습도'  
 NMAE(자체) : 제출 파일 중 최고점과 비교  
+18번부터 검증 점수는 최고점 파일과 비교 점수  
+
 | 번호 | 제출 날짜 | 모델 or 알고리즘 | 조건 | 점수 | NMAE | MAPE | R2(교차검증) |
 |---|---|---|---|---|---|---|---|
 | 04 | 2021-11-09 09:00:38 | RF+Cat | 특성4개 | 0.1141754311 | - | - |0.9627 |
@@ -147,13 +151,20 @@ NMAE(자체) : 제출 파일 중 최고점과 비교
 | 15 | 2021-11-17 16:25:40 | Pycaret(cat, lgbm, knn) 블랜드 | 특성7개, log | 0.1992657558  | - | - | 0.8954 |
 | 16 | 2021-11-17 17:41:13 | Pycaret(cat, lgbm) 블랜드 | 특성7개, log | 0.1090472262 | - | - | 0.9510 |
 | 17 | 2021-11-18 20:10:21 | Pycaret(cat, lgbm) 평균 | 특성7개, log | 0.1063873964 | - | - | 0.9539 |
-| 18 | 2021-11-19 16:06:38 | Pycaret(cat, lgbm) 각 단계 평균 | 특성7개, log | 0.1059386516 | 0.03785 | 0.0411 | 0.9361 |
-| 19 | 2021-11-21 11:13:48 | Pycaret(cat, lgbm) 각 단계 평균 | 특성6개, log | 0.1067865794 | 0.03742 | 0.0401 |  0.9375 |
-| 20 | 2021-12-01 15:27:22 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, 특성6개2, log | 0.1069848285 | 0.04088 | 0.0422 | 0.9361 |
-| 21 | 2021-12-01 16:20:56 | Pycaret(cat, lgbm) 각 단계 평균 | lgbm만 튜닝, 특성6개2, log | 0.1072981748 | 0.04649 | 0.0406 | 0.9361 |
-| 22 | 2021-12-01 16:45:05 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성6개2, log | 0.1070370366 | 0.04217 | 0.0422 | 0.9360 |
-| 23 | 2021-12-02 09:06:26 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성7개, log | 0.1052374771 | 0.02240 | 0.0371 | 0.9451 |
-| 24✨ | 2021-12-02 10:57:53 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성7개, log, 구분별 | **0.1032155541** | - | 0.0146 | 0.9818 |
-| 25 | 정확도 낮아 미제출 | Pycaret(cat, lgbm) 각 단계 평균 | 비율, 튜닝X, final X, 특성7개2, log, 구분별 | - |  0.69833 | 1.5587 | 0.8413 |
-| 26 | 2021-12-03 12:11:36 | Pycaret(cat, lgbm) 각 단계 평균 | 비율, 튜닝X, final X, 특성7개2, log, 구분별 | 0.1121198893 | 0.07603 | 0.0126 | 0.9870 |
-| 27 | 2021-12-03 12:25:34 | Pycaret(cat, lgbm) 각 단계 평균 | 비율, 튜닝X, final X, 특성7개2, log, 구분별 | 0.1033799679 | 0.01164 | 0.0147 | 0.9808 |
+
+Pycaret(cat, lgbm) 각 단계 평균  
+성능 향상 조건 : 구분별 훈련/, 'weekday' 추가, 'day' 제거, '습도' 추가  
+| 번호 | 제출 날짜 | 특성 | 조건 | 점수 | NMAE | R2(교차검증) |
+|---|---|---|---|---|---|---|---|
+| 18 | 2021-11-19 16:06:38 | 'month', 'weekday', '시간', '구분', '기온', '기압', '습도' | log | 0.1059386516 | 0.03785 | 0.96182 |
+| 19 | 2021-11-21 11:13:48 | 'month', 'weekday', '시간', '구분', '기온', '기압' | log | 0.1067865794 | 0.03742 | 0.96214 |
+| 20 | 2021-12-01 15:27:22 | 'month', '시간', '구분', '기온', '기압', '습도' | 튜닝X, log | 0.1069848285 | 0.04088 | 0.94782 |
+| 21 | 2021-12-01 16:20:56 | 'month', '시간', '구분', '기온', '기압', '습도' | lgbm만 튜닝, log | 0.1072981748 | 0.04649 | 0.93810 |
+| 22 | 2021-12-01 16:45:05 | 'month', '시간', '구분', '기온', '기압', '습도' | 튜닝X, final X, log | 0.1070370366 | 0.04217 | 0.94603 |
+| 23 | 2021-12-02 09:06:26 | 'month', 'weekday', '시간', '구분', '기온', '기압', '습도' | 튜닝X, final X, log | 0.1052374771 | 0.02240 | 0.98544 |
+| 24✨ | 2021-12-02 10:57:53 | 'month', 'weekday', '시간', '구분', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별 | **0.1032155541** | - | - |
+| 25 | 정확도 낮아 미제출 | 'month', 'weekday', '시간', '구분', '기온비율', '기압비율' | 비율, 튜닝X, final X, log, 구분별 | - |  0.69833 | -8.06478 |
+| 26 | 2021-12-03 12:11:36 | 'month', 'day', 'weekday', '시간', '구분', '기온', '기압' | 튜닝X, final X, log, 구분별 | 0.1121198893 | 0.07603 | 0.84227 |
+| 27 | 2021-12-03 12:25:34 | 'month', 'weekday', '시간', '구분', '기온', '기압' | 튜닝X, final X, log, 구분별 | 0.1033799679 | 0.01136 | 0.99624 |
+| 28 | - | 'month', 'weekday', '시간', '구분', '기온', '기압', '습도' | 튜닝X, final X, 특성7개, log, 구분별, 1~3월만 | - | 0.02058 | 0.98496 |
+| 29 | - | 'month', '시간', '구분', '기온', '기압', '습도' | 튜닝X, final X, 특성6개2, log, 구분별 | - | 0.03793 | 0.95271 |
