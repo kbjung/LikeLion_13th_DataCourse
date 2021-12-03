@@ -1,3 +1,10 @@
+### 팀프로젝트2(진행중...) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
++ 대회 : Dacon 가스공급량 수요예측 모델개발 [대회링크](https://dacon.io/competitions/official/235830/overview/description)
++ 주제 : 2019년 가스공급량 예측
++ 성과
+  - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
+  - ✨ Dacon 대회 **39등**(총 259팀) 기록(**0.1032155541점**. 2021-12-02 10:57:53)
+
 ## 결과 점수 표2
 18번부터 검증 점수는 최고점 파일과 비교 점수  
 Pycaret(cat, lgbm) 각 단계 평균  
