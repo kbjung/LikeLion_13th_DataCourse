@@ -117,14 +117,16 @@
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 7개, log 적용 ver1.4(2021.12.01) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.4(2021.12.01).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압, 습도 순으로 예측, 특성 7개, log 적용, 구분별 ver1.5(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.5(2021.12.02).html)
     - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온비율, 기압비율, 습도비율 순으로 예측, 특성 7개, 구분별 ver1.6(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.6(2021.12.02).html)
+    - pycaret(lgbm, catboost), 튜닝X, finalize_model X, 기온, 기압 순으로 예측, 특성 7개(+day), 구분별 ver1.7(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.6(2021.12.02).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
 
 ## 결과 점수 표
 특성 4개 : 'month', '시간', '구분', '기온'  
-특성 8개 : 'month', '일시', 'weekday', '시간', '구분', '기온', '습도', '기온'  
-특성 7개 : 'month', 'weekday', '시간', '구분', '기온', '습도', '기온'  
+특성 8개 : 'month', '일시', 'weekday', '시간', '구분', '기온', '습도', '기압'  
+특성 7개 : 'month', 'weekday', '시간', '구분', '기온', '습도', '기압'  
+특성 7개2 : 'month', 'day', 'weekday', '시간', '구분', '기온', '기압'  
 특성 6개 : 'month', 'weekday', '시간', '구분', '기온', '기압'  
 특성 6개2 : 'month', '시간', '구분', '기온', '기압', '습도'
 
@@ -151,4 +153,4 @@
 | 22 | 2021-12-01 16:45:05 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성6개', log | 0.1070370366 | - | 0.0422 | 0.9360 |
 | 23 | 2021-12-02 09:06:26 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성7개, log | 0.1052374771 | - | 0.0371 | 0.9451 |
 | 24✨ | 2021-12-02 10:57:53 | Pycaret(cat, lgbm) 각 단계 평균 | 튜닝X, final X, 특성7개, log, 구분별 | **0.1032155541** | - | 0.0146 | 0.9818 |
-| 25 | 정확도 낮아 미제출 | Pycaret(cat, lgbm) 각 단계 평균 | 비율, 튜닝X, final X, 특성7개, log, 구분별 | - | - | 1.5587 | 0.8413 |
+| 25 | 정확도 낮아 미제출 | Pycaret(cat, lgbm) 각 단계 평균 | 비율, 튜닝X, final X, 특성7개2, log, 구분별 | - | - | 1.5587 | 0.8413 |
