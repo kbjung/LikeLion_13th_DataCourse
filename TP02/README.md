@@ -7,7 +7,7 @@
 - 중간 발표(2021.11.04)
 - 최종 발표(2021.11.10)
 - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정
-- ✨ 최고 점수 : **0.1032155541** (총 259팀중 **39등**)(결과 점수표 번호 24번. 2021-12-02 10:57:53)
+- ✨ 최고 점수 : **0.1030720506** (총 259팀중 **41등**)(결과 점수표 번호 32번. 2021-12-04 18:44:17)
 - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
@@ -126,7 +126,8 @@
     - 28.lgbm, cat, 튜닝X, finalize_model X, 특성 7개, 구분별, 1~3월만 ver1.9(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.9(2021.12.03).html)
     - 29.lgbm, cat, 튜닝X, finalize_model X, 특성 6개(weekday제외), 구분별 ver2.0(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.0(2021.12.03).html)
     - 30.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 비율 예측, 특성 7개, 구분별 ver2.1(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.1(2021.12.04).html)
-    - 30.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 차 예측, 특성 7개, 구분별 ver2.2(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.2(2021.12.04).html)
+    - 31.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 차 예측, 특성 7개, 구분별 ver2.2(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.2(2021.12.04).html)
+    - 32.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 특성 7개, log, 구분별 ver2.2(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.2(2021.12.04).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
@@ -169,7 +170,7 @@ Pycaret(cat, lgbm) 각 단계 평균
 | 21 | 2021-12-01 16:20:56 | 기본 + '기온', '기압', '습도' | lgbm만 튜닝, log | 0.1072981748 | 0.04649 | 0.93810 |
 | 22 | 2021-12-01 16:45:05 | 기본 + '기온', '기압', '습도' | 튜닝X, final X, log | 0.1070370366 | 0.04217 | 0.94603 |
 | 23 | 2021-12-02 09:06:26 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log | 0.1052374771 | 0.02240 | 0.98544 |
-| 24✨ | 2021-12-02 10:57:53 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별 | **0.1032155541** | - | - |
+| 24 | 2021-12-02 10:57:53 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별 | 0.1032155541 | 기준 | 기준 |
 | 25 | 자체점수 낮아 미제출 | 기본 + 'weekday', '기온비율', '기압비율', '습도비율' | 비율, 튜닝X, final X, 구분별 | - |  0.69833 | -8.06478 |
 | 26 | 2021-12-03 12:11:36 |  기본 + 'day', 'weekday', '기온', '기압' | 튜닝X, final X, log, 구분별 | 0.1121198893 | 0.07603 | 0.84227 |
 | 27 | 2021-12-03 12:25:34 | 기본 + 'weekday', '기온', '기압' | 튜닝X, final X, log, 구분별 | 0.1033799679 | 0.01136 | 0.99624 |
@@ -177,3 +178,14 @@ Pycaret(cat, lgbm) 각 단계 평균
 | 29 | 2021-12-04 16:27:12 | 기본 + '기온', '기압', '습도' | 튜닝X, final X, 특성6개2, log, 구분별 | 0.1061507993 | 0.03793 | 0.95271 |
 | 30 | 자체점수 낮아 미제출 | 기본 + 'weekday', '기온비율', '기압비율', '습도비율' | 비율, 이상치 제거, 튜닝X, final X, 구분별 | - |  1.63890 | -166.78228 |
 | 31 | 자체점수 낮아 미제출 | 기본 + 'weekday', '기온차', '기압차', '습도차' | 차, 이상치 제거, 튜닝X, final X, 구분별 | - |  0.45226 | -6.44388 |
+| 32✨ | 2021-12-04 18:44:17	 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별, 이상치 제거 | **0.1030720506** | 0.01250 | 0.99547 |
+
+## 결과 점수 표3
+32번부터 최고점 파일과 비교 점수  
+Pycaret(cat, lgbm) 각 단계 평균  
+기본 특성 3개 : 'month', '시간', '구분'  
+성능 향상 조건 : 구분별 훈련/, 'weekday' 추가, 'day' 제거, '습도' 추가 , 이상치 제거
+
+| 번호 | 제출 날짜 | 특성 | 조건 | 점수 | NMAE | R2(교차검증) |
+|---|---|---|---|---|---|---|
+| 32✨ | 2021-12-04 18:44:17	 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별, 이상치 제거 | **0.1030720506** | - | - |
