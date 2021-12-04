@@ -125,6 +125,7 @@
     - 27.lgbm, cat, 튜닝X, finalize_model X, 특성 6개(습도 제외), 구분별 ver1.8(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.8(2021.12.03).html)
     - 28.lgbm, cat, 튜닝X, finalize_model X, 특성 7개, 구분별, 1~3월만 ver1.9(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver1.9(2021.12.03).html)
     - 29.lgbm, cat, 튜닝X, finalize_model X, 특성 6개(weekday제외), 구분별 ver2.0(2021.12.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.0(2021.12.03).html)
+    - 30.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 비율 예측, 특성 7개, 구분별 ver2.1(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.1(2021.12.04).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
