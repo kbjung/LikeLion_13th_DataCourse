@@ -15,7 +15,7 @@
 + 발표 자료 📊 [[PDF]](https://kbjung.github.io/LikeLion_13th_DataCourse/TP01/발표자료/211008_스파게티06_최종발표.pdf)
 + 전체 팀 발표 자료 모음 [[link]](https://ldjwj.github.io/LikeLion_13th_DataCourse/04_team_project/)
 
-### 팀프로젝트2(진행중...) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+### 팀프로젝트2(진행 중...) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
 + 주제 : 2019년 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
