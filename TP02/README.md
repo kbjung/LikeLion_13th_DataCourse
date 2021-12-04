@@ -80,7 +80,7 @@
   + 05 결측값 처리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/05_%EA%B2%B0%EC%B8%A1%EC%B9%98_%EC%B2%98%EB%A6%AC)
     - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.1(2021.10.27).html)
     - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.3(2021.10.28).html)
-    - 기상청기상자료 결측치 처리(interpolate ) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-02_결측치_처리_ver0.1(2021.11.15).html)
+    - 기상청기상자료 결측치 처리(interpolate) ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-02_결측치_처리_ver0.1(2021.11.15).html)
 
 
 ## 2019년 기온 예측과 공급량 예측
