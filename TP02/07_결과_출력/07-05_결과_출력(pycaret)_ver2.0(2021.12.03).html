@@ -14960,7 +14960,7 @@ a.anchor-link {
 <span class="n">temp_test</span> <span class="o">=</span> <span class="n">test2019</span><span class="p">[</span><span class="n">test_col</span><span class="p">]</span>
 
 <span class="c1"># pycaret 설정</span>
-<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="s1">&#39;기온&#39;</span><span class="p">,</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
 <span class="c1"># 모델 생성</span>
 <span class="n">lgbm</span> <span class="o">=</span> <span class="n">create_model</span><span class="p">(</span><span class="s1">&#39;lightgbm&#39;</span><span class="p">)</span>
@@ -14974,7 +14974,7 @@ a.anchor-link {
 <span class="n">temp2019_pred</span> <span class="o">=</span> <span class="p">(</span><span class="n">temp2019_pred_lgbm</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="n">temp2019_pred_cat</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">])</span> <span class="o">/</span> <span class="mi">2</span>
 
 <span class="c1"># 2019년 예측 기온 열 추가</span>
-<span class="n">test2019</span><span class="p">[</span><span class="s1">&#39;기온&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">temp2019_pred</span>
+<span class="n">test2019</span><span class="p">[</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span> <span class="o">=</span> <span class="n">temp2019_pred</span>
 
 <span class="n">end</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="n">sec</span> <span class="o">=</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span>
@@ -15257,7 +15257,7 @@ a.anchor-link {
 <span class="n">temp_test</span> <span class="o">=</span> <span class="n">test2019</span><span class="p">[</span><span class="n">test_col</span><span class="p">]</span>
 
 <span class="c1"># pycaret 설정</span>
-<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="s1">&#39;기압&#39;</span><span class="p">,</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
 <span class="c1"># 모델 생성</span>
 <span class="n">lgbm</span> <span class="o">=</span> <span class="n">create_model</span><span class="p">(</span><span class="s1">&#39;lightgbm&#39;</span><span class="p">)</span>
@@ -15271,7 +15271,7 @@ a.anchor-link {
 <span class="n">pressure2019_pred</span> <span class="o">=</span> <span class="p">(</span><span class="n">pressure2019_pred_lgbm</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="n">pressure2019_pred_cat</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">])</span> <span class="o">/</span> <span class="mi">2</span>
 
 <span class="c1"># 2019년 예측 기압 열 추가</span>
-<span class="n">test2019</span><span class="p">[</span><span class="s1">&#39;기압&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pressure2019_pred</span>
+<span class="n">test2019</span><span class="p">[</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span> <span class="o">=</span> <span class="n">pressure2019_pred</span>
 
 <span class="n">end</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="n">sec</span> <span class="o">=</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span>
@@ -15560,7 +15560,7 @@ a.anchor-link {
 <span class="n">temp_test</span> <span class="o">=</span> <span class="n">test2019</span><span class="p">[</span><span class="n">test_col</span><span class="p">]</span>
 
 <span class="c1"># pycaret 설정</span>
-<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="s1">&#39;습도&#39;</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
 <span class="c1"># 모델 생성</span>
 <span class="n">lgbm</span> <span class="o">=</span> <span class="n">create_model</span><span class="p">(</span><span class="s1">&#39;lightgbm&#39;</span><span class="p">)</span>
@@ -15574,7 +15574,7 @@ a.anchor-link {
 <span class="n">humidity2019_pred</span> <span class="o">=</span> <span class="p">(</span><span class="n">humidity2019_pred_lgbm</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="n">humidity2019_pred_cat</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">])</span> <span class="o">/</span> <span class="mi">2</span>
 
 <span class="c1"># 2019년 예측 습도 열 추가</span>
-<span class="n">test2019</span><span class="p">[</span><span class="s1">&#39;습도&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">humidity2019_pred</span>
+<span class="n">test2019</span><span class="p">[</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span> <span class="o">=</span> <span class="n">humidity2019_pred</span>
 
 <span class="n">end</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
 <span class="n">sec</span> <span class="o">=</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span>
@@ -16027,7 +16027,7 @@ a.anchor-link {
     <span class="n">temp_test</span> <span class="o">=</span> <span class="n">temp_test</span><span class="p">[</span><span class="n">test_col</span><span class="p">]</span>
 
     <span class="c1"># pycaret 설정</span>
-    <span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="s1">&#39;log_공급량&#39;</span><span class="p">,</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+    <span class="n">exp</span> <span class="o">=</span> <span class="n">setup</span><span class="p">(</span><span class="n">temp_train</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="n">target_col</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">silent</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">fold</span><span class="o">=</span><span class="mi">7</span><span class="p">,</span> <span class="n">fold_shuffle</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">verbose</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
     <span class="c1"># 모델 생성</span>
     <span class="n">lgbm</span> <span class="o">=</span> <span class="n">create_model</span><span class="p">(</span><span class="s1">&#39;lightgbm&#39;</span><span class="p">)</span>
