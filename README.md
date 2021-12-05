@@ -31,7 +31,7 @@
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 + 발표 자료 📊 [[Notion]](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
-+  팀 발표 자료 모음 [[link]](https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/)
++ 전체 팀 발표 자료 모음 [[link]](https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/)
 + 성과
   - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
   - ✨ Dacon 대회 **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10) 
