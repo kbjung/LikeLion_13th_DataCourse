@@ -134,7 +134,7 @@
     - 36.특성 7개, top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.7(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.7(2021.12.06).html)
     - 37.특성 6개(-습도), top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.8(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.8(2021.12.06).html)
     - 38.특성 7개, top2 평균 / cat+lgbm 평균, robust, 튜닝X, final X, log, 구분별 ver2.9(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.9(2021.12.06).html)
-    - 34.특성 7개, top2 평균 / cat+lgbm 평균, robust, 이상치 제거, 튜닝X, final X, log, 구분별 ver3.0(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.0(2021.12.06).html)
+    - 39.특성 7개, top2 평균 / cat+lgbm 평균, robust, 이상치 제거, 튜닝X, final X, log, 구분별 ver3.0(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.0(2021.12.06).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
 
