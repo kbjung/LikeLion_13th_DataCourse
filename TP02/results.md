@@ -20,6 +20,7 @@
 | 36 | - | 기본 + 'weekday', '기온', '기압', '습도' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.01530 | 0.99249 |
 | 37 | - | 기본 + 'weekday', '기온', '기압' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.01458 | 0.99328 |
 | 38 | X | 기본 + 'weekday', '기온', '기압', '습도' | top2 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, robustscaler | - | 0.01561 | 0.99206 |
+| 39 | X | 기본 + 'weekday', '기온', '기압', '습도' | top2 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, robustscaler, 이상치 제거 | - | 0.01561 | 0.99206 |
 
 
 ## 결과 점수 표3
