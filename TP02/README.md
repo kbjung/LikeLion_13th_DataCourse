@@ -129,15 +129,9 @@
     - 31.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 차 예측, 특성 7개, 구분별 ver2.2(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.2(2021.12.04).html)
     - 32.lgbm, cat, 이상치 제거, 튜닝X, finalize_model X, 특성 7개, log, 구분별 ver2.3(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.3(2021.12.04).html)
     - 33.lgbm, cat, 이상치 제거(정도 0.1), 튜닝X, finalize_model X, 특성 7개, log, 구분별 ver2.4(2021.12.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.4(2021.12.05).html)
-    - 34.top3 블랜드, 이상치 제거(정도 0.1), 튜닝X, finalize_model X, 특성 7개, log, 구분별 ver2.5(2021.12.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.5(2021.12.05).html)
-    - 35.top3 평균, 이상치 제거(정도 0.1), 튜닝X, finalize_model X, 특성 7개, log, 구분별 ver2.6(2021.12.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.6(2021.12.06).html)
     - 36.특성 7개, top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.7(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.7(2021.12.06).html)
     - 37.특성 6개(-습도), top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.8(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.8(2021.12.06).html)
-    - 38.특성 7개, top2(et, dt) 평균 / cat+lgbm 평균, robust, 튜닝X, final X, log, 구분별 ver2.9(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.9(2021.12.06).html)
-    - 39.특성 7개, top2 평균 / cat+lgbm 평균, robust, 이상치 제거, 튜닝X, final X, log, 구분별 ver3.0(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.0(2021.12.06).html)
-    - 40.특성 6개, top2 평균 / cat+lgbm 평균, robust, 튜닝X, final X, log, 구분별 ver3.1(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.1(2021.12.06).html)
-    - 41.특성 6개, top2 평균 / cat+xgb 평균, robust, 튜닝X, final X, log, 구분별 ver3.2(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.2(2021.12.06).html)
-    - 42.특성 7개, top2 평균 / cat+xgb 평균, robust, 튜닝X, final X, log, 구분별 ver3.3(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.3(2021.12.06).html)
+    - 48.특성 6개, 이상치 처리 데이터, top3 평균 / cat+lgbm 평균, robust, 튜닝X, final X, trans, 구분별 ver3.9(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.9(2021.12.07).html)
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
     - (cat, lgbm) + (cat, lgbm, xgb : 팀원 김진연님) ver0.3(2021.12.07) / 제출 점수 : - [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.3.html)
@@ -152,15 +146,9 @@
 |---|---|---|---|---|---|---|
 | 32✨ | 2021-12-06 11:32:13 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별, 이상치 제거 | **0.1026163003** | - | - |
 | 33 | 2021-12-06 13:48:13 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | 0.1027210713 | 0.01129 | 0.99625 |
-| 34 | X | 기본 + 'weekday', '기온', '기압', '습도' | top3 블랜드, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.02539 | 0.96779 |
-| 35 | X | 기본 + 'weekday', '기온', '기압', '습도' | top3 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.02275 | 0.98309 |
-| 36 | - | 기본 + 'weekday', '기온', '기압', '습도' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.01624 | 0.99019 |
-| 37 | X | 기본 + 'weekday', '기온', '기압' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | - | 0.01768 | 0.098909 |
-| 38 | X | 기본 + 'weekday', '기온', '기압', '습도' | top2 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, robustscaler | - | 0.01738 | 0.98886 |
-| 39 | X | 기본 + 'weekday', '기온', '기압', '습도' | top2 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, robustscaler, 이상치 제거 | - | 0.01738 | 0.98886 |
-| 40 | X | 기본 + 'weekday', '기온', '기압' | top2 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, robust | - | 0.01800 | 0.98884 |
-| 41 | X | 기본 + 'weekday', '기온', '기압' | top2 평균, cat/xgb 평균, 튜닝X, final X, log, 구분별, robust | - | 0.01854 | 0.98886 |
-| 40 | X | 기본 + 'weekday', '기온', '기압', '습도' | top2 평균, cat/xgb 평균, 튜닝X, final X, log, 구분별, robust | - | 0.01758 | 0.98933 |
+| 36 | 2021-12-07 08:40:01 | 기본 + 'weekday', '기온', '기압', '습도' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | 0.102706474 | 0.01624 | 0.99019 |
+| 37 | 2021-12-07 09:47:27 | 기본 + 'weekday', '기온', '기압' | top3 평균, cat/lgbm 평균, 튜닝X, final X, log, 구분별, 이상치 제거(0.1) | 0.1027045494 | 0.01768 | 0.098909 |
+| 48 | - | 기본 + 'weekday', '기온', '기압' | top3 평균, 이상치 제거 데이터, cat/lgbm 평균, 튜닝X, final X, trans, robust, 구분별 | - | 0.01478 | 0.99337 |
 
 
 ## 결과 점수 표3
