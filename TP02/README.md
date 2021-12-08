@@ -135,6 +135,11 @@
     - 36.특성 7개, top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.7(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.7(2021.12.06).html)
     - 37.특성 6개(-습도), top3 평균 / cat+lgbm 평균, 이상치 제거(정도 0.1), 튜닝X, final X, log, 구분별 ver2.8(2021.12.06) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver2.8(2021.12.06).html)
     - 48.특성 6개, 이상치 처리 데이터, top3 평균 / cat+lgbm 평균, robust, 튜닝X, final X, trans, 구분별 ver3.9(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver3.9(2021.12.07).html)
+  + 54.음력 파일 생성, 예측 ver4.5(2021.12.08) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver4.5(2021.12.08).html)
+    - 이상치 처리 데이터(2013~2018년 외부데이터)
+    - 기온, 기압, 습도 예측 : 'lunar_month', 'lunar_day', 'weekay', '시간' top3 모델 평균
+    - 가스공급량 예측 특성(7개) : 'lunar_month', 'lunar_day', 'weekday', '시간', '구분', '기온', '기압'
+    - 가스공급량 예측 설정 : robust, transform, 튜닝X, final O, 구분별, cat/lgbm 평균
   + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
     - (cat, lgbm) + (cat, lgbm, xgb : 팀원 김진연님) ver0.3(2021.12.07) / 제출 점수 : - [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.3.html)
