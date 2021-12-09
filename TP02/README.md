@@ -50,6 +50,8 @@
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.2(2021.10.18).html)
     - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.3(2021.11.03).html)
     - 자체 평가 지표. 가장 높은 점수의 제출 파일과 비교 ver0.2(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.2(2021.12.02).html)
+    - 자체 평가 지표. 일정 정확도 이상 벗어나는 값 시각화 ver0.3(2021.12.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.3(2021.12.05).html)
+    - 자체 평가 지표, 시각화, 평가기준파일(평균값, 중앙값) 교체 테스트 ver0.4(2021.12.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.4(2021.12.09).html)
 
 
 ## 자료 분석
