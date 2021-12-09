@@ -1,9 +1,13 @@
-## 파일럿 프로젝트2 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
-  + 목표 : 타이타닉 생존자 예측
-  + 사용 기술
-    - 데이터 전처리 : pandas, seaborn, matplotlib, numpy
-    - 머신러닝 모델 : KNN, LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression, k-means, DBSCAN
-    - 검증 도구 : Kfold, LeaveOneOut
+## ✈ 파일럿 프로젝트2 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project))
+  + 주제 : 타이타닉 생존자 예측 모델 만들기
+  + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
+  + 기간 : 2021.10.19 ~ 10.20
+  + 활용 기술(Python) 🔧
+    - 데이터 전처리 : pandas, numpy
+    - 데이터 시각화 : seaborn, matplotlib
+    - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression
+    - 검증 알고리즘 : Kfold, LeaveOneOut
+  + 📊 제출 코드 [RandomForest](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [LogisticRegression](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
   + 데이터 준비(2021.10.19) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84))
     - ver0.1 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.1(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.1(titanic).html)
     - ver0.2 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.19(pilot_project_%EC%A4%80%EB%B9%84)/2021.10.19-pilot_project_%EC%A4%80%EB%B9%84ver0.2(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.19(pilot_project_준비)/2021.10.19-pilot_project_준비ver0.2(titanic).html)
@@ -12,7 +16,8 @@
     - 02 모델 선택 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_02_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_02_모델_선택(titanic).html)
     - 03 모델 개선 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_03_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EC%84%A0(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_03_모델_개선(titanic).html)
     - 04 예측 출력(랜덤 포레스트 분류) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(rf_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html)
-    - 04 예측 출력(로지스틱 분류) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(lg_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
+    - 04 예측 출력(로지스틱 회귀) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(lg_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
+
 
 
 ## 머신러닝 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
