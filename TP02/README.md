@@ -6,9 +6,12 @@
 - 발표 자료 📊 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 - 중간 발표(2021.11.04)
 - 최종 발표(2021.11.10)
-- 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정
-- ✨ 최고 점수 : **0.1030211538** (총 259팀중 **42등**)(결과 점수표 번호 33번. 2021-12-05 13:54:10)
-- **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
++ 성과
+  - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
+  - ✨ Dacon 대회(public) : **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10. 결과 점수표 번호 33번)
+  - ✨ 팀 최고 점수(private) : **20등**(총 259팀) 기록 (**0.1021660476점**. 2021-12-09 11:08:12, 팀원 김진연님)
+  - ✨ 최고 점수(private) : **21등**(총 259팀) 기록(**0.1024290902점**. 2021-12-08 11:27:16. 결과 점수표 번호 48번)
+  - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
@@ -29,11 +32,11 @@
   - 외부 데이터(시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 + 활용 기술(Python) 🔧
   - 웹 크롤링 : beautifulsoup, selenium
-  - 데이터 전처리 : pandas, numpy
-  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn
-  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
+  - 데이터 전처리 : pandas, numpy, robustscaler
+  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn, korean_Lunar_calendar(음력변환)
   - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
-  - 알고리즘 : Pycaret
+  - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
+  - 머신러닝 라이브러리 : Pycaret
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
 
@@ -153,7 +156,7 @@
 검증 점수는 최고점 파일과 비교 점수  
 기본 특성 3개 : 'month', '시간', '구분'  
 성능 향상 조건 : 구분별 훈련/, 'weekday' 추가, 'day' 제거, '습도' 추가(?) , 이상치 제거  
-36번부터 진연님 제출 파일로 비교(pycaret_robust_3models.csv, 0.1025591573, 2021-12-06 15:22:49)
+36번부터 팀원 김진연님 제출 파일로 비교(pycaret_robust_3models.csv, 0.1025591573, 2021-12-06 15:22:49)
 | 번호 | 제출 날짜 | 특성 | 조건 | 점수(private) | NMAE | R2(교차검증) |
 |---|---|---|---|---|---|---|
 | 32 | 2021-12-06 11:32:13 | 기본 + 'weekday', '기온', '기압', '습도' | 튜닝X, final X, log, 구분별, 이상치 제거 | **0.1026163003** | - | - |

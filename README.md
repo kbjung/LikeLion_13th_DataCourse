@@ -23,8 +23,8 @@
 + 역할 : 부팀장 📢
 + 활용 기술(Python) 🔧
   - 웹 크롤링 : beautifulsoup, selenium
-  - 데이터 전처리 : pandas, numpy
-  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn
+  - 데이터 전처리 : pandas, numpy, robustscaler
+  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn, korean_Lunar_calendar(음력변환)
   - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
   - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
   - 머신러닝 라이브러리 : Pycaret
@@ -34,7 +34,9 @@
 + 전체 팀 발표 자료 모음 [[link]](https://ldjwj.github.io/LikeLion_13th_DataCourse/06_team_project02/)
 + 성과
   - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
-  - ✨ Dacon 대회 **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10) 
+  - ✨ Dacon 대회(public) : **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10)
+  - ✨ 팀 최고 점수(private) : **20등**(총 259팀) 기록 (**0.1021660476점**. 2021-12-09 11:08:12, 팀원 김진연님)
+  - ✨ 최고 점수(private) : **21등**(총 259팀) 기록(**0.1024290902점**. 	2021-12-08 11:27:16)
   - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
 
 
