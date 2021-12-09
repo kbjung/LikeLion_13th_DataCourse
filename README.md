@@ -23,8 +23,8 @@
 + 역할 : 부팀장 📢
 + 활용 기술(Python) 🔧
   - 웹 크롤링 : beautifulsoup, selenium
-  - 데이터 전처리 : pandas, numpy
-  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn
+  - 데이터 전처리 : pandas, numpy, robustscaler
+  - 데이터 확인 및 분석(EDA) : matplotlib, seaborn, korean_Lunar_calendar(음력변환)
   - 특성 엔지니어링 : PolynomialFeatures, SelectPercentile
   - 머신러닝 모델(회귀) : Linear, Lasso, Ridge, RandomForest, Xgboost, Catboost, Lightgbm
   - 머신러닝 라이브러리 : Pycaret
