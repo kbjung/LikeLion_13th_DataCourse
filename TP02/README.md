@@ -75,6 +75,8 @@
       - 날짜순 정렬, 기온 데이터 숫자형으로 변환(2021.10.25) ver.0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-02_기온값_숫자형변환_ver0.1(2021.10.25).html)
       - 기상청기상자료 전처리(2021.11.15) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-03_기상청자료_정리_ver0.1(2021.11.15).html)
       - 기상청기상자료 중 가스공급량, 기온, 기압, 습도의 변화비율로 데이터 출력 ver0.1(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-04_기상청자료_비율_ver0.1(2021.12.02).html)
+      - 기상청기상자료 중 가스공급량, 기온, 기압, 습도의 변화 차로 데이터 출력 ver0.1(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-05_기상청자료_차이_ver0.1(2021.12.04).html)
+      - 자체 평가지표용 기준파일 작성(동일 월, 일, 시간의 구분별 평균, 중앙값) ver0.1(2021.12.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-06_평가지표_기준파일_만들기_ver0.1(2021.12.09).html)
   + 04 가스 공급량과 기온 데이터 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/04_%EA%B0%80%EC%8A%A4_%EA%B8%B0%EC%98%A8_%ED%95%A9%EC%B9%98%EA%B8%B0)
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기온_합치기_ver0.1(2021.10.25).html)
     - 한국가스공사 자료와 기상청 자료 합침. ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기상청자료_합치기_ver0.1(2021.11.15).html)
