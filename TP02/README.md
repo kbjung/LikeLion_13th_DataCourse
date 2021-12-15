@@ -1,4 +1,4 @@
-# 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 11.10) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+# 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 12.10) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 - 팀명 : 으샤으샤
 - 팀장 : 가채원
 - 부팀장 : **김범중**📢
