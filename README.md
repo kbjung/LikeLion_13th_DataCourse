@@ -63,6 +63,8 @@
 
 ### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
+  + 온라인 교육(2021.08.23-26) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/online_class)
+
   + 파이썬 기본 내용(2021.08.27-09.02) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
 
   + 웹의 이해 및 HTML 실습(2021.09.03-07) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/02_web)
