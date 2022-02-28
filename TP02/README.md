@@ -62,7 +62,7 @@
       - 가스공급량 데이터 확인 ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.2(2021.11.09).html)
       - 기온과 가스공급량 데이터 확인 ver0.1(2021.11.11) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-02_기온_데이터_확인_ver0.1(2021.11.11).html)
       - 기상청 자료와 가스공급량 데이터 확인(기본, 산점도) 및 이상치 확인 ver0.1(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-03_모든_데이터_확인_ver0.1(2021.12.04).html)
-      - 기상청 자료와 가스공급량 데이터 확인(일자별 합계) 및 이상치 확인 ver0.2(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-03_모든_데이터_확인_ver0.2(2021.12.02).html)
+      - 기상청 자료와 가스공급량 데이터 확인(일자별 합계) 및 이상치 확인 ver0.2(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-03_모든_데이터_확인_ver0.2(2021.12.07).html)
 
 ## 가스 공급량과 시간별 기온 데이터 확보(약 36만8천개)
   + 03 기온 데이터 웹 크롤링 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%81%AC%EB%A1%A4%EB%A7%81)
