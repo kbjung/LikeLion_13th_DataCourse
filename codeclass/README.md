@@ -1,4 +1,4 @@
-## ✍🏼 수업(2021.08.27-2021.11.12) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
+## ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
   + 파이썬 기본 내용(2021.08.27-9.2) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/01_basic)
     - 자료형, 변수
