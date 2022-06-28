@@ -18,7 +18,7 @@
     - 04 예측 출력(랜덤 포레스트 분류) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(rf_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html)
     - 04 예측 출력(로지스틱 회귀) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_%EC%98%88%EC%B8%A1_%EC%B6%9C%EB%A0%A5_(lg_c)(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
 
-
+---
 
 ## 머신러닝 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
   + KNN(2021.10.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.12)
