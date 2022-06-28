@@ -47,7 +47,7 @@
 
 
 ## 평가지표 함수화
-  + 01 모델 평가 지표(R2, MSE, RMSE, MAE, NMAE) 함수화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/01_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C_%ED%95%A8%EC%88%98%ED%99%94)
+  + 01\. 모델 평가 지표(R2, MSE, RMSE, MAE, NMAE) 함수화 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/01_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C_%ED%95%A8%EC%88%98%ED%99%94)
     - ver0.1(2021.10.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.1(2021.10.15).html)
     - ver0.2(2021.10.18) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.2(2021.10.18).html)
     - ver0.3 NMAE추가 (2021.11.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_평가지표_함수화(dacon)ver0.3(2021.11.03).html)
@@ -57,7 +57,7 @@
 
 
 ## 자료 분석
-  + 02 데이터 확인 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EC%9D%B8)
+  + 02\. 데이터 확인 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EC%9D%B8)
       - 가스공급량 데이터 확인 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.1(2021.10.21).html)
       - 가스공급량 데이터 확인 ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.2(2021.11.09).html)
       - 기온과 가스공급량 데이터 확인 ver0.1(2021.11.11) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-02_기온_데이터_확인_ver0.1(2021.11.11).html)
@@ -65,7 +65,7 @@
       - 기상청 자료와 가스공급량 데이터 확인(일자별 합계) 및 이상치 확인 ver0.2(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-03_모든_데이터_확인_ver0.2(2021.12.07).html)
 
 ## 가스 공급량과 시간별 기온 데이터 확보(약 36만8천개)
-  + 03 기온 데이터 웹 크롤링 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%81%AC%EB%A1%A4%EB%A7%81)
+  + 03\. 기온 데이터 웹 크롤링 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%81%AC%EB%A1%A4%EB%A7%81)
       - webdriver, bs, np, pd 활용 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.1(2021.10.21).html)
       - 날짜, 기온 인덱스 확인 ver0.2(2021.10.23) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.2(2021.10.23).html)
       - 연도별 크롤링, 결측값 처리 테스트 ver0.3(2021.10.23) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-01_데이터_크롤링_ver0.3(2021.10.23).html)
@@ -79,26 +79,26 @@
       - 기상청기상자료 중 가스공급량, 기온, 기압, 습도의 변화비율로 데이터 출력 ver0.1(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-04_기상청자료_비율_ver0.1(2021.12.02).html)
       - 기상청기상자료 중 가스공급량, 기온, 기압, 습도의 변화 차로 데이터 출력 ver0.1(2021.12.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-05_기상청자료_차이_ver0.1(2021.12.04).html)
       - 자체 평가지표용 기준파일 작성(동일 월, 일, 시간의 구분별 평균, 중앙값) ver0.1(2021.12.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/03_데이터_크롤링/03-06_평가지표_기준파일_만들기_ver0.1(2021.12.09).html)
-  + 04 가스 공급량과 기온 데이터 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/04_%EA%B0%80%EC%8A%A4_%EA%B8%B0%EC%98%A8_%ED%95%A9%EC%B9%98%EA%B8%B0)
+  + 04\. 가스 공급량과 기온 데이터 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/04_%EA%B0%80%EC%8A%A4_%EA%B8%B0%EC%98%A8_%ED%95%A9%EC%B9%98%EA%B8%B0)
     - 가스 공급량과 기온 셋 합침(2021.10.25) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기온_합치기_ver0.1(2021.10.25).html)
     - 한국가스공사 자료와 기상청 자료 합침. ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기상청자료_합치기_ver0.1(2021.11.15).html)
     - 한국가스공사 자료와 기상청 자료 합친 후 이상치 처리 ver0.2(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/04_가스_기온_합치기/04_가스_기상청자료_합치기_이상치처리_ver0.2(2021.12.07))
 
 
 ## 가스 공급량과 시간별 기온 데이터 전처리
-  + 05 결측값 처리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/05_%EA%B2%B0%EC%B8%A1%EC%B9%98_%EC%B2%98%EB%A6%AC)
+  + 05\. 결측값 처리 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/05_%EA%B2%B0%EC%B8%A1%EC%B9%98_%EC%B2%98%EB%A6%AC)
     - 기온 데이터 결측값 확인, 처리 방법 테스트 ver0.1(2021.10.27) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.1(2021.10.27).html)
     - 기온 결측치 같은 날짜의 기온 평균으로 처리 함수화, 각 해의 마지막 일(원 사이트에서 없는 자료)의 기온 바로 전시간 기온으로 처리 ver0.3(2021.10.28) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-01_결측치_처리_ver0.3(2021.10.28).html)
     - 기상청기상자료 결측치 처리(interpolate) ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/05_결측치_처리/05-02_결측치_처리_ver0.1(2021.11.15).html)
 
 
 ## 2019년 기온 예측과 공급량 예측
-  + 06 모델 테스트 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/06_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D)
+  + 06\. 모델 테스트 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/06_%EB%AA%A8%EB%8D%B8_%EC%84%A0%ED%83%9D)
     - 선형회귀 모델로 공급량 예측 테스트(정규화, 표준화)(2021.10.29) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06_모델_선택/06-01_선형회귀_테스트_ver0.1(2021.10.29).html)
     - 선형회귀, Lasso, Ridge 공급량 테스트(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06_모델_선택/06-01_선형회귀_테스트_ver0.2(2021.11.04).html)
     - XGB회귀 모델로 기온 예측, 2019년 공급량 예측(예측 기온 포함 데이터)(2021.11.01) ver0.1 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06_모델_선택/06-02_모델_테스트(xgb)_ver0.1(2021.11.01).html)
     - XGB회귀, 랜덤포레스트 회귀로 2019년 기온, 가스공급량 예측(2021.11.04) ver0.2 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/06_모델_선택/06-02_모델_테스트(xgb,rf)_ver0.2(2021.11.04).html)
-  + 07 공급량 예측 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/07_%EA%B2%B0%EA%B3%BC_%EC%B6%9C%EB%A0%A5)
+  + 07\. 공급량 예측 출력 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/07_%EA%B2%B0%EA%B3%BC_%EC%B6%9C%EB%A0%A5)
     - XGB회귀 모델, 2019년 예측 기온 데이터 포함 ver0.1(2021.11.03) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-01_결과_출력(xgb)_ver0.1(2021.11.01).html)
     - XGB회귀 모델 +평가지표로 평가 ver0.2(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-01_결과_출력(xgb)_ver0.2(2021.11.04).html)
     - 랜덤포레스트 회귀 모델로 기온, 공급량 예측 ver0.1(2021.11.04) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-02_결과_출력(random_forest)_ver0.1(2021.11.04).html)
@@ -112,7 +112,7 @@
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(다항특성 적용) ver0.3(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.3(2021.11.09).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 5개, 다항특성 적용) ver0.4(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.4(2021.11.09).html)
     - 랜덤포레스트 회귀 예측과 CatBoost 회귀 예측의 평균(특성 4개, log, 다항특성 적용) ver0.5(colab)(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-04_결과_출력(rf+cat)_ver0.5(colab)(2021.11.09).html)
-  + 07 공급량 예측 출력(pycaret) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/07_%EA%B2%B0%EA%B3%BC_%EC%B6%9C%EB%A0%A5)
+  + 07\. 공급량 예측 출력(pycaret) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/07_%EA%B2%B0%EA%B3%BC_%EC%B6%9C%EB%A0%A5)
     - 기상청자료(기온, 기압, 습도)이용, pycaret이용
     - 특성 8개 ver0.1(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.1(2021.11.15).html)
     - ver0.2(2021.11.15) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/07_결과_출력/07-05_결과_출력(pycaret)_ver0.2(2021.11.15).html)
@@ -146,7 +146,7 @@
     - 기온, 기압, 습도 예측 : 'lunar_month', 'lunar_day', 'weekay', '시간' top3 모델 평균
     - 가스공급량 예측 특성(7개) : 'lunar_month', 'lunar_day', 'weekday', '시간', '구분', '기온', '기압'
     - 가스공급량 예측 설정 : robust, transform, 튜닝X, final O, 구분별, cat/lgbm 평균
-  + 08 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
+  + 08\. 팀 결과 종합 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/08_%EC%A2%85%ED%95%A9)
     - (랜덤포레스트, 캣부스트) + (lgbm, knn : 팀원 김진연님) ver0.1(2021.11.10) / 제출 점수 : 0.1110990574(46등) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.1.html)
     - (cat, lgbm) + (cat, lgbm, xgb : 팀원 김진연님) ver0.3(2021.12.07) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.3.html)
     - (cat, lgbm) + (cat, lgbm, xgb : 팀원 김진연님) ver0.4(2021.12.10) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/08_종합/08-01_team_result_ver0.4.html)
