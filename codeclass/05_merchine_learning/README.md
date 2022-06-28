@@ -22,10 +22,10 @@
 
 ## 머신러닝 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning)
   + KNN(2021.10.12) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.12)
-    - [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.12/2021.10.12/01_ML.html)
-    - [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.12/2021.10.12/02_KNN.html)
+    - [code1](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.12/01_ML.ipynb) / [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.12/01_ML.html)
+    - [code2](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.12/02_KNN.ipynb) / [code2(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.12/02_KNN.html)
   + LinearRegression(2021.10.13) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.13)
-    - [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.13/2021.10.13_01_LR.html) 
+    - [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.13/2021.10.13_01_LR.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.13/2021.10.13_01_LR.html) 
     - Lasso, Ridge(house_price in Kaggle) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.13/2021.10.13-02_house_price.html)
   + DecisionTreeClassifier, Ensemble(RandomForestClassifier)(2021.10.14) [folder](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.14)
     - DecisionTreeClassifier [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.14/2021.10.14_01_decisiontree(colab).html)
