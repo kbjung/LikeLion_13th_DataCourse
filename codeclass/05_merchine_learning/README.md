@@ -71,12 +71,12 @@
     - 04 wandb, colab을 이용한 최적의 하이퍼파라미터 자동선택 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.11.05/mycode/Lab_04_WanDB.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/mycode/Lab_04_WanDB.html)
 ---
 ### 특강
-+ 특강(김태진 외부강사) : 데이터 분석 분야 전반적 내용과 현직 경험(2021.10.22) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.22(%ED%8A%B9%EA%B0%95))
-+ 특강(박조은 외부강사) : 실무 데이터 분석(2021.10.26) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95))
++ 김태진 외부강사 : 데이터 분석 분야 전반적 내용과 현직 경험(2021.10.22) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.22(%ED%8A%B9%EA%B0%95))
++ 박조은 외부강사 : 실무 데이터 분석(2021.10.26) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95))
   - EDA(탐색적 데이터 분석)(Cohort, 잔존률 분석) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/01-basic-eda-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/01-basic-eda-input.html)
   - RFM(거래의 최근성, 빈도수, 규모) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/02-RFM-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/02-RFM-input.html)
   - 군집 모델 분석 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/05_merchine_learning/2021.10.26(%ED%8A%B9%EA%B0%95)/03-clustering-input.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.26(특강)/03-clustering-input.html)
-+ 데이터 분석 특강(강천성 외부강사)(2021.11.05) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.11.05)
++ 강천성 외부강사 : 데이터 분석(2021.11.05) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.11.05)
   - 01 신용카드 연체 가능성(kaggle 데이터) 데이터 전처리 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_01_Data_preprocess.html)
   - 02 여러 모델로 예측 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_02_Classification.html)
   - 03 교차평가 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.11.05/code/Lab_03_Model_Validation.html)
