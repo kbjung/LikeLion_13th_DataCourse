@@ -9,7 +9,7 @@
 ## 👨‍💻 팀 정보
 - 팀명 : 으샤으샤
 - 팀장 : 가채원
-- 부팀장 : **김범중**📢
+- 부팀장 : **김범중** 📢
 - 팀원 : 김진연, 윤진훈
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
