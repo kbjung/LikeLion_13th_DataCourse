@@ -1,9 +1,8 @@
 # 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 12.10) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
 ## 🏆 대회 정보
-- 대회 : 가스공급량 수요예측 모델개발(Dacon)
-- 기간 : 2021.10.11 ~ 2021.12.10 23:00
-- 대회 링크 : https://dacon.io/competitions/official/235830/overview/description
+- 대회 : 가스공급량 수요예측 모델개발(Dacon) [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
+- 기간 : 2021.10.11 ~ 2021.12.10 23:00 
 - 주제 : 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
 - 목표 : 대회에서 실제 데이터를 다루어 데이터 수집부터 분석, 모델 선정까지 데이터 마이닝 과정을 경험하고 활용 기술 향상
 
