@@ -11,6 +11,8 @@
 - 팀장 : 가채원
 - 부팀장 : **김범중**📢
 - 팀원 : 김진연, 윤진훈
+- 팀 이미지
+<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
 ## 🔧 활용 기술(Python)
   - 웹 크롤링 : beautifulsoup, selenium
@@ -31,8 +33,6 @@
   - ✨ Dacon 대회(public) : **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10. 결과 점수표 번호 33번)
   - ✨ 최고 점수(private) : **22등**(총 259팀) 기록(**0.10208606점**. 2021-12-10 10:48:55. 결과 점수표 번호 t04번)
   - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
-- 팀 이미지
-<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
 
 ## 전략
