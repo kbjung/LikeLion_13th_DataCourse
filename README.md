@@ -18,7 +18,7 @@
 ### 팀프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 + 대회 : Dacon 가스공급량 수요예측 모델개발 [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
 + 기간 : 2021.10.15 ~ 2021.12.10
-+ 주제 : 2019년 가스공급량 예측
++ 주제 : 2019년 1-3월 가스공급량 예측
 + 목표 : 웹 크롤링과 데이터 전처리, 머신러닝에 대한 이해, 기술 활용 능력 향상
 + 역할 : 부팀장 📢
 + 활용 기술(Python) 🔧
