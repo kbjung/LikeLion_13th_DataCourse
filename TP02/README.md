@@ -1,4 +1,4 @@
-# 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 12.10) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+# 🤝🏼 팀 프로젝트 02 [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
 
 ## 🏆 대회 정보
 - 대회 : 가스공급량 수요예측 모델개발(Dacon) [[대회링크]](https://dacon.io/competitions/official/235830/overview/description)
