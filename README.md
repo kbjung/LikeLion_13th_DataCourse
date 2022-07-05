@@ -61,7 +61,7 @@
   + 제출 코드 📊 [[RandomForest]](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(rf_c)(titanic).html) / [[LogisticRegression]](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/05_merchine_learning/2021.10.20(pilot_project)/2021.10.20-pilot_project_04_예측_출력_(lg_c)(titanic).html)
 
 
-### ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
+## ✍🏼 수업 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass)
 
   + 00\. 온라인 교육(2021.08.23-26) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/online_class)
 
@@ -78,4 +78,4 @@
   + 06\. 딥러닝(2021.11.02-11.12) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
 
 ---
-### 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
+## 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice)
