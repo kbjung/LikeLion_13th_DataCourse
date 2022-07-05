@@ -1,4 +1,13 @@
 # 🤝🏼 팀 프로젝트 02(2021.10.15 ~ 12.10) [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02)
+
+## 🏆 대회 정보
+- 대회 : 가스공급량 수요예측 모델개발(Dacon)
+- 기간 : 2021.10.11 ~ 2021.12.10 23:00
+- 대회 링크 : https://dacon.io/competitions/official/235830/overview/description
+- 주제 : 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
+- 목표 : 대회에서 실제 데이터를 다루어 데이터 수집부터 분석, 모델 선정까지 데이터 마이닝 과정을 경험하고 활용 기술 향상
+
+## 👨‍💻 팀정보
 - 팀명 : 으샤으샤
 - 팀장 : 가채원
 - 부팀장 : **김범중**📢
@@ -6,32 +15,8 @@
 - 발표 자료 📊 [Notion](https://www.notion.so/Team-Project-2nd-e4fe4fbfc5224661ad60074883f00e58)
 - 중간 발표(2021.11.04)
 - 최종 발표(2021.11.10)
-+ 성과
-  - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
-  - ✨ Dacon 대회(public) : **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10. 결과 점수표 번호 33번)
-  - ✨ 최고 점수(private) : **22등**(총 259팀) 기록(**0.10208606점**. 2021-12-10 10:48:55. 결과 점수표 번호 t04번)
-  - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
-- 팀 이미지
-<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
 
-    
-## 대회 : 가스공급량 수요예측 모델개발(Dacon)
-- 기간 : 2021.10.11 ~ 2021.12.10 23:00
-- 대회 링크 : https://dacon.io/competitions/official/235830/overview/description
-
-
-## 주제 : 가스공급량 수요예측 모델개발(Dacon)
-+ 목표
-  - 2013-2018년 데이터로 훈련, 2019년 1-3월 가스공급량 예측 정확도를 높인다.
-  - 대회에서 실제 데이터를 다루어 데이터 수집부터 분석, 모델 선정까지 데이터 마이닝 과정을 경험하고 활용 기술 향상
-
-
-## 전략
-+ 전략
-  - 1-3월만 예측하니 해당 월만 모델 훈련(과대적합 우려)
-  - 연도별 변화가 있으므로 연도를 제거해서 모델 훈련
-  - 외부 데이터(시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
-+ 활용 기술(Python) 🔧
+## 🔧 활용 기술(Python)
   - 웹 크롤링 : beautifulsoup, selenium
   - 데이터 전처리 : pandas, numpy, robustscaler
   - 데이터 확인 및 분석(EDA) : matplotlib, seaborn, korean_Lunar_calendar(음력변환)
@@ -40,6 +25,20 @@
   - 머신러닝 라이브러리 : Pycaret
   - 교차검증 : Kfold(shuffle)
   - 평가지표 : NMAE(대회 평가지표), MSE, RMSE, MAE, MAPE, R2
+
+## 👏 성과
+  - 🥇 13회차 교육 코스 내 최고의 팀 프로젝트 선정 
+  - ✨ Dacon 대회(public) : **42등**(총 259팀) 기록(**0.1030211538점**. 2021-12-05 13:54:10. 결과 점수표 번호 33번)
+  - ✨ 최고 점수(private) : **22등**(총 259팀) 기록(**0.10208606점**. 2021-12-10 10:48:55. 결과 점수표 번호 t04번)
+  - **결과 점수 모음 표 [[PAGE]](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/results.md)**
+- 팀 이미지
+<img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
+
+
+## 전략
+- 1-3월만 예측하니 해당 월만 모델 훈련(과대적합 우려)
+- 연도별 변화가 있으므로 연도를 제거해서 모델 훈련
+- 외부 데이터(시간별 기온, 날씨 등)을 활용하여 모델 정확도 높이기
 
 
 ## 자료 링크
