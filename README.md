@@ -4,9 +4,9 @@
 
 ## 🤝🏼 팀프로젝트
 ### 팀프로젝트1 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
++ 기간 : 2021.09.17 ~ 10.08 (3주)
 + 주제 : 코로나19에 따른 생활 양상 변화
 + 목표 : 웹 크롤링과 데이터 활용을 통한 데이터 처리 능력 향상
-+ 기간 : 2021.09.17 ~ 10.08 (3주)
 + 역할 : 팀장 📢
 + 활용 기술(Python) 🔧
   - 웹 크롤링 : selenium, beautifulsoup
