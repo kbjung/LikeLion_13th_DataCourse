@@ -1,4 +1,4 @@
-## 딥러닝 입문(2021.11.02-11.12) [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning)
+## 딥러닝 입문(2021.11.02-11.12) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning#readme)
   + 기초(2021.11.02) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning/2021.11.02)
     - tensorflow 설치 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/06_deep_learning/2021.11.02/2021.11.02-01_tf%EC%84%A4%EC%B9%98.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-01_tf설치.html)
     - numpy를 통한 차원 설명 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/06_deep_learning/2021.11.02/2021.11.02-02_basic.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/06_deep_learning/2021.11.02/2021.11.02-02_basic.html)
