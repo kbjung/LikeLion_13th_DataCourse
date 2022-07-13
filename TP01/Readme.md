@@ -1,4 +1,4 @@
-# 🤝🏼 팀 프로젝트 01 [[폴더]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01)
+# 🤝🏼 팀 프로젝트 01 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP01#readme)
 
 ## 📃 프로젝트 정보
 + 주제 : 코로나19에 따른 생활 양상 변화
