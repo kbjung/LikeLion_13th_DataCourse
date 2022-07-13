@@ -1,4 +1,4 @@
-# Python-test [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/online_class#readme)
+# 온라인 클래스 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/online_class#readme)
 
 ## 1. 일단 만드는 Python(2021.08.23)
   - list 정리 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/online_class/1.%20%EC%9D%BC%EB%8B%A8%20%EB%A7%8C%EB%93%9C%EB%8A%94%20Python/list.py)
