@@ -3,7 +3,7 @@
   - kaggle에서 titanic 데이터 분석 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/04_data_analysis/2021.09.15/02_kaggle(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.15/02_kaggle(titanic).html)
 
 
-## Pandas 실습
+### Pandas 실습
   + DataFrame, Series(2021.09.16) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/04_data_analysis/2021.09.16)
     - 데이터 접근(.loc[ ], .iloc[ ]), 행열 조건 지정 선택, 통계(합, 평균 등) [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/04_data_analysis/2021.09.16/01_pandas.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.16/01_pandas.html)
     - groupby이용한 데이터 분류, seaborn이용 그래프 생성(titanic 자료) [ver0.4-code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/04_data_analysis/2021.09.16/02_titanic_data_sort_ver0.4.ipynb) / [ver0.4-code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.16/02_titanic_data_sort_ver0.4.html)
