@@ -1,4 +1,4 @@
-## 크롤링 실습 [상세내용](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling)
+## 크롤링 실습 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling#readme)
   + 코스닥 정보 크롤링 실습(2021.09.08)
     - 네이버 금융 코스닥 크롤링 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.08/05_stack_get.py)
   + 영화 댓글 크롤링 실습(2021.09.09)
