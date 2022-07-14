@@ -2,7 +2,7 @@
   + 기간 : 2021.10.19 ~ 10.20
   + 주제 : 타이타닉 생존자 예측 모델 만들기
   + **목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용**
-  + 활용 기술(Python) 🔧
+  + 🔧 활용 기술(Python)
     - 데이터 전처리 : pandas, numpy
     - 데이터 시각화 : seaborn, matplotlib
     - 머신러닝 모델 : LinearRegression, Lasso, Ridge, Knn, DecisionTree, RandomForest, LogisticRegression
