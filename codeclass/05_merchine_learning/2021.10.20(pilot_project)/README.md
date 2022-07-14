@@ -1,7 +1,7 @@
 ## ✈ 파일럿 프로젝트2 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/05_merchine_learning/2021.10.20(pilot_project)#readme)
-  + 주제 : 타이타닉 생존자 예측 모델 만들기
-  + 목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용
   + 기간 : 2021.10.19 ~ 10.20
+  + 주제 : 타이타닉 생존자 예측 모델 만들기
+  + **목표 : 데이터 전처리, 머신러닝 모델, 검증 기술 활용**
   + 활용 기술(Python) 🔧
     - 데이터 전처리 : pandas, numpy
     - 데이터 시각화 : seaborn, matplotlib
