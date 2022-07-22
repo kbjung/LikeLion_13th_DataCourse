@@ -1,5 +1,5 @@
 # 🤹‍♂️ 코드 연습
-## ✍🏼 수업
+## ✍🏼 수업 코드 연습
 + 2021.08.31 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.08.31-prac)
   - 문자열 포메팅, 파일 읽고 쓰기, 함수
 + 2021.09.01 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.09.01-prac)
@@ -29,7 +29,7 @@
 + 2021.10.13 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice/2021.10.13-LinearRegression)
   - LinearRegression
 
-## 점프 투 파이썬 [[link]](https://wikidocs.net/book/1)
+## ☑ 점프 투 파이썬 [[link]](https://wikidocs.net/book/1)
 + 02장 파이썬 프로그래밍의 기초, 자료형 
   - 연습문제 [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/practice/jump_to_python/ch02_ex.ipynb)
 + 03장 프로그램의 구조를 쌓는다! 제어문
