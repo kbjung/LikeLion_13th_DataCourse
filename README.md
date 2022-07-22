@@ -81,4 +81,4 @@
   + 06\. 딥러닝(2021.11.02-11.12) [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/06_deep_learning#readme)
 
 ---
-## 🤹🏼‍♂️ 코드 연습 [[연습파일들]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice#readme)
+## 🤹🏼‍♂️ 코드 연습 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/practice#readme)
