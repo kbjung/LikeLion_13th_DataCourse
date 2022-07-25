@@ -1,4 +1,4 @@
-### 데이터 분석 [[상세내용]]()
+### 데이터 분석 [[상세내용]](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/04_data_analysis#readme)
 + 연습(2021.09.15)
   - matplotlib, seaborn, numpy 라이브러리 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/04_data_analysis/2021.09.15/01_class.ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.15/01_class.html)
   - kaggle에서 titanic 데이터 분석 연습 [code](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/04_data_analysis/2021.09.15/02_kaggle(titanic).ipynb) / [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.15/02_kaggle(titanic).html)
