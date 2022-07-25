@@ -2,6 +2,7 @@
   + 코스닥 정보 크롤링 실습(2021.09.08)
     - 네이버 금융 코스닥 크롤링 [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.08/05_stack_get.ipynb)
   + 영화 댓글 크롤링 실습(2021.09.09)
+    - 네이버 영화 정보 수집 [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.09/09_movie_01.ipynb)
     - 코다 댓글을 파일로 만들기 [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.09/kbj_wordcloud/14_movie.ipynb)
     - 코다 댓글을 wordcloud를 이용해 시각화하기 [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/codeclass/03_crawling/2021.09.09/kbj_wordcloud/14_movie_vis.ipynb)
   + 웹 크롤링 실습(2021.09.10) [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/codeclass/03_crawling/2021.09.10)
