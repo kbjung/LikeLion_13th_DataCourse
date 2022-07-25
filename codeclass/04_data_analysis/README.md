@@ -10,7 +10,7 @@
     - corona 데이터 가공 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.27/02_class(corona).html)
     - titanic 데이터 가공 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.27/03_class(titanic).html)
 + Folium 실습(2021.09.23)
-    - 서울시 공공 자전거 대여소 지도 표시 [code1(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/01_folium(colab).html)
+    - 서울시 공공 자전거 대여소 지도 표시 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/01_folium(colab).html)
     - 서울시 공공 자전거 대여소 100개 지도 표시  [map(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/my_place/seoul_public_bike_rent_map.html)
     - 서울시 공공 자전거 대여소 500개 지도 표시 [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/02_folium(colab).html) / [map(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/my_place/seoul_public_bike_rent_map_500.html)
     - 서울시 공공 화장실 4938개 지도 표시(**주의! 페이지 로드 시간 김.**) [map(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/codeclass/04_data_analysis/2021.09.23/seoul_toilet_4938.html)
