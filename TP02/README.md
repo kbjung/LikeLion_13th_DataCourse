@@ -10,6 +10,7 @@
 - 팀명 : 으샤으샤
 - 팀장 : 가채원
 - 부팀장 : **김범중** 📢
+  - 역할 : 데이터 수집 및 전처리, 분석, 모델 비교 및 개선, 결과 종합, 발표 자료 정리
 - 팀원 : 김진연, 윤진훈
 - 팀 이미지
 <img src="https://user-images.githubusercontent.com/88702587/137842353-f41cd815-4d79-4654-bb85-e2a58f8ca6ec.png" width=30%>
@@ -61,7 +62,7 @@
     - 자체 평가 지표, 시각화, 평가기준파일(평균값, 중앙값) 교체 테스트 ver0.4(2021.12.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.4(2021.12.09).html)
 
 
-## 자료 분석
+## 데이터 분석
   + 02\. 데이터 확인 [폴더](https://github.com/kbjung/LikeLion_13th_DataCourse/tree/main/TP02/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EC%9D%B8)
       - 가스공급량 데이터 확인 ver0.1(2021.10.21) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.1(2021.10.21).html)
       - 가스공급량 데이터 확인 ver0.2(2021.11.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/02_데이터_확인/02-01_가스공급량_데이터_확인_ver0.2(2021.11.09).html)
