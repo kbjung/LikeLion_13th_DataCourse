@@ -60,6 +60,7 @@
     - 자체 평가 지표. 가장 높은 점수의 제출 파일과 비교 ver0.2(2021.12.02) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.2(2021.12.02).html)
     - 자체 평가 지표. 일정 정확도 이상 벗어나는 값 시각화 ver0.3(2021.12.05) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.3(2021.12.05).html)
     - 자체 평가 지표, 시각화, 평가기준파일(평균값, 중앙값) 교체 테스트 ver0.4(2021.12.09) [code(html)](https://kbjung.github.io/LikeLion_13th_DataCourse/TP02/01_평가지표_함수화/01_자체평가지표_ver0.4(2021.12.09).html)
+    - 시각화 함수의 잘못된 매개변수 수정 ver0.5(2022.08.03) [ipynb](https://github.com/kbjung/LikeLion_13th_DataCourse/blob/main/TP02/01_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C_%ED%95%A8%EC%88%98%ED%99%94/01_%EC%9E%90%EC%B2%B4%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C_ver0.5(2022.08.03).ipynb) 
 
 
 ## 데이터 분석
